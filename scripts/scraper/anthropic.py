@@ -7,7 +7,7 @@ from typing import Any
 from urllib.request import urlopen, Request
 
 from .base import BaseScraper, Job
-from .utils import slugify, hash_description
+from .utils import hash_description
 
 
 class AnthropicScraper(BaseScraper):
@@ -65,8 +65,8 @@ class AnthropicScraper(BaseScraper):
             # Decode HTML entities (API returns escaped HTML)
             content_html = html.unescape(job_detail.get("content", ""))
 
-            # Generate stable unique ID: slug + greenhouse ID
-            job_id = f"{slugify(title)}-{gh_id}"
+            # Use Greenhouse ID directly for stability
+            job_id = str(gh_id)
 
             job = Job(
                 id=job_id,
