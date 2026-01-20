@@ -4,6 +4,8 @@ import hashlib
 import html
 import re
 from datetime import datetime, timezone
+from html.parser import HTMLParser
+from typing import Optional
 
 
 def slugify(text: str) -> str:
@@ -48,57 +50,139 @@ def normalize_whitespace(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+class _MarkdownConverter(HTMLParser):
+    """HTML to Markdown converter using Python's built-in parser."""
+
+    def __init__(self):
+        super().__init__()
+        self.output: list[str] = []
+        self.list_stack: list[str] = []  # Track nested lists ('ul' or 'ol')
+        self.list_counters: list[int] = []  # Track ordered list counters
+        self.current_link: Optional[str] = None
+        self.in_pre = False
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, Optional[str]]]) -> None:
+        tag = tag.lower()
+        attrs_dict = dict(attrs)
+
+        if tag in ("h1", "h2", "h3", "h4", "h5", "h6"):
+            level = int(tag[1])
+            self.output.append(f"\n\n{'#' * level} ")
+        elif tag == "p":
+            self.output.append("\n\n")
+        elif tag == "br":
+            self.output.append("\n")
+        elif tag in ("strong", "b"):
+            self.output.append("**")
+        elif tag in ("em", "i"):
+            self.output.append("*")
+        elif tag == "a":
+            self.current_link = attrs_dict.get("href", "")
+            self.output.append("[")
+        elif tag == "ul":
+            self.list_stack.append("ul")
+            self.output.append("\n")
+        elif tag == "ol":
+            self.list_stack.append("ol")
+            self.list_counters.append(0)
+            self.output.append("\n")
+        elif tag == "li":
+            indent = "  " * (len(self.list_stack) - 1)
+            if self.list_stack and self.list_stack[-1] == "ol":
+                self.list_counters[-1] += 1
+                self.output.append(f"{indent}{self.list_counters[-1]}. ")
+            else:
+                self.output.append(f"{indent}- ")
+        elif tag == "pre":
+            self.in_pre = True
+            self.output.append("\n```\n")
+        elif tag == "code" and not self.in_pre:
+            self.output.append("`")
+        elif tag == "hr":
+            self.output.append("\n\n---\n\n")
+        elif tag == "blockquote":
+            self.output.append("\n> ")
+
+    def handle_endtag(self, tag: str) -> None:
+        tag = tag.lower()
+
+        if tag in ("h1", "h2", "h3", "h4", "h5", "h6"):
+            self.output.append("\n")
+        elif tag == "p":
+            self.output.append("\n")
+        elif tag in ("strong", "b"):
+            self.output.append("**")
+        elif tag in ("em", "i"):
+            self.output.append("*")
+        elif tag == "a":
+            if self.current_link:
+                self.output.append(f"]({self.current_link})")
+            else:
+                self.output.append("]")
+            self.current_link = None
+        elif tag == "ul":
+            if self.list_stack and self.list_stack[-1] == "ul":
+                self.list_stack.pop()
+            self.output.append("\n")
+        elif tag == "ol":
+            if self.list_stack and self.list_stack[-1] == "ol":
+                self.list_stack.pop()
+                if self.list_counters:
+                    self.list_counters.pop()
+            self.output.append("\n")
+        elif tag == "li":
+            self.output.append("\n")
+        elif tag == "pre":
+            self.in_pre = False
+            self.output.append("\n```\n")
+        elif tag == "code" and not self.in_pre:
+            self.output.append("`")
+        elif tag == "blockquote":
+            self.output.append("\n")
+
+    def handle_data(self, data: str) -> None:
+        if self.in_pre:
+            self.output.append(data)
+        else:
+            # Normalize whitespace but preserve single spaces
+            text = re.sub(r"\s+", " ", data)
+            self.output.append(text)
+
+    def handle_entityref(self, name: str) -> None:
+        char = html.unescape(f"&{name};")
+        self.output.append(char)
+
+    def handle_charref(self, name: str) -> None:
+        char = html.unescape(f"&#{name};")
+        self.output.append(char)
+
+    def get_markdown(self) -> str:
+        result = "".join(self.output)
+        # Clean up excessive whitespace
+        result = re.sub(r"\n{3,}", "\n\n", result)
+        result = re.sub(r" +", " ", result)
+        # Clean up trailing spaces on lines
+        result = re.sub(r" +\n", "\n", result)
+        # Fix headers that have bold inside them (##**text** -> ## text)
+        result = re.sub(r"(#{1,6}) \*\*(.+?)\*\*", r"\1 \2", result)
+        # Remove colons at end of headers if they're the only formatting
+        result = re.sub(r"(#{1,6} .+):\n", r"\1\n", result)
+        return result.strip()
+
+
 def html_to_markdown(html_content: str) -> str:
-    """Convert HTML to simple Markdown.
+    """Convert HTML to Markdown using a proper parser.
 
-    Handles common elements: headers, paragraphs, lists, links, bold/italic.
+    Handles common elements: headers, paragraphs, lists, links, bold/italic,
+    code blocks, blockquotes, and horizontal rules.
     """
-    text = html_content
-
-    # Handle line breaks
-    text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
-
-    # Headers
-    for i in range(1, 7):
-        text = re.sub(
-            rf"<h{i}[^>]*>(.*?)</h{i}>",
-            r"\n" + "#" * i + r" \1\n",
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
-        )
-
-    # Bold
-    text = re.sub(r"<(strong|b)[^>]*>(.*?)</\1>", r"**\2**", text, flags=re.IGNORECASE | re.DOTALL)
-
-    # Italic
-    text = re.sub(r"<(em|i)[^>]*>(.*?)</\1>", r"*\2*", text, flags=re.IGNORECASE | re.DOTALL)
-
-    # Links
-    text = re.sub(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', r"[\2](\1)", text, flags=re.IGNORECASE | re.DOTALL)
-
-    # Unordered lists
-    text = re.sub(r"<ul[^>]*>", "\n", text, flags=re.IGNORECASE)
-    text = re.sub(r"</ul>", "\n", text, flags=re.IGNORECASE)
-    text = re.sub(r"<li[^>]*>(.*?)</li>", r"- \1\n", text, flags=re.IGNORECASE | re.DOTALL)
-
-    # Ordered lists
-    text = re.sub(r"<ol[^>]*>", "\n", text, flags=re.IGNORECASE)
-    text = re.sub(r"</ol>", "\n", text, flags=re.IGNORECASE)
-
-    # Paragraphs
-    text = re.sub(r"<p[^>]*>(.*?)</p>", r"\1\n\n", text, flags=re.IGNORECASE | re.DOTALL)
-
-    # Divs and spans (just remove tags)
-    text = re.sub(r"<div[^>]*>(.*?)</div>", r"\1\n", text, flags=re.IGNORECASE | re.DOTALL)
-    text = re.sub(r"<span[^>]*>(.*?)</span>", r"\1", text, flags=re.IGNORECASE | re.DOTALL)
-
-    # Remove any remaining tags
-    text = strip_html(text)
-
-    # Clean up excessive newlines
-    text = re.sub(r"\n{3,}", "\n\n", text)
-
-    return text.strip()
+    converter = _MarkdownConverter()
+    try:
+        converter.feed(html_content)
+        return converter.get_markdown()
+    except Exception:
+        # Fallback: just strip HTML tags
+        return strip_html(html_content)
 
 
 def get_today_utc() -> str:

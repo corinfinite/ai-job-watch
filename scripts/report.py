@@ -57,47 +57,11 @@ def truncate_url(url: str) -> str:
 
 
 def load_description(descriptions_dir: Path, job_id: str) -> str:
-    """Load job description from markdown file."""
-    desc_file = descriptions_dir / f"{job_id}.md"
+    """Load job description from HTML file."""
+    desc_file = descriptions_dir / f"{job_id}.html"
     if desc_file.exists():
         return desc_file.read_text()
     return ""
-
-
-def markdown_to_html(text: str) -> str:
-    """Convert simple markdown to HTML."""
-    # Headers
-    text = re.sub(r"^### (.+)$", r"<h3>\1</h3>", text, flags=re.MULTILINE)
-    text = re.sub(r"^## (.+)$", r"<h3>\1</h3>", text, flags=re.MULTILINE)
-    text = re.sub(r"^# (.+)$", r"<h3>\1</h3>", text, flags=re.MULTILINE)
-
-    # Bold and italic
-    text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
-    text = re.sub(r"\*(.+?)\*", r"<em>\1</em>", text)
-
-    # Lists
-    lines = text.split("\n")
-    in_list = False
-    result = []
-    for line in lines:
-        if line.strip().startswith("- "):
-            if not in_list:
-                result.append("<ul>")
-                in_list = True
-            result.append(f"<li>{line.strip()[2:]}</li>")
-        else:
-            if in_list:
-                result.append("</ul>")
-                in_list = False
-            # Wrap non-empty lines that aren't headers in <p>
-            if line.strip() and not line.strip().startswith("<"):
-                result.append(f"<p>{line}</p>")
-            else:
-                result.append(line)
-    if in_list:
-        result.append("</ul>")
-
-    return "\n".join(result)
 
 
 def generate_report(
@@ -140,7 +104,7 @@ def generate_report(
         for job in diff.new_jobs:
             job_copy = dict(job)
             desc = load_description(descriptions_dir, job["id"])
-            job_copy["description_html"] = markdown_to_html(desc) if desc else "<p>No description available.</p>"
+            job_copy["description_html"] = desc if desc else "<p>No description available.</p>"
             new_jobs.append(job_copy)
 
         changed_jobs = []
@@ -155,7 +119,7 @@ def generate_report(
                 "last_seen": change.last_seen,
             }
             desc = load_description(descriptions_dir, change.job_id)
-            job_data["description_html"] = markdown_to_html(desc) if desc else "<p>No description available.</p>"
+            job_data["description_html"] = desc if desc else "<p>No description available.</p>"
             changed_jobs.append(job_data)
 
         company_report = CompanyReport(

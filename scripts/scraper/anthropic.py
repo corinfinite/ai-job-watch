@@ -1,13 +1,13 @@
 """Anthropic job scraper using Greenhouse API."""
 
+import html
+import json
 import time
-from pathlib import Path
 from typing import Any
 from urllib.request import urlopen, Request
-import json
 
 from .base import BaseScraper, Job
-from .utils import slugify, hash_description, html_to_markdown
+from .utils import slugify, hash_description
 
 
 class AnthropicScraper(BaseScraper):
@@ -63,7 +63,8 @@ class AnthropicScraper(BaseScraper):
 
             # Parse job
             title = job_detail.get("title", "Unknown")
-            content_html = job_detail.get("content", "")
+            # Decode HTML entities (API returns escaped HTML)
+            content_html = html.unescape(job_detail.get("content", ""))
 
             # Generate unique ID, handling collisions by appending greenhouse ID
             base_id = slugify(title)
@@ -82,7 +83,7 @@ class AnthropicScraper(BaseScraper):
                 first_seen="",  # Will be set by run()
                 last_seen="",  # Will be set by run()
                 description_hash=hash_description(content_html),
-                description=html_to_markdown(content_html),
+                description=content_html,
             )
             jobs.append(job)
 

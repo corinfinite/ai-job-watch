@@ -102,12 +102,12 @@ class BaseScraper(ABC):
 
         return raw_file
 
-    def save_description(self, job_id: str, description_md: str) -> Path:
-        """Save job description as markdown."""
-        desc_file = self.descriptions_dir / f"{job_id}.md"
+    def save_description(self, job_id: str, description_html: str) -> Path:
+        """Save job description as HTML."""
+        desc_file = self.descriptions_dir / f"{job_id}.html"
 
         with open(desc_file, "w") as f:
-            f.write(description_md)
+            f.write(description_html)
 
         return desc_file
 
