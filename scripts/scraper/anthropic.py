@@ -51,7 +51,6 @@ class AnthropicScraper(BaseScraper):
         }
 
         jobs: list[Job] = []
-        seen_ids: dict[str, int] = {}  # Track ID collisions
 
         for i, job_summary in enumerate(jobs_list):
             gh_id = job_summary["id"]
@@ -66,13 +65,8 @@ class AnthropicScraper(BaseScraper):
             # Decode HTML entities (API returns escaped HTML)
             content_html = html.unescape(job_detail.get("content", ""))
 
-            # Generate unique ID, handling collisions by appending greenhouse ID
-            base_id = slugify(title)
-            if base_id in seen_ids:
-                job_id = f"{base_id}-{gh_id}"
-            else:
-                job_id = base_id
-            seen_ids[base_id] = seen_ids.get(base_id, 0) + 1
+            # Generate stable unique ID: slug + greenhouse ID
+            job_id = f"{slugify(title)}-{gh_id}"
 
             job = Job(
                 id=job_id,
