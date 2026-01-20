@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Lab Jobs — {{ month_display }}</title>
+  <title>AI Lab Jobs — {{ date_display }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -296,7 +296,7 @@
 <body>
   <header>
     <h1>AI Lab Jobs</h1>
-    <div class="date">{{ month_display }}</div>
+    <div class="date">{{ date_display }}</div>
     <div class="summary">
       <div class="summary-item new">
         <span class="count">{{ total_new }}</span>
@@ -357,7 +357,7 @@
         {% endfor %}
       </div>
       {% else %}
-      <p class="no-changes">No new roles this month.</p>
+      <p class="no-changes">No new roles.</p>
       {% endif %}
 
       <div class="section-label">Removed</div>
@@ -389,7 +389,7 @@
         {% endfor %}
       </div>
       {% else %}
-      <p class="no-changes">No roles removed this month.</p>
+      <p class="no-changes">No roles removed.</p>
       {% endif %}
 
       <div class="section-label">Changed</div>

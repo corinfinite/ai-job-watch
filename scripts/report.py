@@ -67,14 +67,14 @@ def load_description(descriptions_dir: Path, job_id: str) -> str:
 def generate_report(
     diffs: list[DiffResult],
     base_path: Path,
-    month_str: str,
+    date_str: str,
 ) -> str:
     """Generate HTML report from diff results.
 
     Args:
         diffs: List of DiffResult objects, one per company
         base_path: Base path for the project
-        month_str: Month string (YYYY-MM)
+        date_str: Date string (YYYY-MM-DD)
 
     Returns:
         Generated HTML string
@@ -82,9 +82,9 @@ def generate_report(
     if not HAS_JINJA2:
         raise ImportError("Jinja2 is required for report generation. Install with: pip install jinja2")
 
-    # Parse month for display
-    year, month = map(int, month_str.split("-"))
-    month_display = datetime(year, month, 1).strftime("%B %Y")
+    # Parse date for display
+    report_date = datetime.strptime(date_str, "%Y-%m-%d")
+    date_display = report_date.strftime("%B %-d, %Y")
 
     # Build company reports
     companies = []
@@ -150,7 +150,7 @@ def generate_report(
 
     # Render
     html = template.render(
-        month_display=month_display,
+        date_display=date_display,
         total_new=total_new,
         total_removed=total_removed,
         total_changed=total_changed,
@@ -161,9 +161,9 @@ def generate_report(
     return html
 
 
-def save_report(html: str, base_path: Path, month_str: str) -> Path:
+def save_report(html: str, base_path: Path, date_str: str) -> Path:
     """Save generated HTML report to site directory."""
-    site_dir = base_path / "site" / month_str
+    site_dir = base_path / "site" / date_str
     site_dir.mkdir(parents=True, exist_ok=True)
 
     output_path = site_dir / "index.html"

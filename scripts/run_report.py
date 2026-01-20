@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""CLI for generating monthly reports."""
+"""CLI for generating job reports."""
 
 import argparse
 import sys
+from datetime import datetime
 from pathlib import Path
 
 # Add parent directory to path for imports
@@ -20,11 +21,11 @@ from report import generate_report, save_report
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate monthly job report")
+    parser = argparse.ArgumentParser(description="Generate job report")
     parser.add_argument(
-        "--month",
+        "--date",
         required=True,
-        help="Month to generate report for (YYYY-MM format)",
+        help="Date to generate report for (YYYY-MM-DD format)",
     )
     parser.add_argument(
         "--companies",
@@ -40,16 +41,16 @@ def main():
 
     args = parser.parse_args()
 
-    # Parse month
+    # Parse date
     try:
-        parts = args.month.split("-")
-        year = int(parts[0])
-        month = int(parts[1])
-    except (ValueError, IndexError):
-        print(f"Invalid month format: {args.month}. Use YYYY-MM.", file=sys.stderr)
+        report_date = datetime.strptime(args.date, "%Y-%m-%d")
+        year = report_date.year
+        month = report_date.month
+    except ValueError:
+        print(f"Invalid date format: {args.date}. Use YYYY-MM-DD.", file=sys.stderr)
         sys.exit(1)
 
-    print(f"Generating report for {args.month}")
+    print(f"Generating report for {args.date}")
     print("=" * 40)
 
     # Get diffs for each company
@@ -92,7 +93,7 @@ def main():
 
     # Generate report
     print("\nGenerating HTML report...")
-    html = generate_report(diffs, BASE_PATH, args.month)
+    html = generate_report(diffs, BASE_PATH, args.date)
 
     if args.dry_run:
         print("\n" + "=" * 40)
@@ -100,7 +101,7 @@ def main():
         print("=" * 40)
         print(html)
     else:
-        output_path = save_report(html, BASE_PATH, args.month)
+        output_path = save_report(html, BASE_PATH, args.date)
         print(f"\nReport saved to: {output_path}")
 
 
