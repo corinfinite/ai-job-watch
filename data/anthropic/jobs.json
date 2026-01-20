@@ -570,16 +570,6 @@
     "description_hash": "4201a5cf7c95"
   },
   {
-    "id": "4900975008",
-    "title": "Director, Compute Infrastructure Procurement ",
-    "team": "Finance",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4900975008",
-    "first_seen": "2026-01-20",
-    "last_seen": "2026-01-20",
-    "description_hash": "5958f98dce66"
-  },
-  {
     "id": "4902636008",
     "title": "Software Engineer, Public Sector",
     "team": "Engineering & Design - Product",
@@ -1908,16 +1898,6 @@
     "first_seen": "2026-01-20",
     "last_seen": "2026-01-20",
     "description_hash": "938aa88bdd46"
-  },
-  {
-    "id": "4990162008",
-    "title": "Technical Revenue Accountant",
-    "team": "Finance",
-    "location": "San Francisco, CA; San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4990162008",
-    "first_seen": "2026-01-20",
-    "last_seen": "2026-01-20",
-    "description_hash": "8ffee2cdee0d"
   },
   {
     "id": "4990535008",
@@ -3388,5 +3368,25 @@
     "first_seen": "2026-01-20",
     "last_seen": "2026-01-20",
     "description_hash": "906d3298b341"
+  },
+  {
+    "id": "5077105008",
+    "title": "Director, Compute Infrastructure Procurement ",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5077105008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "77d51fb55b5f"
+  },
+  {
+    "id": "5077106008",
+    "title": "Technical Revenue Accounting",
+    "team": "Finance",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5077106008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "8ffee2cdee0d"
   }
 ]
