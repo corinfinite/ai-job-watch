@@ -1,0 +1,53 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the Role:</strong></h2>
+<p>We are looking for a cybersecurity expert to lead our efforts to prevent AI misuse in the cyber domain. As a Cyber Harms Technical Policy Manager, you will lead a team applying deep technical expertise to inform the design of safety systems that detect harmful cyber behaviors and prevent misuse by sophisticated threat actors. Working closely with Research Engineers who build these safety systems, you and your team will provide the critical cybersecurity domain knowledge needed to ensure our safeguards are effective against real-world threats. You will be at the forefront of defining what responsible AI safety looks like in the cybersecurity domain, working across research, policy, and engineering to translate complex cyber threat concepts into concrete technical safeguards and actionable policies. This is a unique opportunity to shape how frontier AI models handle dual-use cybersecurity knowledge—balancing the tremendous potential of AI to advance legitimate security research and defensive capabilities while preventing misuse by malicious actors.</p>
+<h2>In this role, you will:</h2>
+<ul>
+<li>Lead and grow a team of technical specialists focused on cyber threat modeling and evaluation frameworks</li>
+<li>Design and oversee execution of capability evaluations ("evals") to assess the cyber-relevant capabilities of new models</li>
+<li>Create comprehensive cyber threat models, including attack vectors, exploit chains, precursor identification, and weaponization techniques</li>
+<li>Develop and iterate on usage policies that govern responsible use of our models for emerging capabilities and use cases related to cyber harms</li>
+<li>Serve as the primary domain expert on cyber harms, advising cross-functional teams on threat landscapes and mitigation strategies</li>
+<li>Collaborate closely with internal and external threat modeling experts to develop training data for safety systems, and with ML engineers to train these systems, optimizing for both robustness against adversarial attacks and low false-positive rates for legitimate security researchers</li>
+<li>Analyze safety system performance in traffic, identifying gaps and proposing improvements</li>
+<li>Conduct regular reviews of existing policies and enforcement systems to identify and address gaps and ambiguities related to cybersecurity risks</li>
+<li>Develop rigorous stress-testing of safeguards against evolving cyber threats and product surfaces</li>
+<li>Partner with Research, Product, Policy, Security Team, and Frontier Red Team to ensure cybersecurity safety is embedded throughout the model development lifecycle</li>
+<li>Translate cybersecurity domain knowledge into actionable safety requirements and clearly articulated policies</li>
+<li>Contribute to external communications, including model cards, blog posts, and policy documents related to cybersecurity safety</li>
+<li>Monitor emerging technologies and threat landscapes for their potential to contribute to new risks and mitigation strategies, and strategically address these</li>
+<li>Mentor and develop team members, fostering a culture of technical excellence and responsible AI development</li>
+</ul>
+<h2>You may be a good fit if you have:</h2>
+<ul>
+<li>An M.S. or PhD in Computer Science, Cybersecurity, or a related technical field, OR equivalent professional experience in offensive or defensive cybersecurity</li>
+<li>5+ years of hands-on experience in cybersecurity, with deep expertise in areas such as vulnerability research, exploit development, network security, malware analysis, or penetration testing</li>
+<li>2+ years of experience managing technical teams or leading complex technical projects with multiple stakeholders</li>
+<li>Experience in scientific computing and data analysis, with proficiency in programming (Python preferred)</li>
+<li>Deep expertise in modern cybersecurity, including both offensive techniques (vulnerability research, exploit development, penetration testing, malware analysis) and defensive measures (detection, monitoring, incident response)</li>
+<li>Demonstrated ability to create threat models and translate technical cyber risks into policy frameworks</li>
+<li>Familiarity with responsible disclosure practices, vulnerability coordination, and cybersecurity frameworks (e.g., MITRE ATT&amp;CK, NIST Cybersecurity Framework, CWE/CVE systems)</li>
+<li>Strong analytical and writing skills, with the ability to navigate ambiguity and explain complex technical concepts to non-technical stakeholders</li>
+<li>Experience developing policies or guidelines at scale, balancing safety concerns with enabling legitimate use cases</li>
+<li>A passion for learning new skills and an ability to rapidly adapt to changing techniques and technologies</li>
+<li>Comfort working in a fast-paced environment where priorities may shift as AI capabilities evolve</li>
+<li>Track record of translating specialized technical knowledge into actionable safety policies or enforcement guidelines</li>
+</ul>
+<h2>Preferred Qualifications:</h2>
+<ul>
+<li>Background in AI/ML systems, particularly experience with large language models</li>
+<li>Experience developing ML-based security systems or adversarial ML research</li>
+<li>Experience working with defense, intelligence, or security organizations (e.g., NSA, CISA, national labs, security contractors)</li>
+<li>Published security research, disclosed vulnerabilities, or participated in bug bounty programs</li>
+<li>Understanding of Trust &amp; Safety operations and content moderation at scale</li>
+<li>Certifications such as OSCP, OSCE, GXPN, or equivalent demonstrating technical depth</li>
+<li>Understanding of dual-use security research concerns and ethical considerations in AI safety</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$320,000</span><span class="divider">&mdash;</span><span>$405,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

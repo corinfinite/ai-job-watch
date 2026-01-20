@@ -1,0 +1,77 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading"><strong>About the role</strong></h2>
+<p>Join Anthropic's Customer Success team in a high-impact role driving AI adoption across our Digital Native Business (DNB) segment. As an Enterprise Customer Success Manager for DNB, you’ll be the strategic partner and a trusted advisor to our most complex customers with a portfolio of innovative, technology-forward companies—from high-growth to established tech leaders—helping them harness the full potential of all our Claude capabilities - API, Claude for Enterprise, and Claude Code.</p>
+<p>You'll work with organizations that move fast and push the boundaries of what's possible with LLM technology. Developing genuine partnerships with customers, gaining a deep understanding of their business objectives, strategic direction, AI vision, and technical needs. You'll draw on both your business acumen and technical expertise to serve as a strategic advisor throughout their journey with us.&nbsp;</p>
+<p>In partnership with the broader account team you will help customers identify the right Claude capabilities for their specific business objectives, working closely with them to provide best practices and guidance while supporting them as their usage (consumption &amp; seat based) grows and evolves.</p>
+<p>Your role focuses on helping customers scale their usage effectively, drive model and use case optimizations, implement change management strategies, and maximize the value of their investment through expanded use cases across their organization.&nbsp; The insights you gather from your customers will directly inform our research priorities, product development, and go-to-market strategies — making you a key voice in shaping how we build and deliver ongoing value as a business.</p>
+<h2 class="heading"><strong>Responsibilities:</strong></h2>
+<ul>
+<li>
+<p>Build trusting, strategic relationships with key customer decision makers to understand their business and objectives, identifying opportunities for optimization and expansion</p>
+</li>
+<li>
+<p>Become an expert in Anthropic's products across API, Claude Code and Claude for Enterprise, understanding the technical nuances and best practices for each to guide customers to the right solutions</p>
+</li>
+<li>
+<p>Leverage your deep knowledge of the customer and other Digital Native Businesses&nbsp; to proactively drive usage planning, understanding current and future consumption/ adoption and how it creates realized value for the customer</p>
+</li>
+<li>
+<p>Monitor usage patterns and identify optimization opportunities, proactively addressing underutilization across both consumption-based (API) and seat-based (Claude for Enterprise / Claude Code) products to drive full value from contracted commitments</p>
+</li>
+<li>
+<p>Serve as the customer’s thought partner, enhancing their knowledge of Claude products by socializing Anthropic’s product roadmap, driving awareness on new products and engaging Product PMs</p>
+</li>
+<li>
+<p>Document and quantify customer value realized through business outcomes, ROI, and impact metrics to build compelling internal business cases for continued and expanded investment</p>
+</li>
+<li>
+<p>Identify potential use cases and lines of business not currently onboarded, partnering with customers and Sales to discover new applications for Claude across different departments, teams, and workflows</p>
+</li>
+<li>
+<p>Develop and execute change management strategies to drive end-user adoption and maximize value within customer organizations, including Train the Trainer programs, Center of Excellence development, and organizational enablement</p>
+</li>
+<li>
+<p>Own the customer experience across their lifecycle — managing comprehensive account and success plans grounded in the customer's business objectives, conducting Quarterly Business Reviews, and serving as the primary conduit between the customer and Anthropic</p>
+</li>
+<li>
+<p>Develop scalable engagement strategies and playbooks for your DNB portfolio, balancing high-touch strategic accounts with efficient coverage models to maximize impact across all customers</p>
+</li>
+</ul>
+<h2 class="heading"><strong>You may be a good fit if you have:</strong></h2>
+<ul>
+<li>
+<p>6+ years of experience in Customer Success, Technical Account Management, or Solutions Engineering</p>
+</li>
+<li>
+<p>Experience working with technology companies, SaaS platforms, or digital-first businesses—ideally including high-growth and established tech companies</p>
+</li>
+<li>
+<p>Technical fluency with ability to understand and articulate AI/ML concepts, API integrations, and software implementation patterns across a set of diverse stakeholders—from developers and product managers to executives and end users</p>
+</li>
+<li>
+<p>Experience driving success across both consumption-based and seat-based business models, with understanding of different expansion levers and success metrics for each</p>
+</li>
+<li>
+<p>Strategic mindset to identify growth opportunities and translate them into actionable expansion plans</p>
+</li>
+<li>
+<p>Proven track record managing a portfolio of accounts while maintaining strong relationships and driving measurable outcomes</p>
+</li>
+<li>
+<p>Cross-functional collaborator who represents the customer in a positive, proactive manner, rallying everyone around paths forward that solve customer needs</p>
+</li>
+<li>
+<p>Passion for AI and interest in responsible development of advanced systems</p>
+</li>
+<li>
+<p>A knack for bringing order to chaos and an enthusiastic "roll up your sleeves" mentality—you're a true team player</p>
+</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$200,000</span><span class="divider">&mdash;</span><span>$315,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

@@ -1,0 +1,45 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>Responsibilities:</strong></h2>
+<ul>
+<li>Design and implement evaluation methodologies for assessing AI model capabilities relevant to chemical weapons, explosives synthesis, and energetic materials</li>
+<li>Develop and execute strategies to identify and mitigate potential C/E misuse in model outputs</li>
+<li>Create C/E threat models, including precursor identification, synthesis routes, and weaponization techniques</li>
+<li>Review and analyze traffic to identify potential policy violations related to C/E content</li>
+<li>Collaborate with software engineers to develop and refine detection systems and automated enforcement tools for C/E threats</li>
+<li>Conduct rapid response to escalations involving dangerous C/E queries</li>
+<li>Collaborate across teams to establish safety benchmarks and develop appropriate model guardrails</li>
+<li>Translate C/E domain knowledge into actionable safety requirements</li>
+<li>Develop approaches to assess C/E model knowledge boundaries for dual-use chemical information</li>
+<li>Monitor emerging threats in the C/E landscape to inform policy development</li>
+</ul>
+<h2><strong>You may be a good fit if you:</strong></h2>
+<ul>
+<li>Have a Ph.D. in Chemistry, Chemical Engineering, or a related field with focus on energetic materials, explosives, and/or chemical weapons</li>
+<li>Have 5-8+ years of experience in chemical weapons and/or explosives defense, with deep expertise in energetic materials, chemical weapon agents, or related areas</li>
+<li>Have knowledge of high yield explosives application to radiological dispersal devices (dirty bombs) and related radiological weapons</li>
+<li>Have a track record of translating specialized technical knowledge into actionable safety policies or guidelines</li>
+<li>Are comfortable navigating ambiguity and developing solutions for novel safety challenges</li>
+<li>Can work independently while maintaining strong collaboration with cross-functional teams including engineering, enforcement, and research</li>
+<li>Thrive in a fast-paced environment where you balance rigorous scientific standards with rapid threat response</li>
+<li>Are passionate about preventing misuse of dangerous technical knowledge while enabling beneficial applications</li>
+</ul>
+<h2><strong>Strong candidates may have:</strong></h2>
+<ul>
+<li>Experience with both chemical weapons and high yield explosives defense</li>
+<li>Experience working with defense, intelligence, or nonproliferation organizations (e.g., OPCW, IAEA, national labs, defense contractors)</li>
+<li>Published research or practical experience in explosives characterization, chemical weapons detection, or related security applications</li>
+<li>Knowledge of international chemical weapons conventions (CWC) and controlled substances regulations</li>
+<li>Demonstrated ability to communicate complex technical concepts to non-specialist audiences</li>
+<li>Experience with chemical databases (PubChem, Reaxys, SciFinder) and computational chemistry tools</li>
+<li>Understanding of radiological materials and their interaction with explosive dispersal mechanisms</li>
+<li>Familiarity with dual-use C/E research concerns and responsible disclosure practices</li>
+</ul>
+<p>This role offers a unique opportunity to shape how AI systems handle sensitive chemical and explosives information. You'll work with leading AI safety researchers while tackling critical problems in preventing catastrophic misuse. If you're excited about using your expertise to ensure AI systems remain safe and beneficial, we want to hear from you.</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$245,000</span><span class="divider">&mdash;</span><span>$285,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

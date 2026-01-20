@@ -1,0 +1,52 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the Team</h2>
+<p>As part of the Anthropic security department, the compliance team owns understanding security and AI safety expectations, as established by regulators, customers and (nascent) industry norms (which we also seek to influence). The compliance team uses this understanding to provide direction to internal partners on the priorities of security and safety requirements they must meet. The compliance team assures regulators and customers that those expectations are met by earning security credentials and responding to direct inquiry about Anthropics security program from auditors, customers and partners.&nbsp;</p>
+<p>This opportunity is unique, as we work to secure today’s most novel and valuable asset types, we must build a new kind of compliance program, assuring the safety of artificial intelligence capabilities.</p>
+<h2>Responsibilities:</h2>
+<ul>
+<li>Lead complex federal authorization efforts including FedRAMP ATOs (Low, Moderate, High), DoD Impact Level authorizations (IL4, IL5, IL6), and Intelligence Community security compliance programs</li>
+<li>Serve as the compliance DRI for one or more strategic public sector initiatives: DoD/CMMC programs, National Security/IC deployments, or State &amp; Local Government/EDU certifications</li>
+<li>Navigate multi-stakeholder authorization processes, coordinating with Government Authorizing Officials, Third-Party Assessment Organizations (3PAOs), and internal engineering/product teams</li>
+<li>Translate government security frameworks (NIST 800-53, NIST 800-171, CNSSI 1253, ICD 503, FedRAMP baselines) into actionable technical requirements for cloud-native AI infrastructure</li>
+<li>Build and maintain authorization artifacts including System Security Plans (SSPs), Security Assessment Reports (SARs), Plans of Action &amp; Milestones (POA&amp;Ms), and continuous monitoring documentation</li>
+<li>Establish scalable ATO processes that can support multiple simultaneous authorizations across different classification levels and government agencies</li>
+<li>Collaborate with product and engineering teams to implement technical controls that satisfy government security requirements while enabling AI innovation</li>
+<li>Maintain authorization posture through continuous monitoring, annual assessments, and change management processes aligned with government requirements</li>
+</ul>
+<h2>You may be a good fit if you:</h2>
+<ul>
+<li>Have 8+ years of progressive GRC experience with at least 3+ years directly leading federal authorization efforts (FedRAMP, DoD, IC, or equivalent)</li>
+<li>Have hands-on experience shepherding at least one initial ATO lifecycle from planning through authorization and subsequent continuous monitoring</li>
+<li>Possess deep working knowledge of NIST 800-53 and can map controls to technical implementations in cloud environments</li>
+<li>Have worked with government authorization stakeholders including AOs, 3PAOs, ISSOs, ISSMs, and understand the federal ATO ecosystem</li>
+<li>Can translate between government compliance language and engineering requirements, making complex mandates actionable for technical teams</li>
+<li>Have experience with cloud-native security architectures (e.g., AWS GovCloud) and understand how to achieve government compliance in modern infrastructure</li>
+<li>Write exceptionally clear documentation that satisfies both government auditors and technical implementers</li>
+<li>Thrive in high-stakes, deadline-driven environments where authorization timelines directly impact business outcomes</li>
+<li>Are energized by being the subject matter expert who guides the organization through complex government compliance landscapes</li>
+</ul>
+<h2>Strong candidates may also have:</h2>
+<ul>
+<li>Have active Secret or Top Secret clearance (or TS/SCI for IC-focused roles)</li>
+<li>Bring multi-domain public sector experience (e.g., both DoD and Civilian agencies, or Federal and SLED)</li>
+<li>Possess experience with classified system authorizations or cross-domain solutions</li>
+<li>Have worked in AI/ML companies navigating novel compliance challenges for emerging technology</li>
+<li>Understand FedRAMP 20X pilot program requirements and modernization initiatives</li>
+<li>Bring experience from high-growth technology companies managing rapid compliance expansion</li>
+<li>Possess relevant certifications (CISA, CRISC, CISM, CISSP, or ISO 27001 Lead Auditor/Implementer)</li>
+</ul>
+<h2>Candidates need not have:</h2>
+<ul>
+<li>Experience across all government sectors—we're hiring for complementary expertise across DoD, IC, and SLED domains</li>
+<li>Prior AI/ML compliance experience—we value the ability to apply government compliance expertise to novel technology challenges</li>
+<li>Done everything on this list before—we value learning agility and willingness to tackle novel compliance challenges in the AI space</li>
+</ul>
+<p><strong>Deadline to apply:&nbsp;</strong>None. Applications will be reviewed on a rolling basis.&nbsp;</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$255,000</span><span class="divider">&mdash;</span><span>$270,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

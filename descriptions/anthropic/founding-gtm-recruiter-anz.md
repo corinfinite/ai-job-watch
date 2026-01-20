@@ -1,0 +1,42 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the Role</strong></h2>
+<p>Anthropic is seeking a mission-driven GTM Recruiting Lead to establish our talent acquisition presence in Australia and New Zealand. Based in Sydney, you'll be our founding recruiting hire in the region, responsible for building exceptional GTM teams across Sales, Partnerships, Applied AI, Marketing, Revenue Operations and Communications. This is a hands-on role focused on executing world-class recruiting while laying the foundation for Anthropic's long-term success in ANZ.</p>
+<p>You'll report to our Head of International Recruiting and partner closely with our incoming ANZ Country Manager and Head of GTM Recruiting to deliver against critical business needs. This role requires someone who thrives in 0-to-1 environments, brings deep expertise in attracting top-tier GTM talent, and can collaborate seamlessly across global teams and time zones.</p>
+<h2><strong>Key Responsibilities:</strong></h2>
+<ul>
+<li>Drive full-cycle recruiting for GTM roles across all levels, from IC to leadership positions in Sales, Partnerships, Applied AI, Marketing, and Communications</li>
+<li>Partner closely with the incoming ANZ Country Manager to build the regional GTM organization from the ground up</li>
+<li>Collaborate with global recruiting leadership to align ANZ hiring with broader organizational priorities</li>
+<li>Build deep understanding of the local talent landscape to source and attract world-class GTM candidates</li>
+<li>Create compelling narratives about Anthropic's mission that resonate in the local market</li>
+<li>Establish strong partnerships with hiring managers across multiple time zones and global offices</li>
+<li>Leverage Claude and AI tools to innovate and streamline recruiting processes</li>
+<li>Provide market intelligence on compensation, talent availability, and competitive dynamics in ANZ</li>
+<li>Build foundational relationships with search firms and professional networks in the region</li>
+<li>Track and optimize key recruiting metrics to ensure pipeline health and conversion excellence</li>
+</ul>
+<h2><strong>You may be a good fit if you:</strong></h2>
+<ul>
+<li>Have 8+ years of full-cycle recruiting experience in high-growth technology companies</li>
+<li>Excel at attracting and assessing world-class GTM talent across Sales, Partnerships, Marketing, and customer-facing technical roles</li>
+<li>Have proven 0-to-1 experience building recruiting operations from scratch</li>
+<li>Are deeply motivated by Anthropic's AI safety mission and can authentically convey it to candidates</li>
+<li>Demonstrate exceptional collaboration skills with low ego and high adaptability</li>
+<li>Thrive working across multiple time zones with distributed stakeholders</li>
+<li>Have strong networks within GTM professional communities in Sydney and across ANZ</li>
+<li>Show expertise in both high-volume execution and strategic, consultative recruiting</li>
+<li>Bring data-driven approach to pipeline management and recruiting operations</li>
+</ul>
+<h2><strong>Strong candidates may also:</strong></h2>
+<ul>
+<li>Have experience at companies during hypergrowth phases (pre-IPO to public, or similar scaling)</li>
+<li>Bring experience working in highly collaborative, mission-driven cultures</li>
+</ul><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

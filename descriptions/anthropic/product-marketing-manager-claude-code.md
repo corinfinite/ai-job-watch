@@ -1,0 +1,64 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading">About the role</h2>
+<p>We're looking for a Product Marketing Manager to accelerate the growth of Claude Code, our frontier coding agent. This role sits at the intersection of technical product understanding and go-to-market strategy, serving as the orchestrator who ensures our constant stream of features reaches developers with clarity and impact.</p>
+<p>As the PMM for Claude Code, you'll embed deeply with our engineering teams to understand the technical roadmap, then coordinate across marketing, sales, and developer relations to deliver cohesive launches that reinforce our position at the frontier of AI-powered development tools.&nbsp;</p>
+<p>Claude Code ships features at an exceptional pace, and we need someone who can build systematic approaches to launch excellence while maintaining the technical fluency to earn credibility with both our engineering teams and developer audience.</p>
+<h2 class="heading">Responsibilities</h2>
+<ul>
+<li>
+<p><strong>Launch Orchestration:</strong> Own the end-to-end launch process for Claude Code features, from early roadmap discussions with engineering through post-launch analysis. Build and maintain launch calendars, coordinate cross-functional teams, and ensure consistent messaging across all channels</p>
+</li>
+<li>
+<p><strong>Messaging &amp; Positioning Framework:</strong> Develop crisp, technically-accurate messaging that translates Claude Code's capabilities into clear value propositions for different developer personas and use cases</p>
+</li>
+<li>
+<p><strong>Sales Enablement:</strong> Create strategic enablement materials including competitive battle cards and demo materials that help our sales team articulate Claude Code's differentiation in technical conversations</p>
+</li>
+<li>
+<p><strong>Competitive Intelligence:</strong> Monitor the developer tools landscape, particularly competing AI coding assistants, to inform our positioning and identify opportunities for differentiation</p>
+</li>
+</ul>
+<h2 class="heading">Why this role matters</h2>
+<p>Claude Code represents a fundamental shift in how developers write and interact with code. As we continue to push the boundaries of what's possible with AI-assisted development, we need someone who can ensure our innovations reach developers in ways that are both technically credible and impactful. You'll have direct visibility to engineering leadership and the opportunity to shape how one of the industry's most innovative developer tools goes to market.</p>
+<h2 class="heading">You may be a good fit if you have</h2>
+<ul>
+<li>8+ years of work experience with 6+ years in product marketing</li>
+<li>At least 2 years marketing developer platforms, APIs, or technical products or software developer experience</li>
+<li>Demonstrated ability to work directly with engineering teams and translate technical concepts for diverse audiences</li>
+<li>Strong project management skills with experience coordinating complex, multi-stakeholder launches</li>
+<li>Exceptional written communication skills, particularly in crafting clear, concise technical messaging</li>
+<li>Experience with sales enablement, including creating competitive positioning and technical demo materials</li>
+<li>Low ego and willingness to dig into detailed execution work while maintaining strategic perspective</li>
+</ul>
+<h2 class="heading">Strong candidates may also have</h2>
+<ul>
+<li>Previous experience as a software engineer, DevRel, or technical sales engineer</li>
+<li>Deep familiarity with the developer tools ecosystem (IDE extensions, CI/CD, version control, etc.)</li>
+<li>Experience at early-stage startups or rapidly scaling product teams</li>
+<li>Understanding of AI technologies and their applications in software development</li>
+<li>Track record of successful launches for developer-focused products</li>
+</ul>
+<h2 class="heading">Representative projects</h2>
+<ul>
+<li>Building a systematic launch cadence that can handle both major feature releases and weekly incremental improvements</li>
+<li>Creating a comprehensive competitive intelligence framework for the AI coding assistant space</li>
+<li>Developing persona-based messaging for different developer segments (enterprise teams vs. individual developers, different language communities, etc.)</li>
+<li>Coordinating a major product launch involving 15+ stakeholders across engineering, sales, marketing, and leadership</li>
+<li>Establishing metrics and feedback loops to measure launch effectiveness and iterate on go-to-market strategies</li>
+</ul>
+<p><strong data-stringify-type="bold">Role-specific policy:&nbsp;</strong>For this role, we expect all staff to be able to work from our San Francisco or New York office at least 2 days a week, though we encourage you to apply even if you might need some flexibility for an interim period of time for relocation.</p>
+<div>
+<div>
+<div>
+<p><strong>Deadline to apply:&nbsp;</strong>None. Applications will be reviewed on a rolling basis.&nbsp;</p>
+</div>
+</div>
+</div><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$200,000</span><span class="divider">&mdash;</span><span>$255,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

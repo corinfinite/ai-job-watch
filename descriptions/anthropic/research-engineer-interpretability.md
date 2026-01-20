@@ -1,0 +1,67 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div>
+<h2>About the role:</h2>
+</div>
+<div>
+<p>When you see what modern language models are capable of, do you wonder, "How do these things work? How can we trust them?"</p>
+<p>The Interpretability team at Anthropic is working to reverse-engineer how trained models work because we believe that a mechanistic understanding is the most robust way to make advanced systems safe. We’re looking for researchers and engineers to join our efforts.&nbsp;</p>
+<p>&nbsp;People mean many different things by "interpretability". We're focused on mechanistic interpretability, which aims to discover how neural network parameters map to meaningful algorithms. Some useful analogies might be to think of us as trying to do "biology" or "neuroscience" of neural networks using “microscopes” we build, or as treating neural networks as binary computer programs we're trying to "reverse engineer".</p>
+<p>&nbsp;A few places to learn more about our work and team at a high level are <a href="https://www.youtube.com/watch?v=TxhhMTOTMDg">this introduction to Interpretability</a> from our research lead, <a href="https://colah.github.io/about.html">Chris Olah</a>; a <a href="https://open.spotify.com/episode/5UF79Uu94ia0fwC32a89LU">discussion of our work</a> on the <a href="https://www.nytimes.com/column/hard-fork">Hard Fork podcast</a> produced by the New York Times, and this <a href="https://www.anthropic.com/research/engineering-challenges-interpretability">blog post</a> (and accompanying video) sharing more about some of the engineering challenges we’d had to solve to get these results. Some of our team's notable publications include <a href="https://transformer-circuits.pub/2021/framework/index.html">A Mathematical Framework for Transformer Circuits</a>, <a href="https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html">In-context Learning and Induction Heads</a>, <a href="https://transformer-circuits.pub/2022/toy_model/index.html">Toy Models of Superposition</a>, <a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/">Scaling Monosemanticity</a>, and our Circuits’ <a href="https://transformer-circuits.pub/2025/attribution-graphs/methods.html">Methods</a> and <a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html">Biology</a> papers. This work builds on ideas from members' work prior to Anthropic such as the <a href="https://distill.pub/2020/circuits/">original circuits thread</a>, <a href="https://distill.pub/2021/multimodal-neurons/">Multimodal Neurons</a>, <a href="https://distill.pub/2019/activation-atlas/">Activation Atlases</a>, and <a href="https://distill.pub/2018/building-blocks/">Building Blocks</a>.</p>
+<p>We aim to create a solid foundation for mechanistically understanding neural networks and making them safe (see our <a href="https://transformer-circuits.pub/2023/interpretability-dreams/index.html">vision post</a>). In the short term, we have focused on resolving the issue of "superposition" (see <a href="https://transformer-circuits.pub/2022/toy_model/index.html">Toy Models of Superposition</a>, <a href="https://transformer-circuits.pub/2023/toy-double-descent/index.html">Superposition, Memorization, and Double Descent</a>, and our <a href="https://transformer-circuits.pub/2023/may-update/index.html">May 2023 update</a>), which causes the computational units of the models, like neurons and attention heads, to be individually uninterpretable, and on finding ways to decompose models into more interpretable components. Our subsequent <a href="https://www.anthropic.com/news/mapping-mind-language-model">work</a> found millions of features in Sonnet, one of our production language models, represents progress in this direction. In our most recent work, we develop methods that allow us to build circuits using features and use this circuits to understand the mechanisms associated with a model's computation and study specific examples of multi-hop reasoning, planning, and chain-of-thought faithfulness on Haiku 3.5, one of our production models.” This is a stepping stone towards our overall goal of mechanistically understanding neural networks.</p>
+<p>We often collaborate with teams across Anthropic, such as Alignment Science and Societal Impacts to use our work to make Anthropic’s models safer. We also have an <a href="https://transformer-circuits.pub/2024/april-update/index.html#interpretability-architecture">Interpretability Architectures project</a> that involves collaborating with Pretraining.</p>
+</div>
+<div>
+<div class="section page-centered">
+<h2>Responsibilities:</h2>
+<ul>
+<li>Implement and analyze research experiments, both quickly in toy scenarios and at scale in large models</li>
+<li>Set up and optimize research workflows to run efficiently and reliably at large scale</li>
+<li>Build tools and abstractions to support rapid pace of research experimentation</li>
+<li>Develop and improve tools and infrastructure to support other teams in using Interpretability’s work to improve model safety</li>
+</ul>
+</div>
+<div class="section page-centered">
+<h2>You may be a good fit if you:</h2>
+<ul>
+<li>Have 5-10+ years of experience building software</li>
+<li>Are highly proficient in at least one programming language (e.g., Python, Rust, Go, Java) and productive with python</li>
+<li>Have some experience contributing to empirical AI research projects</li>
+<li>Have a strong ability to prioritize and direct effort toward the most impactful work and are comfortable operating with ambiguity and questioning assumptions.</li>
+<li>Prefer fast-moving collaborative projects to extensive solo efforts</li>
+<li>Want to learn more about machine learning research and its applications and collaborate closely with researchers</li>
+<li>Care about the societal impacts and ethics of your work</li>
+</ul>
+<div class="section page-centered">
+<h2>Strong candidates may also have experience with:</h2>
+<ul>
+<li>Designing a code base so that anyone can quickly code experiments, launch them, and analyze their results without hitting bugs</li>
+<li>Optimizing the performance of large-scale distributed systems</li>
+<li>Collaborating closely with researchers</li>
+<li>Language modeling with transformers</li>
+<li>GPUs or Pytorch</li>
+</ul>
+</div>
+<div class="section page-centered">
+<h2>Representative Projects:</h2>
+<ul>
+<li>Building <a href="https://transformer-circuits.pub/2021/garcon/index.html">Garcon</a>, a tool that allows researchers to easily access LLMs internals from a jupyter notebook</li>
+<li>Setting up and optimizing a pipeline to efficiently collect petabytes of transformer activations and shuffle them.</li>
+<li>Profiling and optimizing ML training, including parallelizing to many GPUs</li>
+<li>Make launching ML experiments and manipulating+analyzing the results fast and easy</li>
+<li>Creating an interactive visualization of attention between tokens in a language model</li>
+</ul>
+<h2><strong>Role Specific Location Policy:</strong></h2>
+<ul>
+<li>This role is based in San Francisco office; however, we are open to considering exceptional candidates for remote work on a case-by-case basis.</li>
+</ul>
+</div>
+</div>
+</div><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$315,000</span><span class="divider">&mdash;</span><span>$560,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

@@ -1,0 +1,82 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p>As the EMEA Mid Market Sales Manager at Anthropic, you'll build and lead our newly formed Mid Market Account Executive team while driving new business acquisition across Europe, Middle-East and Africa. Based in our Dublin office, you'll focus on scaling our Mid Market sales motion, managing a high-performing team of AEs, working cross-functionally, and establishing Anthropic as the AI partner of choice for Europe's growing mid-sized businesses. You'll play a critical role in designing and executing our EMEA go-to-market strategy while building the foundation for long-term growth in this dynamic market segment.</p>
+<p><strong>Responsibilities:</strong></p>
+<p><strong>Team Leadership &amp; Development</strong></p>
+<ul>
+<li>Lead and develop our newly formed team of Account Executives across EMEA, providing coaching, mentorship, and performance management to drive both individual and team success</li>
+<li>Recruit, hire, and onboard additional sales talent as the team scales, building a diverse and high-performing organization</li>
+<li>Establish clear performance metrics, sales targets, and accountability frameworks while fostering a collaborative, results-driven culture</li>
+<li>Conduct regular pipeline reviews, forecast calls, and deal coaching sessions to ensure team members consistently exceed their quotas</li>
+</ul>
+<p><strong>Sales Strategy &amp; Execution</strong></p>
+<ul>
+<li>Design and execute the EMEA Mid Market go-to-market strategy, translating regional plans into actionable territory assignments, account segmentation, and sales activities</li>
+<li>Develop and refine Mid Market-specific sales playbooks, messaging frameworks, and competitive positioning to optimize conversion rates and deal velocity</li>
+<li>Own new business acquisition targets for the Mid Market segment, ensuring the team delivers consistent growth in new logo acquisition</li>
+<li>Partner with marketing to develop targeted campaigns, content, and lead generation strategies tailored to European mid-sized enterprises</li>
+</ul>
+<p><strong>Market Development &amp; Partnerships</strong></p>
+<ul>
+<li>Build strategic relationships with key mid-market accounts and industry influencers across priority verticals</li>
+<li>Represent Anthropic at industry events, conferences, and trade associations, establishing thought leadership and driving pipeline generation</li>
+<li>Collaborate with cloud partners, technology vendors and SIs to develop co-selling motions and joint go-to-market strategies</li>
+<li>Identify high-potential industries and growth markets across EMEA, recommending expansion strategies and resource allocation</li>
+</ul>
+<p><strong>Operational Excellence</strong></p>
+<ul>
+<li>Manage sales operations for the Mid Market segment including territory planning, quota setting, and performance tracking using Salesforce and other sales tools</li>
+<li>Provide accurate revenue forecasting and pipeline analysis to senior leadership, identifying risks and opportunities across the portfolio</li>
+<li>Collaborate with enablement teams to deliver ongoing training on product updates, competitive landscape, and sales methodologies</li>
+<li>Partner with legal, finance, and operations teams to streamline contract processes and remove barriers to deal closure</li>
+</ul>
+<p><strong>Cross-Functional Collaboration</strong></p>
+<ul>
+<li>Work closely with Customer Success and Account Management teams to ensure smooth handoffs and maximize customer lifetime value</li>
+<li>Work closely with the Partnerships team (Alliances, GSI/SIs, Cloud partnerships) to build a scaled go-to-market co-selling motion</li>
+<li>Partner with Product and Engineering teams to communicate market feedback and influence product roadmap decisions for Mid Market customers</li>
+<li>Collaborate with global sales leadership to share best practices, coordinate on enterprise accounts, and align on strategic initiatives</li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<p><strong>Essential Qualifications</strong></p>
+<ul>
+<li>15+ years of experience in B2B SaaS sales, with 6+ years in sales management or team leadership roles</li>
+<li>Proven track record of building and scaling sales teams</li>
+<li>Deep understanding of the European mid-market landscape, including key industries, buying cycles, and decision-making processes</li>
+<li>Experience selling to mid-sized enterprises (typically 500-5000 employees), with understanding of their unique procurement needs and organizational dynamics</li>
+<li>Demonstrated success in consistently exceeding new business acquisition targets and team quotas</li>
+<li>Strong analytical skills with experience in sales forecasting, pipeline management, and performance optimization</li>
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>Previous experience in emerging technology sales (AI/ML, developer tools, or data platforms)</li>
+<li>Existing network within European mid-market enterprises and channel partners</li>
+<li>Experience working in or with Dublin-based technology companies</li>
+<li>Understanding of European data privacy regulations (GDPR) and regional business practices</li>
+<li>Multilingual capabilities (particularly German, French, or Spanish) to support diverse EMEA markets</li>
+<li>Bachelor's degree in Business, Technology, or related field</li>
+</ul>
+<p><strong>Skills &amp; Competencies</strong></p>
+<ul>
+<li><strong>Leadership:</strong> Ability to inspire, coach, and develop high-performing sales professionals while maintaining accountability for results</li>
+<li><strong>Strategic Thinking:</strong> Capacity to translate company strategy into actionable plans while adapting to dynamic market conditions</li>
+<li><strong>Communication:</strong> Excellent presentation and interpersonal skills for engaging with senior business stakeholders and internal teams</li>
+<li><strong>Data-Driven:</strong> Proficiency with Salesforce, sales analytics, and performance management tools</li>
+<li><strong>Cultural Awareness:</strong> Understanding of European business practices and ability to work effectively across diverse markets and cultures</li>
+</ul>
+<p><strong>What We Offer:</strong></p>
+<ul>
+<li>Competitive base salary and performance-based compensation</li>
+<li>Equity participation in Anthropic's growth</li>
+<li>Comprehensive benefits package including health, dental, and pension contributions</li>
+<li>Professional development opportunities and leadership training</li>
+<li>Flexible working arrangements with modern Dublin office environment</li>
+<li>Opportunity to shape the AI industry across Europe's most innovative companies</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>€255.000</span><span class="divider">&mdash;</span><span>€300.000 EUR</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

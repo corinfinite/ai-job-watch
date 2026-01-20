@@ -1,0 +1,39 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the Role</strong></h2>
+<p>We're hiring our first dedicated international tax professional in Europe, based in Dublin. You'll be a key member of Anthropic's tax team, working closely with our Head of International Tax Operations and Business Advisory and reporting into our San Francisco headquarters.</p>
+<p>As European Tax Lead, you'll own direct tax compliance and advisory across our European entities (Ireland, UK, Germany, France, Switzerland) and help build tax infrastructure to support Anthropic's rapid international expansion.</p>
+<h2><strong>Responsibilities:</strong></h2>
+<ul>
+<li>Lead European direct tax compliance, working with external advisors (KPMG, PwC, Deloitte) to ensure timely and accurate filings across all jurisdictions</li>
+<li>Support transfer pricing documentation and intercompany transactions for European entities, including cost-plus arrangements and IP licensing structures</li>
+<li>Advise on permanent establishment risks, entity structuring, and operational tax considerations as Anthropic expands European commercial activities</li>
+<li>Support EU AI Act-related entity and operational structuring from a tax perspective</li>
+<li>Partner with indirect tax personnel on VAT/GST matters to align on tax strategy and overall compliance requirements.</li>
+<li>Partner with Finance, Legal, and People teams on European payroll taxes, equity compensation, and employee mobility matters</li>
+<li>Build relationships with local tax authorities and manage any inquiries or audits</li>
+<li>Contribute to global tax projects including public company readiness, SOX compliance, and tax technology implementations</li>
+</ul>
+<h2><strong>You may be a good fit if you:</strong></h2>
+<ul>
+<li>10–12 years of international tax experience, ideally with a mix of Big 4/advisory and in-house roles</li>
+<li>Strong technical knowledge of Irish corporate tax, EU tax directives, and cross-border tax issues</li>
+<li>Deep experience with transfer pricing documentation, intercompany agreements, and IP planning structures</li>
+<li>Exposure to technology or high-growth company tax matters preferred</li>
+<li>CTA, AITI, or equivalent professional qualification</li>
+<li>Excellent communication skills and ability to work across time zones with US-based colleagues</li>
+<li>Self-starter who thrives in ambiguity and can build processes from the ground up</li>
+</ul>
+<h2><strong>Strong candidates may have:</strong></h2>
+<ul>
+<li>Experience with R&amp;D tax credits and knowledge-based capital regimes</li>
+<li>Knowledge of Pillar Two/global minimum tax rules and digital services taxes</li>
+<li>Experience supporting IPO readiness or public company tax compliance</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>€170.000</span><span class="divider">&mdash;</span><span>€220.000 EUR</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

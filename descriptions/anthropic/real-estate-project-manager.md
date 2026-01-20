@@ -1,0 +1,58 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p>We are looking for a detail-oriented Real Estate Project Manager to join our Workplace and Real Estate team at Anthropic. This critical role will be a key coordinator in our global real estate projects across multiple office locations, serving as the central liaison between external project managers, vendors, and internal stakeholders. The ideal candidate will bring 7-10 years of corporate real estate project management experience, with exceptional organizational skills and the ability to manage multiple concurrent projects while maintaining meticulous attention to detail in a fast-paced environment.</p>
+<h2 class="whitespace-pre-wrap break-words">Responsibilities:</h2>
+<p><strong>Project Oversight &amp; Coordination</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Coordinate the delivery of multiple real estate projects across an international portfolio, ensuring swift project setup, timely completion, and adherence to budget parameters</li>
+<li class="whitespace-normal break-words">Serve as primary liaison between external project managers and internal stakeholders, facilitating clear communication and project alignment</li>
+<li class="whitespace-normal break-words">Assist in monitoring milestones, deliverables, and potential risks across all active projects</li>
+<li class="whitespace-normal break-words">Support project meetings and coordinate follow-through on all commitments</li>
+</ul>
+<p class="whitespace-normal break-words"><strong>Space Planning &amp; Moves Management</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Coordinate office moves and team relocations as we expand into new spaces and optimize existing neighborhoods</li>
+<li class="whitespace-normal break-words">Develop move plans and timelines, coordinating with IT, Security, Facilities, and affected teams to ensure plans and roles and responsibilities are clearly communicated</li>
+<li class="whitespace-normal break-words">Ensure moves are executed on time and with minimal disruption</li>
+</ul>
+<p class="whitespace-normal break-words"><strong>Financial &amp; Administrative Management</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Lead new project setup including obtaining Certificates of Insurance (COIs), processing initial wire transfers to new landlords for deposits and first month's rent, raising internal purchase orders (Zip), and coordinating with Finance Team on obtaining Letters of Credit</li>
+<li class="whitespace-normal break-words">Coordinate with Finance team to ensure proper documentation and compliance with Treasury Regulation requirements and accountable plan policies</li>
+<li class="whitespace-normal break-words">Maintain project budgets with external project managers and flag variances to leadership, ensuring fiscal responsibility across all initiatives</li>
+<li class="whitespace-normal break-words">Support lease administration activities across the global portfolio</li>
+</ul>
+<p class="whitespace-normal break-words"><strong>Stakeholder Communication &amp; Reporting</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Prepare and distribute regular project status updates to stakeholders, creating written updates that clearly communicate progress, challenges (including mitigation steps taken), and next steps</li>
+<li class="whitespace-normal break-words">Ensure all project documentation is properly maintained and accessible</li>
+<li class="whitespace-normal break-words">In partnership with external project managers, ensure project delivery meets Anthropic standards</li>
+</ul>
+<h2 class="whitespace-normal break-words">You may be a good fit if you:</h2>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Have 7-10 years of experience in corporate real estate coordination, project management, or related fields</li>
+<li class="whitespace-normal break-words">Possess exceptional attention to detail with strong organizational and time management skills</li>
+<li class="whitespace-normal break-words">Have experience coordinating office moves, restacks, and space reconfigurations in corporate environments</li>
+<li class="whitespace-normal break-words">Demonstrate outstanding verbal and written communication abilities to ensure regular and clear project team and stakeholder communication</li>
+<li class="whitespace-normal break-words">Show proven ability to manage multiple competing priorities in a fast-paced, dynamic environment</li>
+<li class="whitespace-normal break-words">Have strong relationship management skills with the ability to work effectively with both internal and external stakeholders</li>
+<li class="whitespace-normal break-words">Are proficient in G-Suite applications</li>
+<li class="whitespace-normal break-words">Can work independently while knowing when to escalate issues appropriately</li>
+</ul>
+<h2 class="whitespace-normal break-words">Strong candidates may also:</h2>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Have real estate experience in a rapid-growth technology company</li>
+<li class="whitespace-normal break-words">Have experience in coordinating international real estate projects</li>
+<li class="whitespace-normal break-words">Bring familiarity with workplace design and construction project coordination</li>
+<li class="whitespace-normal break-words">Have specific experience with large-scale office moves and restacking projects</li>
+<li class="whitespace-normal break-words">Show expertise in space planning and utilization optimization</li>
+<li class="whitespace-normal break-words">Have experience with lease administration and transaction management</li>
+<li class="whitespace-normal break-words">Demonstrate experience with process improvement and operational excellence</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$145,000</span><span class="divider">&mdash;</span><span>$185,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

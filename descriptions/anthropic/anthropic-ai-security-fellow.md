@@ -1,0 +1,80 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p><strong><em>Please apply by January 12, 2026 <a href="https://constellation.fillout.com/anthropicsecurityfellows">using this link</a></em></strong></p>
+<h1><span style="font-size: 18pt;"><strong>AI Security at Anthropic</strong></span></h1>
+<p>We believe we are at an inflection point for AI’s impact on cybersecurity. Models are now useful for cybersecurity tasks in practice: for example, Claude can now <a href="https://red.anthropic.com/2025/cyber-competitions/">outperform human teams</a> in some cybersecurity competitions and help us discover <a href="https://claude.com/blog/automate-security-reviews-with-claude-code">vulnerabilities in our own code</a>.&nbsp;</p>
+<p>We are looking for researchers and engineers to help us accelerate defensive use of AI to secure code and infrastructure.&nbsp;</p>
+<h1><span style="font-size: 18pt;"><strong>Anthropic Fellows Program Overview</strong></span></h1>
+<p>The Anthropic Fellows Program is designed to accelerate AI security and safety research, and foster research talent. We provide funding and mentorship to promising technical talent - regardless of previous experience - to research the frontier of AI security and safety for four months.</p>
+<p>Fellows will primarily use external infrastructure (e.g. open-source models, public APIs) to work on an empirical project aligned with our research priorities, with the goal of producing a <strong>public output</strong> (e.g. a paper submission). In our previous cohorts, over 80% of fellows produced papers (more below).&nbsp;</p>
+<p>We run multiple cohorts of Fellows each year. This application is for our next two cohorts, starting in May and July 2026.</p>
+<h1><span style="font-size: 18pt;"><strong>What to Expect</strong></span></h1>
+<ul>
+<li>Direct mentorship from Anthropic researchers&nbsp;</li>
+<li>Access to a shared workspace (in either Berkeley, California or London, UK)</li>
+<li>Connection to the broader AI safety research community</li>
+<li>Weekly stipend of 3,850 USD / 2,310 GBP / 4,300 CAD &amp; access to benefits (benefits vary by country)</li>
+<li>Funding for compute (~$15k/month) and other research expenses</li>
+</ul>
+<h1><span style="font-size: 18pt;"><strong>Mentors, Research Areas, &amp; Past Projects</strong></span></h1>
+<p>Fellows will undergo a project selection &amp; mentor matching process. Potential mentors include:</p>
+<ul>
+<li>Nicholas Carlini</li>
+<li>Keri Warr</li>
+<li>Evyatar Ben Asher</li>
+<li>Keane Lucas</li>
+<li>Newton Cheng</li>
+</ul>
+<p>On our <a href="https://alignment.anthropic.com/">Alignment Science</a> and <a href="https://red.anthropic.com/">Frontier Red Team</a> blogs, you can read about some past Fellows projects, including:</p>
+<ul>
+<li><a href="https://red.anthropic.com/2025/smart-contracts/">AI agents find $4.6M in blockchain smart contract exploits:</a>&nbsp;Winnie Xiao and Cole Killian, mentored by Nicholas Carlini and Alwin Peng</li>
+<li><a href="https://alignment.anthropic.com/2025/strengthening-red-teams/">Strengthening Red Teams: A Modular Scaffold for Control Evaluations:</a>&nbsp;Chloe Loughridge et al., mentored by Jon Kutasov and Joe Benton</li>
+</ul>
+<h1><span style="font-size: 18pt;"><strong>You may be a good fit if you</strong></span></h1>
+<ul>
+<li>Are motivated by reducing catastrophic risks from advanced AI systems</li>
+<li>Are excited to transition into full-time empirical AI safety research and would be interested in a full-time role at Anthropic</li>
+</ul>
+<p style="padding-left: 80px;"><strong>Please note:</strong> We do not guarantee that we will make any full-time offers to fellows. However, strong performance during the program may indicate that a Fellow would be a good fit here at Anthropic. In previous cohorts, over 40% of fellows received a full-time offer, and we’ve supported many more to go on to do great work on safety at other organizations.</p>
+<ul>
+<li>Have a strong technical background in computer science, mathematics, physics, cybersecurity, or related fields</li>
+<li>Thrive in fast-paced, collaborative environments</li>
+<li>Can implement ideas quickly and communicate clearly</li>
+</ul>
+<h2><span style="font-size: 14pt;"><strong>Strong candidates may also have:</strong></span></h2>
+<ul>
+<li>Contributed to open-source projects in LLM- or security-adjacent repositories</li>
+<li>Demonstrated success in bringing clarity and ownership to ambiguous technical problems</li>
+<li>Experience with pentesting, vulnerability research, or other offensive security</li>
+<li>A history demonstrating desire to do the "dirty work" that results in high-quality outputs</li>
+<li>Reported CVEs, or been awarded for bug bounty vulnerabilities</li>
+<li>Experience with empirical ML research projects&nbsp;</li>
+<li>Experience with deep learning frameworks and experiment management</li>
+</ul>
+<h2><span style="font-size: 14pt;"><strong>Candidates must be:</strong></span></h2>
+<ul>
+<li>Fluent in Python programming</li>
+<li>Available to work full-time on the Fellows program for 4 months</li>
+</ul>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.</p>
+<h1><span style="font-size: 18pt;"><strong>Interview process</strong></span></h1>
+<p>The interview process will include an initial application &amp; references check, technical assessments &amp; interviews, and a research discussion.&nbsp;</p>
+<h1><span style="font-size: 18pt;"><strong>Compensation</strong></span></h1>
+<p>The expected base stipend for this role is 3,850 USD / 2,310 GBP / 4,300 CAD per week, with an expectation of 40 hours per week, for 4 months (with possible extension).</p>
+<h1><span style="font-size: 18pt;"><strong>Logistics</strong></span></h1>
+<p><strong>Logistics Requirements: </strong>To participate in the Fellows program, you must have work authorization in the US, UK, or Canada and be located in that country during the program.</p>
+<p><strong>Workspace Locations:</strong> We have designated shared workspaces in London and Berkeley where fellows will work from and mentors will visit. <strong>We are also open to remote fellows in the UK, US, or Canada</strong>. We will ask you about your availability to work from Berkeley or London (full- or part-time) during the program.</p>
+<p><strong>Visa Sponsorship: </strong>We are <strong>not</strong> currently able to sponsor visas for fellows. To participate in the Fellows program, you need to have or independently obtain full-time work authorization in the UK, the US, or Canada.</p>
+<p>&nbsp;</p>
+<p>Applications and interviews are managed by <a class="c-link" href="https://www.constellation.org/" target="_blank" data-stringify-link="https://www.constellation.org/" data-sk="tooltip_parent">Constellation</a>, our official recruiting partner for this program. Constellation also runs the Berkeley workspace that hosts fellows. Clicking "Apply here" will redirect you to Constellation's application portal. You can expect to receive emails from Constellation with application updates.</p>
+<h1><span style="font-size: 18pt;"><a href="https://constellation.fillout.com/anthropicsecurityfellows">Apply here</a></span></h1>
+<p><strong>Note: We are running the&nbsp;<a class="c-link" href="https://job-boards.greenhouse.io/anthropic/jobs/5023394008" target="_blank" data-stringify-link="https://job-boards.greenhouse.io/anthropic/jobs/5023394008" data-sk="tooltip_parent">Safety</a>&nbsp;and&nbsp;<a class="c-link" href="https://job-boards.greenhouse.io/anthropic/jobs/5030244008" target="_blank" data-stringify-link="https://job-boards.greenhouse.io/anthropic/jobs/5030244008" data-sk="tooltip_parent">Security</a>&nbsp;programs in partnership with each other, please only apply to the one that best matches your interests and background.</strong></p>
+<p><span style="font-size: 14pt;"><strong>Important: Below are Anthropic's policies for full time roles. Please note that these expectations (regarding visas and location) are not applicable for the fellows program. Please go straight to the link above.</strong></span></p>
+<p>&nbsp;</p><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

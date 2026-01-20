@@ -1,0 +1,76 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading"><strong>About the role</strong></h2>
+<p>As a Customer Activation Manager, you will architect and execute large-scale AI transformations for our most complex enterprise deployments – organizations with thousands to hundreds of thousands of users across multiple business units, geographies, and technical environments. You'll own the critical activation phase for massive implementations, ensuring customers achieve breakthrough innovation rather than incremental improvement with Claude.</p>
+<p>This is a high-impact role requiring deep experience deploying technical tools at enterprise scale. You'll draw on professional services methodology, program management discipline, and change management expertise to orchestrate deployments that touch thousands of users simultaneously. You won't just follow playbooks—you'll design the enterprise-grade frameworks and governance structures that enable repeatable success across our largest, most complex customers.</p>
+<p>You'll operate as a strategic partner to C-suite executives and transformation leaders, translating technical capabilities into business outcomes while managing the operational complexity of multi-workstream implementations. Your experience with large-scale technology deployments - whether ERP systems, developer platforms, collaboration tools, or enterprise software - will be essential to navigating organizational dynamics, technical integration challenges, and change resistance at scale.</p>
+<h2 class="heading"><strong>Responsibilities:</strong></h2>
+<ul>
+<li>
+<p><strong>Lead enterprise-scale activations </strong>from contract signature through production deployment, developing comprehensive program plans that coordinate multiple workstreams, stakeholder groups, and technical integration tracks across Claude for Enterprise and Claude Code</p>
+</li>
+<li>
+<p><strong>Design and execute multi-phase rollout strategies </strong>for matrixed, global organizations, navigating regional compliance requirements, language considerations, time zone coordination, and local stakeholder management</p>
+</li>
+<li>
+<p><strong>Build enterprise governance frameworks </strong>including executive steering committees, technical working groups, change advisory boards, and escalation paths that ensure sustained momentum and executive sponsorship throughout complex deployments</p>
+</li>
+<li>
+<p><strong>Orchestrate cross-functional delivery teams </strong>spanning Applied AI, Customer Success, Education, Support, and Product - plus customer IT, business units, and external system integrators - to maintain alignment and momentum across parallel workstreams</p>
+</li>
+<li>
+<p><strong>Drive organizational transformation at scale </strong>by developing enterprise change management strategies, executive communication plans, Train-the-Trainer programs, and adoption campaigns that build thousands of internal AI champions</p>
+</li>
+<li>
+<p><strong>Navigate complex enterprise environments </strong>including SSO/SCIM integration, data residency requirements, and IT governance while maintaining deployment velocity</p>
+</li>
+<li>
+<p><strong>Define and track enterprise success metrics </strong>across activation rate, time-to-value, departmental adoption curves, executive satisfaction, and business impact – using data to optimize the large-scale activation motion</p>
+</li>
+<li>
+<p><strong>Develop scalable enterprise playbooks </strong>by codifying learnings from complex deployments into repeatable frameworks that can be leveraged across similar large-scale engagements and inform potential Professional Services offerings</p>
+</li>
+</ul>
+<h2 class="heading"><strong>You may be a good fit if you have:</strong></h2>
+<ul>
+<li>
+<p><strong>5+ years deploying technical products at enterprise scale </strong>in roles such as Professional Services, Implementation Management, Technical Program Management, Solutions Architecture, or Enterprise Customer Success</p>
+</li>
+<li>
+<p><strong>Enterprise program management expertise: </strong>Experience managing programs with multiple parallel workstreams, distributed teams, executive governance structures, and sophisticated risk management</p>
+</li>
+<li>
+<p><strong>Executive presence and strategic communication: </strong>Ability to partner with C-suite executives, present to steering committees, and translate technical complexity into business impact for senior stakeholders</p>
+</li>
+<li>
+<p><strong>Enterprise change management expertise: </strong>Deep experience driving organizational adoption at scale, including stakeholder analysis, resistance management, communication campaigns, and building change agent networks across large organizations</p>
+</li>
+<li>
+<p><strong>Technical depth with enterprise systems: </strong>Familiarity with enterprise IT environments including identity management (SSO/SCIM), API integrations, and enterprise architecture considerations</p>
+</li>
+<li>
+<p><strong>GenAI experience and passion:</strong> AI is changing how people, and large Enterprises work. Passion for AI, technical acumen, and change management skills to help our largest organizations navigate this shift is key</p>
+</li>
+<li>
+<p><strong>Comfort with ambiguity at scale: </strong>This is a new function - you'll thrive creating enterprise-grade structure while adapting quickly as we learn what works for our largest customers</p>
+</li>
+</ul>
+<h3 class="heading"><strong>Nice-to-haves</strong></h3>
+<ul>
+<li>
+<p>Formal change management certification (Prosci, CCMP, or equivalent)</p>
+</li>
+<li>
+<p>Experience with AI/ML product deployments or emerging technology adoption programs</p>
+</li>
+<li>
+<p>Consulting or professional services background focused on digital transformation at Fortune 500 companies</p>
+</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$200,000</span><span class="divider">&mdash;</span><span>$260,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

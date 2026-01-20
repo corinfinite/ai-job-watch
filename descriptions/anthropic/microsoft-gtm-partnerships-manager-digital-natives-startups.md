@@ -1,0 +1,83 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role<br></strong></h2>
+<p>Anthropic is seeking a high-ownership, hands-on operator to drive our strategic growth with Microsoft Azure. You'll play a critical role in managing this key relationship, generate large-scale revenue opportunities, and work with leadership across both organizations to accelerate Anthropic's AI adoption through Azure's startup and digital-native ecosystem.<br>In this role, you'll help shape how frontier AI technology is commercialized at scale and develop the blueprint for successful AI-cloud provider partnerships. You'll focus on Microsoft's fastest-moving customers — the startups and digital-native businesses building AI into their core products with Claude in the Microsoft Azure ecosystem.</p>
+<h2><strong>Responsibilities:</strong></h2>
+<ul>
+<li>
+<p>Develop and execute comprehensive GTM strategies for our Microsoft partnership across Startups and Digital Natives segments, including co-selling motions, enablement programs, and joint business plans</p>
+</li>
+<li>
+<p>Build pipeline, develop forecasting models, and drive revenue targets for the partnership</p>
+</li>
+<li>
+<p>Build and maintain cross-functional relationships across Microsoft's startup-focused teams and digital-native account organizations</p>
+</li>
+<li>
+<p>Create and implement scalable processes for partnership operations, including intake management, escalation workflows, and reporting</p>
+</li>
+<li>
+<p>Drive strategic planning and execution of joint initiatives, including startup programs, founder events, and technical workshops</p>
+</li>
+<li>
+<p>Design and execute sales plays and enablement programs tailored to high-velocity, product-led companies</p>
+</li>
+<li>
+<p>Provide strategic market intelligence and competitive insights to inform product and business strategy</p>
+</li>
+</ul>
+<h2><strong>You may be a good fit if you have:</strong></h2>
+<ul>
+<li>
+<p>7+ years of experience in go-to-market roles at technology companies, with demonstrated ability to move quickly and operate in fast-changing environments</p>
+</li>
+<li>
+<p>Deep understanding of startup ecosystems, cloud services, and AI/ML market dynamics</p>
+</li>
+<li>
+<p>Technical background or acumen -- you can credibly discuss Claude's capabilities with engineers and hold your own in technical conversations</p>
+</li>
+<li>
+<p>Strong business acumen -- you can easily navigate conversations with founders, VCs, and Microsoft leadership alike</p>
+</li>
+<li>
+<p>Exceptional communication and relationship-building skills -- you're a gifted storyteller who can translate complex AI capabilities into business value</p>
+</li>
+<li>
+<p>Excellence in program management and operations -- you build systems, not just run plays</p>
+</li>
+<li>
+<p>Comfort with ambiguity -- you define your own objectives, create measurements, and execute independently</p>
+</li>
+<li>
+<p>Builder energy -- you've either started something yourself or thrive in environments where you're creating from scratch</p>
+</li>
+</ul>
+<h2><strong>Strong candidates may also have:</strong></h2>
+<ul>
+<li>
+<p>Experience at a high-growth startup, either as a founder, early employee, or in a GTM capacity</p>
+</li>
+<li>
+<p>Experience working with or within cloud providers or their partner ecosystems</p>
+</li>
+<li>
+<p>Experience working in a directly client-facing role, such as customer success or consulting</p>
+</li>
+<li>
+<p>Varied, non-linear career path -- we value scrappy backgrounds and diverse experiences</p>
+</li>
+<li>
+<p>Technical degree or experience in engineering, design, product management, or related field</p>
+</li>
+<li>
+<p>Experiences we aren't thinking of in these bullet points -- tell us more about what makes you passionate about this kind of work!</p>
+</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$150,500</span><span class="divider">&mdash;</span><span>$210,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

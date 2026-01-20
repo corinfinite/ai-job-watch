@@ -1,0 +1,61 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p>Anthropic is at the forefront of AI research, dedicated to developing safe, ethical, and powerful artificial intelligence. Our mission is to ensure that transformative AI systems are aligned with human interests. We are seeking a Research Engineer to join our Pre-training team, responsible for developing the next generation of large language models. In this role, you will work at the intersection of cutting-edge research and practical engineering, contributing to the development of safe, steerable, and trustworthy AI systems.</p>
+<p><strong>Key Responsibilities:</strong></p>
+<ul>
+<li>Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development</li>
+<li>Independently lead small research projects while collaborating with team members on larger initiatives</li>
+<li>Design, run, and analyze scientific experiments to advance our understanding of large language models</li>
+<li>Optimize and scale our training infrastructure to improve efficiency and reliability</li>
+<li>Develop and improve dev tooling to enhance team productivity</li>
+<li>Contribute to the entire stack, from low-level optimizations to high-level model design</li>
+</ul>
+<p><strong>Qualifications:</strong></p>
+<ul>
+<li>Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field</li>
+<li>Strong software engineering skills with a proven track record of building complex systems</li>
+<li>Expertise in Python and experience with deep learning frameworks (PyTorch preferred)</li>
+<li>Familiarity with large-scale machine learning, particularly in the context of language models</li>
+<li>Ability to balance research goals with practical engineering constraints</li>
+<li>Strong problem-solving skills and a results-oriented mindset</li>
+<li>Excellent communication skills and ability to work in a collaborative environment</li>
+<li>Care about the societal impacts of your work</li>
+</ul>
+<p><strong>Preferred Experience:</strong></p>
+<ul>
+<li>Work on high-performance, large-scale ML systems</li>
+<li>Familiarity with GPUs, Kubernetes, and OS internals</li>
+<li>Experience with language modeling using transformer architectures</li>
+<li>Knowledge of reinforcement learning techniques</li>
+<li>Background in large-scale ETL processes</li>
+</ul>
+<p><strong>You'll thrive in this role if you:</strong></p>
+<ul>
+<li>Have significant software engineering experience</li>
+<li>Are results-oriented with a bias towards flexibility and impact</li>
+<li>Willingly take on tasks outside your job description to support the team</li>
+<li>Enjoy pair programming and collaborative work</li>
+<li>Are eager to learn more about machine learning research</li>
+<li>Are enthusiastic to work at an organization that functions as a single, cohesive team pursuing large-scale AI research projects</li>
+<li>Are working to align state of the art models with human values and preferences, understand and interpret deep neural networks, or develop new models to support these areas of research</li>
+<li>View research and engineering as two sides of the same coin, and seek to understand all aspects of our research program as well as possible, to maximize the impact of your insights</li>
+<li>Have ambitious goals for AI safety and general progress in the next few years, and you’re working to create the best outcomes over the long-term.</li>
+</ul>
+<p><strong>Sample Projects:</strong></p>
+<ul>
+<li>Optimizing the throughput of novel attention mechanisms</li>
+<li>Comparing compute efficiency of different Transformer variants</li>
+<li>Preparing large-scale datasets for efficient model consumption</li>
+<li>Scaling distributed training jobs to thousands of GPUs</li>
+<li>Designing fault tolerance strategies for our training infrastructure</li>
+<li>Creating interactive visualizations of model internals, such as attention patterns</li>
+</ul>
+<p>At Anthropic, we are committed to fostering a diverse and inclusive workplace. We strongly encourage applications from candidates of all backgrounds, including those from underrepresented groups in tech.</p>
+<p>If you're excited about pushing the boundaries of AI while prioritizing safety and ethics, we want to hear from you!</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$350,000</span><span class="divider">&mdash;</span><span>$850,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

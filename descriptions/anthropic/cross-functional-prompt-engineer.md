@@ -1,0 +1,51 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the Role</strong></h2>
+<p>As a Cross-functional Prompt Engineer at Anthropic, you'll own and shape Claude's behaviors across all of our products, ensuring users get a consistent, safe, and beneficial experience whether they're using claude.ai, Claude Code, or our other offerings. This role sits at the intersection of research and product, combining rigorous prompt engineering with strategic thinking about model behaviors.</p>
+<p>You'll be the expert on Claude's behavioral quirks and capabilities, owning and authoring critical system prompts for new models and products while also delivering complex meta-prompts that drive our research pipelines. When behavioral issues arise—like sycophancy concerns or safety incidents—you'll lead the response, working with product and research teams to identify, prioritize, and resolve problems. You'll also serve as a trusted resource for product teams tackling difficult prompting challenges, bringing rigor to our production prompts and scaling best practices across the organization.</p>
+<p>This role requires someone who can balance immediate product needs with long-term behavioral goals, and who cares deeply about making Claude a healthy alternative in the AI landscape. You'll need strong prompting skills, technical foundations, excellent judgment about model behaviors, and the collaborative skills to work across research, product, and safety teams. This role offers a unique opportunity to directly shape how Claude behaves across all of Anthropic's products, ensuring our AI systems are safe, beneficial, and aligned with human values at scale.</p>
+<p><em>Note: We are open to exceptional prompters who are less comfortable with (but open to learning) coding, and adjusting expectations accordingly. However, we still require basic Python familiarity and an ability to navigate unfamiliar codebases.</em></p>
+<h2><strong>Responsibilities:</strong></h2>
+<ul>
+<li>Author and maintain behavior system prompts for each new Claude model release, ensuring consistent and aligned behaviors across products</li>
+<li>Deliver meta-prompts for critical research synthetic data pipelines, enabling our alignment and training efforts</li>
+<li>Review production prompt changes from product teams and serve as a resource for particularly challenging prompting problems involving alignment and reputational risks</li>
+<li>Identify, triage, and prioritize behavioral issues across Claude products, leading incident response for behavioral and policy concerns</li>
+<li>Develop behavioral evaluations in collaboration with product teams and alignment research to measure and track Claude's behaviors</li>
+<li>Define and streamline processes for rolling out prompt changes, including launch criteria and review practices</li>
+<li>Create model-specific prompt guides that document quirks and optimal prompting strategies for each release</li>
+<li>Contribute to product evaluations and prompt infrastructure improvements</li>
+<li>Track how Claude's behaviors compare to competitors, particularly on safety dimensions</li>
+<li>Scale prompting best practices and define success metrics for production behaviors</li>
+</ul>
+<h2><strong>You May Be a Good Fit If You:</strong></h2>
+<ul>
+<li>Have extensive prompt engineering experience with large language models, including writing and evaluating complex multi-step prompts</li>
+<li>Possess deep knowledge of Claude's behaviors, capabilities, and limitations, with strong intuition for what issues are promptable versus requiring model-layer changes</li>
+<li>Can write Python and create behavioral evaluations from scratch</li>
+<li>Have excellent judgment about what model behaviors should look like in response to various inputs</li>
+<li>Demonstrate strong technical understanding, including comprehension of agent scaffold architectures and model training processes</li>
+<li>Excel at working across organizational boundaries, collaborating effectively with research, product, and safety teams</li>
+<li>Have core product management skills: prioritization, requirements gathering, stakeholder management, and translating user feedback into actionable specifications</li>
+<li>Can independently drive changes through production systems with strong execution and responsiveness</li>
+<li>Care deeply about AI safety and model welfare, understanding the ethical implications of model behaviors</li>
+</ul>
+<h2><strong>Strong Candidates May Also Have:</strong></h2>
+<ul>
+<li>Background in philosophy, ethics, or psychology that informs thinking about model behaviors and values</li>
+<li>Experience with RLHF, constitutional AI, or other alignment techniques</li>
+<li>Track record of writing specifications or guidelines that shape complex system behaviors</li>
+<li>Experience responding to safety incidents or behavioral issues in production AI systems</li>
+<li>Formal training in ethics or moral philosophy</li>
+<li>Published work or demonstrated expertise in AI safety or alignment</li>
+<li>Experience building and maintaining evaluation frameworks for language models</li>
+<li>Background in data science with emphasis on data quality and verification</li>
+</ul>
+<p>This role offers a unique opportunity to directly shape how Claude behaves across all of Anthropic's products, ensuring our AI systems are safe, beneficial, and aligned with human values at scale.</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$320,000</span><span class="divider">&mdash;</span><span>$405,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

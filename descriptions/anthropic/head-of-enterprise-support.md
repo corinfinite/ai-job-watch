@@ -1,0 +1,51 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>Responsibilities:</strong></h2>
+<p><strong>Team Leadership</strong></p>
+<ul>
+<li>Lead and scale a global team of Support Managers and Specialists across AMER and EMEA</li>
+<li>Build a high-performance culture rooted in customer obsession, operational excellence, and continuous improvement</li>
+<li>Own hiring, onboarding, career development, and performance management for the human support organization</li>
+<li>Develop and mentor managers to lead their own high-performing teams</li>
+</ul>
+<p><strong>Enterprise &amp; Paid Support</strong></p>
+<ul>
+<li>Define and execute the strategy for our paid enterprise support offering, including tiered support packages, contractual SLAs, and expanded support channels</li>
+<li>Build and operationalize 24/7 human support coverage for premium customers</li>
+<li>Own the P&amp;L, pricing strategy, and go-to-market approach for paid support in partnership with Sales and Finance</li>
+<li>Establish service delivery frameworks that consistently meet or exceed contractual commitments</li>
+</ul>
+<p><strong>Operations &amp; Strategy</strong></p>
+<ul>
+<li>Set team-wide goals, KPIs, and operating rhythms; use data to drive decisions and demonstrate impact</li>
+<li>Design and optimize support processes, workflows, and tooling to improve quality, efficiency, and scalability</li>
+<li>Own escalation management and ensure critical customer issues are resolved with urgency and care</li>
+<li>Drive voice-of-customer insights to Product, Engineering, and leadership to improve the overall customer experience</li>
+</ul>
+<p><strong>Cross-Functional Partnership</strong></p>
+<ul>
+<li>Partner closely with Sales, Account Executives, and Customer Success to deliver seamless enterprise customer experiences</li>
+<li>Collaborate with Product and Engineering on product feedback loops, beta programs, and technical escalations</li>
+<li>Represent Support in executive reviews and cross-functional planning</li>
+</ul>
+<p>&nbsp;</p>
+<h2><strong>You may be a good fit if you:</strong></h2>
+<ul>
+<li>Have 12+ years of experience in customer support, with at least 6 years leading support teams and 3+ years as a manager of managers</li>
+<li>Have built or scaled enterprise and/or paid support programs from the ground up, including defining SLAs, pricing, and service delivery models</li>
+<li>Have a strong track record of building high-performing, globally distributed support teams</li>
+<li>Are deeply experienced in B2B/enterprise support for technical products (SaaS, APIs, developer tools)</li>
+<li>Are data-driven and metrics-oriented; you know how to set goals, measure performance, and use insights to improve</li>
+<li>Have excellent judgment and can balance customer needs with business priorities</li>
+<li>Are a strong cross-functional partner, especially with Sales/GTM teams</li>
+<li>Communicate with clarity and empathy, whether with customers, executives, or your own team</li>
+<li>Are energized by ambiguity and building something new; you thrive in fast-paced, evolving environments</li>
+<li>Are genuinely curious about AI and excited to support customers using Anthropic's products</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$250,000</span><span class="divider">&mdash;</span><span>$320,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

@@ -1,0 +1,51 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2>
+<p>As an External Policy &amp; Partnerships Manager on the Safeguards Outreach &amp; Partnerships team, you will own how Anthropic communicates its safety policies to the outside world and how we work with external partners to strengthen our approach. This includes maintaining and evolving our Usage Policy and other external-facing policy documents, supporting enterprise customer relationships alongside our Sales/Go-to-Market and Legal teams, driving transparency efforts like model cards and public reporting, and building external partnerships that inform our policy development and safety practices.</p>
+<p>You'll serve as a bridge between internal policy development and external stakeholders—translating nuanced safety decisions into clear, consistent language for users, customers, and regulators. Commercial teams will see you as a key partner navigating customer questions about our policies, detection systems, and enforcement practices. You'll manage expert relationships that inform our policies and interventions, coordinate research partnerships that establish best practices in AI safety, and oversee vendor relationships that power key safety features.</p>
+<p>This is a role for someone who can operate across legal, policy, partnership, and commercial contexts while maintaining a clear through-line on Anthropic's safety commitments.</p>
+<p><em>*Important context for this role: In this position you may be exposed to and engage with explicit content spanning a range of topics, including those of a sexual, violent, or psychologically disturbing nature.</em></p>
+<h2><strong>Responsibilities:</strong></h2>
+<h3><strong>External Policy&nbsp;</strong></h3>
+<ul>
+<li>Own and coordinate updates to external policy documents, including the Usage Policy, Supported Regions Policy, and Safeguards-related elements of our Terms of Service</li>
+<li>Coordinate cross-functional review processes for policy updates and external content, working across Legal, Policy, Communications, and Product teams</li>
+<li>Be the first point of contact for policy interpretation and application questions, working with subject matter experts as needed</li>
+<li>Work with internal policy SMEs to translate complex policies and decisions into clear external-facing language&nbsp;</li>
+<li>Drive Safeguards contributions to external reporting efforts, including model cards, transparency reports, and Help Center content</li>
+<li>Meet regulatory obligations around transparency and reporting, including for the EU AI Act and other emerging requirements</li>
+<li>Work with Policy teams to track regulatory developments that may impact external policy language and reporting requirements</li>
+<li>Collaborate with Engineering and Enforcement teams to translate policy into workflows or automated processes</li>
+</ul>
+<h3><strong>Customer &amp; Commercial Relationships</strong></h3>
+<ul>
+<li>Partner with Sales/Go-to-Market and Legal teams to support enterprise customer relationships, including liaising with customers on Safeguards policies and procedures</li>
+<li>Support customer negotiations involving Safeguards-related terms, consulting with policy owners to ensure consistency</li>
+<li>Develop scalable resources (FAQs, one-pagers, decision trees) to support recurring policy questions from cross-functional teams</li>
+</ul>
+<h3><strong>External Partnerships</strong></h3>
+<ul>
+<li>Build and maintain expert relationships across civil society, academia, and government that inform policy development and evaluation frameworks</li>
+<li>Coordinate research partnerships and expert consultations across Safeguards topic areas</li>
+<li>Manage vendor relationships for safety tools and interventions, including contract negotiation and ongoing coordination</li>
+</ul>
+<h2><strong>You may be a good fit if you have:</strong></h2>
+<ul>
+<li>6+ years in policy, compliance, or trust &amp; safety roles, ideally at a technology company</li>
+<li>A track record of drafting or maintaining external-facing policy documents (e.g., acceptable use policies, terms of service, community guidelines)</li>
+<li>Experience supporting commercial or legal teams on policy-related customer questions</li>
+<li>Track record of building relationships with civil society organizations, academic institutions, or government bodies</li>
+<li>Strong writing skills with the ability to translate technical or nuanced concepts into clear, accessible language</li>
+<li>Background working cross-functionally across legal, policy, product, engineering, and communications teams</li>
+<li>Vendor management experience, including contract negotiation and ongoing coordination</li>
+<li>Familiarity with AI safety, user trust, or platform policy issues</li>
+<li>Comfort with ambiguity and the ability to make judgment calls on novel policy questions</li>
+<li>History of contributing to transparency or public reporting efforts (model cards, transparency reports, regulatory filings)</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$245,000</span><span class="divider">&mdash;</span><span>$285,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

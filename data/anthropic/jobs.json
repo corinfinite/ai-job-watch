@@ -1,0 +1,3392 @@
+[
+  {
+    "id": "account-executive-beneficial-deployments",
+    "title": "Account Executive, Beneficial Deployments",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5072140008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4fe229b1efde"
+  },
+  {
+    "id": "account-executive-mid-market-german",
+    "title": "Account Executive, Mid Market, German",
+    "team": "Sales",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4978301008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "8a6572d03320"
+  },
+  {
+    "id": "account-executive-mid-market-uki",
+    "title": "Account Executive, Mid Market UKI",
+    "team": "Sales",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4948535008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "8a13a1decc82"
+  },
+  {
+    "id": "account-executive-mid-market-uki-4978296008",
+    "title": "Account Executive, Mid Market - UKI",
+    "team": "Sales",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4978296008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "644a8e499635"
+  },
+  {
+    "id": "account-executive-startups",
+    "title": "Account Executive, Startups",
+    "team": "Sales",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4964935008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f59ed3861ac7"
+  },
+  {
+    "id": "analytics-data-engineer",
+    "title": "Analytics Data Engineer",
+    "team": "Data Science & Analytics",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "20968928fb63"
+  },
+  {
+    "id": "anthropic-ai-safety-fellow",
+    "title": "Anthropic AI Safety Fellow",
+    "team": "AI Research & Engineering",
+    "location": "London, UK; Ontario, CA; Remote-Friendly, United States; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4b7bdf400045"
+  },
+  {
+    "id": "anthropic-ai-security-fellow",
+    "title": "Anthropic AI Security Fellow",
+    "team": "AI Research & Engineering",
+    "location": "London, UK; Ontario, CA; Remote-Friendly, United States; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030244008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "263d0f5ae380"
+  },
+  {
+    "id": "application-security-engineer",
+    "title": "Application Security Engineer",
+    "team": "Security",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c830a3857dd0"
+  },
+  {
+    "id": "application-security-engineering-manager",
+    "title": "Application Security Engineering Manager",
+    "team": "Security",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4562813008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5725d83a0368"
+  },
+  {
+    "id": "applied-ai-engineer-beneficial-deployments",
+    "title": "Applied AI Engineer, Beneficial Deployments",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068226008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "841bc49535ac"
+  },
+  {
+    "id": "applied-ai-engineer-startups",
+    "title": "Applied AI Engineer, Startups",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5073277008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c1c0e79ae3d6"
+  },
+  {
+    "id": "applied-safety-research-engineer-safeguards",
+    "title": "Applied Safety Research Engineer, Safeguards",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062955008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c7853e1c9863"
+  },
+  {
+    "id": "biological-safety-research-scientist",
+    "title": "Biological Safety Research Scientist",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066977008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7e263e6698c3"
+  },
+  {
+    "id": "business-development-representative",
+    "title": "Business Development Representative",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1993fbd13507"
+  },
+  {
+    "id": "business-development-representative-emea",
+    "title": "Business Development Representative, EMEA",
+    "team": "Sales",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4969427008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "69e2480a5fb3"
+  },
+  {
+    "id": "business-development-strategic-technology-partnerships",
+    "title": "Business Development, Strategic Technology Partnerships",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5016875008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "71b974b7c23d"
+  },
+  {
+    "id": "business-systems-analyst",
+    "title": "Business Systems Analyst ",
+    "team": "Security",
+    "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985140008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3d064d4ec98d"
+  },
+  {
+    "id": "capacity-engineer-compute",
+    "title": "Capacity Engineer, Compute",
+    "team": "Compute",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4801218008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2f6e362550bd"
+  },
+  {
+    "id": "cloud-gtm-partnerships-lead-south-korea",
+    "title": "Cloud GTM Partnerships Lead - South Korea",
+    "team": "Sales",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4962959008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5feed0cc648c"
+  },
+  {
+    "id": "commercial-counsel-colo-networks",
+    "title": "Commercial Counsel, Colo & Networks",
+    "team": "Legal",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5045003008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e8e05f5ba3fd"
+  },
+  {
+    "id": "commercial-counsel-compute-infrastructure",
+    "title": "Commercial Counsel, Compute & Infrastructure",
+    "team": "Legal",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5045006008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e4ae0348dd47"
+  },
+  {
+    "id": "commercial-counsel-datacenters-construction",
+    "title": "Commercial Counsel, Datacenters & Construction",
+    "team": "Legal",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "140462ebb5bb"
+  },
+  {
+    "id": "commercial-counsel-gtm",
+    "title": "Commercial Counsel, GTM",
+    "team": "Legal",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d0829747bc5d"
+  },
+  {
+    "id": "commercial-counsel-partnerships-alliances",
+    "title": "Commercial Counsel, Partnerships & Alliances",
+    "team": "Legal",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4983107008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2ba68e32ab8a"
+  },
+  {
+    "id": "commercial-legal-specialist-technical-ai-implementation",
+    "title": "Commercial Legal Specialist, Technical AI Implementation",
+    "team": "Legal",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980504008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0aa137e69948"
+  },
+  {
+    "id": "compensation-systems-and-infrastructure",
+    "title": "Compensation Systems and Infrastructure",
+    "team": "People",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973549008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "140a6a3e7894"
+  },
+  {
+    "id": "compute-capacity-strategy-operations",
+    "title": "Compute Capacity Strategy & Operations",
+    "team": "Compute",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068424008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5b958f5ba861"
+  },
+  {
+    "id": "compute-transactions-partnerships",
+    "title": "Compute Transactions & Partnerships",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986778008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "38ccb63e9504"
+  },
+  {
+    "id": "contract-part-time-workplace-coordinator-japan",
+    "title": "[Contract, Part-time] Workplace Coordinator - Japan",
+    "team": "People",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5015925008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f133f04607f0"
+  },
+  {
+    "id": "contract-part-time-workplace-coordinator-uki",
+    "title": "[Contract, Part-time] Workplace Coordinator - UKI",
+    "team": "People",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5015913008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7d4f0b13a638"
+  },
+  {
+    "id": "contracts-manager",
+    "title": "Contracts Manager",
+    "team": "Legal",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4987662008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "54cd8891a195"
+  },
+  {
+    "id": "contracts-manager-procurement",
+    "title": "Contracts Manager, Procurement",
+    "team": "Legal",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4955791008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "641da895c986"
+  },
+  {
+    "id": "corporate-communications-manager",
+    "title": "Corporate Communications Manager ",
+    "team": "Communications",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5017818008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4b4564f57701"
+  },
+  {
+    "id": "corporate-counsel-m-a",
+    "title": "Corporate Counsel, M&A",
+    "team": "Legal",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5059367008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "6e8acd2db157"
+  },
+  {
+    "id": "corporate-legal-specialist",
+    "title": "Corporate Legal Specialist",
+    "team": "Legal",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5011703008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "aa8385d312f5"
+  },
+  {
+    "id": "cross-functional-prompt-engineer",
+    "title": "Cross-functional Prompt Engineer",
+    "team": "AI Research & Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4988308008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "dcf93058754a"
+  },
+  {
+    "id": "customer-activation-manager",
+    "title": "Customer Activation Manager",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973116008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f0d9ffe7c607"
+  },
+  {
+    "id": "customer-activation-manager-5021231008",
+    "title": "Customer Activation Manager",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5021231008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "16f25bae805f"
+  },
+  {
+    "id": "customer-activation-manager-large-scale-deployments",
+    "title": "Customer Activation Manager, Large-Scale Deployments",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5013277008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ff529b506f13"
+  },
+  {
+    "id": "customer-marketing-manager",
+    "title": "Customer Marketing Manager",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4971073008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0014505338cc"
+  },
+  {
+    "id": "customer-marketing-manager-emea",
+    "title": "Customer Marketing Manager - EMEA",
+    "team": "Marketing & Brand",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4971197008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a3a18c3ec3c5"
+  },
+  {
+    "id": "customer-success-manager",
+    "title": "Customer Success Manager",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5063099008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "16c12a4e4714"
+  },
+  {
+    "id": "customer-success-manager-apac",
+    "title": "Customer Success Manager, APAC",
+    "team": "Sales",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062759008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "bf8c85505312"
+  },
+  {
+    "id": "customer-success-manager-beneficial-deployments",
+    "title": "Customer Success Manager, Beneficial Deployments",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4997951008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3d3bff4acf95"
+  },
+  {
+    "id": "customer-success-manager-digital-native-business",
+    "title": "Customer Success Manager, Digital Native Business",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062733008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "82e224cce6d9"
+  },
+  {
+    "id": "customer-success-manager-digital-native-businesses",
+    "title": "Customer Success Manager, Digital Native Businesses ",
+    "team": "Sales",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062393008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0b1dd41a928c"
+  },
+  {
+    "id": "customer-trust-lead",
+    "title": "Customer Trust Lead",
+    "team": "Security",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4971331008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3669bfeb0bdb"
+  },
+  {
+    "id": "data-center-facility-operations-lead",
+    "title": "Data Center Facility Operations Lead",
+    "team": "Compute",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023727008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "aadc2b86138e"
+  },
+  {
+    "id": "data-center-hardware-operations-lead",
+    "title": "Data Center Hardware Operations Lead",
+    "team": "Compute",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023719008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ebfbf2c8a5eb"
+  },
+  {
+    "id": "data-center-physical-security-lead",
+    "title": "Data Center Physical Security Lead",
+    "team": "Security",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5059602008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "47df657dd3a5"
+  },
+  {
+    "id": "data-center-strategic-sourcing-lead",
+    "title": "Data Center Strategic Sourcing Lead",
+    "team": "Compute",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023731008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "dbb7b35b95f5"
+  },
+  {
+    "id": "data-engineer-economic-research",
+    "title": "Data Engineer, Economic Research",
+    "team": "Data Science & Analytics",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "15ff6f20f536"
+  },
+  {
+    "id": "data-operations-manager",
+    "title": "Data Operations Manager",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4946317008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "25fa444ecc93"
+  },
+  {
+    "id": "data-operations-manager-computer-use-tool-use",
+    "title": "Data Operations Manager, Computer Use & Tool Use",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9781c5c5e3f1"
+  },
+  {
+    "id": "data-operations-product-partnerships",
+    "title": "Data Operations, Product Partnerships",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5056499008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f2cf7a7ae3e2"
+  },
+  {
+    "id": "data-scientist-marketing",
+    "title": "Data Scientist, Marketing",
+    "team": "Data Science & Analytics",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4983584008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ac5c966e787c"
+  },
+  {
+    "id": "developer-campaign-marketer-claude-code",
+    "title": "Developer Campaign Marketer - Claude Code",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a226fc9441bc"
+  },
+  {
+    "id": "developer-community-lead-japan",
+    "title": "Developer Community Lead - Japan",
+    "team": "Marketing & Brand",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4992713008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "28a5224c7df4"
+  },
+  {
+    "id": "developer-relations-mcp",
+    "title": "Developer Relations, MCP",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "6872eb808105"
+  },
+  {
+    "id": "director-compute-infrastructure-procurement",
+    "title": "Director, Compute Infrastructure Procurement ",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4900975008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "edab553219ed"
+  },
+  {
+    "id": "director-fx-investments",
+    "title": "Director, FX & Investments",
+    "team": "Finance",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062861008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2e93226ccfdb"
+  },
+  {
+    "id": "director-order-management-billing",
+    "title": "Director, Order Management & Billing",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4959525008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0a1a157bacc0"
+  },
+  {
+    "id": "emea-security-operations-coordinator",
+    "title": "EMEA Security Operations Coordinator",
+    "team": "Security",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949366008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3315c47d9e8c"
+  },
+  {
+    "id": "employment-counsel-emea",
+    "title": "Employment Counsel, EMEA",
+    "team": "Legal",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986303008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "da19a17f32d1"
+  },
+  {
+    "id": "engagement-manager-applied-ai",
+    "title": "Engagement Manager, Applied AI",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4a91a2da7acd"
+  },
+  {
+    "id": "engineering-manager-claude-developer-platform",
+    "title": "Engineering Manager, Claude Developer Platform",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4721383008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e1f86957893c"
+  },
+  {
+    "id": "engineering-manager-claude-services",
+    "title": "Engineering Manager, Claude Services",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5026197008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "350b68af8730"
+  },
+  {
+    "id": "engineering-manager-cloud-inference-azure",
+    "title": "Engineering Manager, Cloud Inference Azure",
+    "team": "Software Engineering - Infrastructure",
+    "location": "San Francisco, CA | Seattle, WA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068272008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "094db88b8c70"
+  },
+  {
+    "id": "engineering-manager-cloud-security",
+    "title": "Engineering Manager, Cloud Security",
+    "team": "Security",
+    "location": "San Francisco, CA | Seattle, WA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4897424008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "38274c77af77"
+  },
+  {
+    "id": "engineering-manager-detection-and-response",
+    "title": "Engineering Manager, Detection and Response",
+    "team": "Security",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5071506008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "afea1eaab80e"
+  },
+  {
+    "id": "engineering-manager-inference",
+    "title": "Engineering Manager, Inference",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "710dec9bf29b"
+  },
+  {
+    "id": "engineering-manager-ml-acceleration",
+    "title": "Engineering Manager, ML Acceleration",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e351dbc980d0"
+  },
+  {
+    "id": "engineering-manager-product-platform-accounts-platform",
+    "title": "Engineering Manager, Product Platform & Accounts Platform",
+    "team": "Engineering & Design - Product",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "09bcc7b25bfd"
+  },
+  {
+    "id": "engineering-manager-public-sector",
+    "title": "Engineering Manager, Public Sector",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4903385008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "29f44ef2e81e"
+  },
+  {
+    "id": "engineering-manager-ui-claude-consumer-products",
+    "title": "Engineering Manager, UI Claude Consumer Products",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041870008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7db3c8776acc"
+  },
+  {
+    "id": "engineering-manager-ui-platform",
+    "title": "Engineering Manager, UI Platform",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5058714008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "098f06bf2101"
+  },
+  {
+    "id": "enterprise-account-executive",
+    "title": "Enterprise Account Executive",
+    "team": "Sales",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a135926faf69"
+  },
+  {
+    "id": "enterprise-account-executive-4798695008",
+    "title": "Enterprise Account Executive",
+    "team": "Sales",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4798695008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "666ab77dfeb7"
+  },
+  {
+    "id": "enterprise-account-executive-digital-native-business",
+    "title": "Enterprise Account Executive - Digital Native Business",
+    "team": "Sales",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5073676008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "617c85e465b2"
+  },
+  {
+    "id": "enterprise-account-executive-digital-native-business-4493001008",
+    "title": "Enterprise Account Executive, Digital Native Business",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4493001008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "cb3551e157c3"
+  },
+  {
+    "id": "enterprise-account-executive-digital-native-business-4974034008",
+    "title": "Enterprise Account Executive, Digital Native Business",
+    "team": "Sales",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4974034008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4e860b738320"
+  },
+  {
+    "id": "enterprise-account-executive-digital-native-business-4974037008",
+    "title": "Enterprise Account Executive, Digital Native Business",
+    "team": "Sales",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4974037008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f1a14df5ad72"
+  },
+  {
+    "id": "enterprise-account-executive-digital-native-business-5062762008",
+    "title": "Enterprise Account Executive, Digital Native Business",
+    "team": "Sales",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062762008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "89907424d79c"
+  },
+  {
+    "id": "enterprise-account-executive-dod-ic",
+    "title": "Enterprise Account Executive, DOD/IC",
+    "team": "Sales",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4959324008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ab63c92cb013"
+  },
+  {
+    "id": "enterprise-account-executive-emea-industries",
+    "title": "Enterprise Account Executive, EMEA Industries",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4677172008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3d3387a7e85f"
+  },
+  {
+    "id": "enterprise-account-executive-federal-civilian-sales",
+    "title": "Enterprise Account Executive, Federal Civilian Sales",
+    "team": "Sales",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4959331008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c5605e4068ee"
+  },
+  {
+    "id": "enterprise-account-executive-federal-partners-sales",
+    "title": "Enterprise Account Executive, Federal Partners Sales",
+    "team": "Sales",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4959334008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "41822210ba30"
+  },
+  {
+    "id": "enterprise-account-executive-financial-services",
+    "title": "Enterprise Account Executive, Financial Services",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4881468008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "183ded1b1a66"
+  },
+  {
+    "id": "enterprise-account-executive-healthcare-life-sciences",
+    "title": "Enterprise Account Executive, Healthcare & Life Sciences",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4677205008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "74b31c4cd131"
+  },
+  {
+    "id": "enterprise-account-executive-industries",
+    "title": "Enterprise Account Executive, Industries",
+    "team": "Sales",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4881471008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fbf4f9d7cd52"
+  },
+  {
+    "id": "enterprise-account-executive-industries-4493035008",
+    "title": "Enterprise Account Executive, Industries",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4493035008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a117e8713807"
+  },
+  {
+    "id": "enterprise-account-executive-industries-4881474008",
+    "title": "Enterprise Account Executive, Industries",
+    "team": "Sales",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4881474008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e42751eb359c"
+  },
+  {
+    "id": "enterprise-account-executive-industries-4947500008",
+    "title": "Enterprise Account Executive, Industries",
+    "team": "Sales",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4947500008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "69905b746a5a"
+  },
+  {
+    "id": "enterprise-account-executive-industries-generalist",
+    "title": "Enterprise Account Executive, Industries Generalist",
+    "team": "Sales",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062757008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "08ec96a33651"
+  },
+  {
+    "id": "enterprise-account-executive-industries-generalist-4964929008",
+    "title": "Enterprise Account Executive, Industries Generalist",
+    "team": "Sales",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4964929008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ccf2f1d3bd33"
+  },
+  {
+    "id": "enterprise-account-executive-public-sector",
+    "title": "Enterprise Account Executive, Public Sector ",
+    "team": "Sales",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5033502008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "62d687614315"
+  },
+  {
+    "id": "enterprise-account-executive-state-local-sales",
+    "title": "Enterprise Account Executive, State & Local Sales",
+    "team": "Sales",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4959329008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "6553a9c8f189"
+  },
+  {
+    "id": "european-tax-lead",
+    "title": "European Tax Lead",
+    "team": "Finance",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5071198008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2e0803df8b03"
+  },
+  {
+    "id": "event-security-program-coordinator",
+    "title": "Event Security Program Coordinator ",
+    "team": "Security",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4965200008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "331eb237ba1b"
+  },
+  {
+    "id": "expression-of-interest-research-manager-interpretability",
+    "title": " [Expression of Interest] Research Manager, Interpretability",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "12ca81b52a51"
+  },
+  {
+    "id": "expression-of-interest-research-scientist-engineer-alignment-finetuning",
+    "title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4520279008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "454d5a369ee4"
+  },
+  {
+    "id": "expression-of-interest-research-scientist-engineer-honesty",
+    "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
+    "team": "AI Research & Engineering",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "cf6bf1b42c4e"
+  },
+  {
+    "id": "external-policy-partnerships-manager-safeguards",
+    "title": "External Policy & Partnerships Manager, Safeguards",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5067287008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "de53822a54c8"
+  },
+  {
+    "id": "field-marketing-lead-emea",
+    "title": "Field Marketing Lead, EMEA",
+    "team": "Marketing & Brand",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5026187008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f040c628dd91"
+  },
+  {
+    "id": "field-marketing-manager-industries",
+    "title": "Field Marketing Manager, Industries",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4934940008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "096ab2969226"
+  },
+  {
+    "id": "field-marketing-manager-startups",
+    "title": "Field Marketing Manager, Startups",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5026192008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5af865300d6a"
+  },
+  {
+    "id": "finance-and-strategy-people-headcount-planning",
+    "title": "Finance and Strategy, People & Headcount Planning",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5061738008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "dca338ee8dd7"
+  },
+  {
+    "id": "finance-systems-finance-strategy-lead",
+    "title": "Finance Systems, Finance & Strategy Lead",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5060653008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2d01593e55fa"
+  },
+  {
+    "id": "finance-systems-integration-engineer",
+    "title": "Finance Systems Integration Engineer",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5000393008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7f19131b52d3"
+  },
+  {
+    "id": "finance-systems-manager",
+    "title": "Finance Systems Manager",
+    "team": "Finance",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4966367008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c793c3d4ca0f"
+  },
+  {
+    "id": "finance-systems-senior-business-systems-analyst",
+    "title": "Finance Systems, Senior Business Systems Analyst",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4991194008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0f6e315c3f5e"
+  },
+  {
+    "id": "finance-systems-senior-business-systems-analyst-finance-strategy",
+    "title": "Finance Systems, Senior Business Systems Analyst - Finance & Strategy",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5018838008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5d613d305055"
+  },
+  {
+    "id": "finance-systems-tax-technology-lead",
+    "title": "Finance Systems, Tax Technology Lead",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5064245008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "928f583d00c0"
+  },
+  {
+    "id": "finance-variable-compensation-lead",
+    "title": "Finance Variable Compensation Lead",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4831485008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "669641bf6575"
+  },
+  {
+    "id": "forward-deployed-engineer",
+    "title": "Forward Deployed Engineer",
+    "team": "Sales",
+    "location": "Atlanta, GA; Austin, TX; Boston, MA; Chicago, IL; New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "733db8b4620f"
+  },
+  {
+    "id": "founding-developer-relations-lead",
+    "title": "Founding Developer Relations Lead",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4781798008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "eb500a5b6b5f"
+  },
+  {
+    "id": "founding-gtm-recruiter-anz",
+    "title": "Founding GTM Recruiter - ANZ",
+    "team": "People",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4984653008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "41b81a60e414"
+  },
+  {
+    "id": "global-partner-lead-accenture",
+    "title": "Global Partner Lead, Accenture",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5015692008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5ffb70d10598"
+  },
+  {
+    "id": "global-partner-lead-deloitte",
+    "title": "Global Partner Lead, Deloitte",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4747937008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "bada79401313"
+  },
+  {
+    "id": "global-partner-sales-manager-systems-integrators",
+    "title": "Global Partner Sales Manager, Systems Integrators",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5018233008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ce84f5e945c1"
+  },
+  {
+    "id": "global-real-estate-design-construction-manager",
+    "title": "Global Real Estate Design & Construction Manager",
+    "team": "People",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9f6b13e6cfb7"
+  },
+  {
+    "id": "global-technology-partner-lead",
+    "title": "Global Technology Partner Lead",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5043437008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fa02ace9a3e5"
+  },
+  {
+    "id": "google-partnerships-manager-digital-native-startups",
+    "title": "Google Partnerships Manager, Digital Native & Startups",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a6591b2c0b62"
+  },
+  {
+    "id": "growth-account-executive",
+    "title": "Growth Account Executive",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3a9743513ffe"
+  },
+  {
+    "id": "gtm-partner-enablement",
+    "title": "GTM Partner Enablement",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973162008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4cfcae052226"
+  },
+  {
+    "id": "gtm-recruiter-apac",
+    "title": "GTM Recruiter, APAC",
+    "team": "People",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055609008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9cc4b8417ef2"
+  },
+  {
+    "id": "gtm-strategy-operations-industries-emea",
+    "title": "GTM Strategy & Operations (Industries), EMEA",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5005519008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2c618df59ec0"
+  },
+  {
+    "id": "head-of-asset-wealth-management-gtm-sales",
+    "title": "Head of Asset & Wealth Management, GTM Sales",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041304008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4a45fc08692a"
+  },
+  {
+    "id": "head-of-enterprise-support",
+    "title": "Head of Enterprise Support",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5069448008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "6c3c6d5719bc"
+  },
+  {
+    "id": "head-of-infrastructure-accounting",
+    "title": "Head of Infrastructure Accounting ",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4756214008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "05033dde6e5c"
+  },
+  {
+    "id": "head-of-insurance-gtm-sales",
+    "title": "Head of Insurance, GTM Sales",
+    "team": "Sales",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985438008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "879b5374acfb"
+  },
+  {
+    "id": "head-of-it-sox",
+    "title": "Head of IT SOX",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5061691008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0cf29dc26717"
+  },
+  {
+    "id": "head-of-partner-experience-success",
+    "title": "Head of Partner Experience & Success",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5015941008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0156eeb628a6"
+  },
+  {
+    "id": "head-of-product-communications",
+    "title": "Head of Product Communications",
+    "team": "Communications",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4930325008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a08874e1d8bd"
+  },
+  {
+    "id": "head-of-protective-services",
+    "title": "Head of Protective Services",
+    "team": "Security",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4933383008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d0bbb7bfabf3"
+  },
+  {
+    "id": "head-of-uk-northern-europe-partnerships",
+    "title": "Head of UK & Northern Europe Partnerships",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4982149008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "03553a8ce61c"
+  },
+  {
+    "id": "health-and-life-science-policy-lead",
+    "title": "Health and Life Science Policy Lead",
+    "team": "AI Policy & Societal Impacts",
+    "location": "San Francisco, CA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5070787008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d7755f584c33"
+  },
+  {
+    "id": "incentive-compensation-system-engineer",
+    "title": "Incentive Compensation System Engineer",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5042002008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d963d9f71dc0"
+  },
+  {
+    "id": "infrastructure-engineer-sandboxing",
+    "title": "Infrastructure Engineer, Sandboxing",
+    "team": "Software Engineering - Infrastructure",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "878fe35551c8"
+  },
+  {
+    "id": "international-accounting-manager",
+    "title": "International Accounting Manager",
+    "team": "Finance",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5060161008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "45f8298a8d93"
+  },
+  {
+    "id": "international-indirect-tax-vat-gst",
+    "title": "International Indirect Tax VAT/GST",
+    "team": "Finance",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5073339008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5261572549c4"
+  },
+  {
+    "id": "international-revenue-accountant",
+    "title": "International Revenue Accountant",
+    "team": "Finance",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4966365008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "dee34f8e7586"
+  },
+  {
+    "id": "it-systems-engineer",
+    "title": "IT Systems Engineer",
+    "team": "Security",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4887952008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "61afbc946269"
+  },
+  {
+    "id": "lead-product-manager-research",
+    "title": "Lead Product Manager, Research",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4933813008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a65f7a797746"
+  },
+  {
+    "id": "machine-learning-systems-engineer-research-tools",
+    "title": "Machine Learning Systems Engineer, Research Tools",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4174a0b3dde9"
+  },
+  {
+    "id": "machine-learning-systems-engineer-rl-engineering",
+    "title": "Machine Learning Systems Engineer, RL Engineering",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c71b7d37b29f"
+  },
+  {
+    "id": "manager-account-executive-enterprise-sales-industries",
+    "title": "Manager, Account Executive - Enterprise Sales (Industries)",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5054819008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "86af243a5809"
+  },
+  {
+    "id": "manager-account-executive-growth-startup-sales",
+    "title": "Manager, Account Executive - Growth Startup Sales ",
+    "team": "Sales",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5042447008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9378a202d33a"
+  },
+  {
+    "id": "manager-customer-success",
+    "title": "Manager, Customer Success",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "82687a10ec9c"
+  },
+  {
+    "id": "manager-customer-success-4914907008",
+    "title": "Manager, Customer Success",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "47032222cced"
+  },
+  {
+    "id": "manager-growth-account-executive",
+    "title": "Manager, Growth Account Executive",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d9d8858d34f1"
+  },
+  {
+    "id": "manager-it-support-operations",
+    "title": "Manager, IT Support & Operations",
+    "team": "Security",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041319008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "881985bb266d"
+  },
+  {
+    "id": "manager-mid-market-sales-emea",
+    "title": "Manager, Mid Market Sales - EMEA",
+    "team": "Sales",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5016196008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "8f9ab8cbb75f"
+  },
+  {
+    "id": "manager-of-associate-solutions-architects",
+    "title": "Manager of Associate Solutions Architects",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4947472008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "13155ca2e0c7"
+  },
+  {
+    "id": "manager-of-solutions-architecture-applied-ai",
+    "title": "Manager of Solutions Architecture, Applied AI",
+    "team": "Sales",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4935987008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c99cf9c83c8f"
+  },
+  {
+    "id": "manager-of-solutions-architecture-applied-ai-digital-native-businesses",
+    "title": "Manager of Solutions Architecture, Applied AI (Digital Native Businesses)",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "595ae305242d"
+  },
+  {
+    "id": "manager-of-solutions-architecture-applied-ai-industries",
+    "title": "Manager of Solutions Architecture, Applied AI (Industries)",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "cd35d3abe52b"
+  },
+  {
+    "id": "manager-of-solutions-architecture-public-sector-applied-ai",
+    "title": "Manager of Solutions Architecture, Public Sector, Applied AI",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973175008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "cbc32a217809"
+  },
+  {
+    "id": "manager-sales-development",
+    "title": "Manager, Sales Development",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4884644008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "634f78d9d051"
+  },
+  {
+    "id": "manager-startup-account-executive",
+    "title": "Manager, Startup Account Executive",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "cef16635074a"
+  },
+  {
+    "id": "manager-strategic-account-executive-digital-native-sales",
+    "title": "Manager, Strategic Account Executive - Digital Native Sales",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ca15931c6ce9"
+  },
+  {
+    "id": "marketing-events-lead-emea",
+    "title": "Marketing Events Lead, EMEA",
+    "team": "Marketing & Brand",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4934225008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "73927600140b"
+  },
+  {
+    "id": "microsoft-gtm-partnership-enterprise",
+    "title": "Microsoft GTM Partnership, Enterprise",
+    "team": "Sales",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "880d11aacc3c"
+  },
+  {
+    "id": "microsoft-gtm-partnerships-manager-digital-natives-startups",
+    "title": "Microsoft GTM Partnerships Manager, Digital Natives & Startups",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5018203008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "8b42c939c293"
+  },
+  {
+    "id": "mid-market-account-executive-industries",
+    "title": "Mid-Market Account Executive, Industries",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4931772008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e44f20959bea"
+  },
+  {
+    "id": "ml-infrastructure-engineer-safeguards",
+    "title": "ML Infrastructure Engineer, Safeguards",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d43e38d10ab8"
+  },
+  {
+    "id": "ml-research-engineer-safeguards",
+    "title": "ML/Research Engineer, Safeguards",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "dacfd17fbf05"
+  },
+  {
+    "id": "nonprofit-account-executive",
+    "title": "Nonprofit Account Executive",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "30b27654615a"
+  },
+  {
+    "id": "partner-development-manager-build-partners",
+    "title": "Partner Development Manager, Build Partners",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3793597770ac"
+  },
+  {
+    "id": "partner-marketing-lead-gsis",
+    "title": "Partner Marketing Lead, GSIs",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5061729008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "75d18cb0f226"
+  },
+  {
+    "id": "partner-marketing-manager-cloud-partners",
+    "title": "Partner Marketing Manager, Cloud Partners",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c9d2e9819758"
+  },
+  {
+    "id": "partner-operations-specialist",
+    "title": "Partner Operations Specialist",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f3a9ad5699da"
+  },
+  {
+    "id": "partner-sales-manager",
+    "title": "Partner Sales Manager",
+    "team": "Sales",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5069899008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3d41631b19ca"
+  },
+  {
+    "id": "partner-solutions-architect-applied-ai",
+    "title": "Partner Solutions Architect, Applied AI",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "98fb06ca71ac"
+  },
+  {
+    "id": "people-analytics-data-engineer",
+    "title": "People Analytics Data Engineer",
+    "team": "People",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4956333008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4f770088c57f"
+  },
+  {
+    "id": "performance-engineer",
+    "title": "Performance Engineer",
+    "team": "AI Research & Engineering",
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4020350008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a2af91e3b92f"
+  },
+  {
+    "id": "performance-engineer-gpu",
+    "title": "Performance Engineer, GPU",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "180cc00acdb4"
+  },
+  {
+    "id": "policy-communications-manager",
+    "title": "Policy Communications Manager",
+    "team": "Communications",
+    "location": "San Francisco, CA | New York City, NY; San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4979661008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e4a0c30e50b2"
+  },
+  {
+    "id": "policy-manager-chemical-weapons-and-high-yield-explosives",
+    "title": "Policy Manager, Chemical Weapons and High Yield Explosives",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066951008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "353491a27418"
+  },
+  {
+    "id": "portfolio-activation-manager",
+    "title": "Portfolio Activation Manager",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985873008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c282a2bef6bd"
+  },
+  {
+    "id": "privacy-counsel",
+    "title": "Privacy Counsel",
+    "team": "Legal",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980527008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "8fc1971c23dd"
+  },
+  {
+    "id": "privacy-research-engineer-safeguards",
+    "title": "Privacy Research Engineer, Safeguards",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949108008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "75a5d0bc04e1"
+  },
+  {
+    "id": "product-counsel-safety",
+    "title": "Product Counsel, Safety",
+    "team": "Legal",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074045008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1b9b885ed838"
+  },
+  {
+    "id": "product-designer-claude-code",
+    "title": "Product Designer, Claude Code ",
+    "team": "Engineering & Design - Product",
+    "location": "New York City, NY; Remote-Friendly (Travel Required) | San Francisco, CA; San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5025976008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "363bb6b1adf7"
+  },
+  {
+    "id": "product-designer-claude-developer-platform",
+    "title": "Product Designer, Claude Developer Platform",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055448008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7d342e1efd2f"
+  },
+  {
+    "id": "product-designer-enterprise",
+    "title": "Product Designer, Enterprise ",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055600008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7f787c754f21"
+  },
+  {
+    "id": "product-designer-growth",
+    "title": "Product Designer, Growth ",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4963443008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fbc67b00c37c"
+  },
+  {
+    "id": "product-engineer-applied-ai-digital-natives-business",
+    "title": "Product Engineer, Applied AI, Digital Natives Business",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3ce659a7358c"
+  },
+  {
+    "id": "product-lead-consumer",
+    "title": "Product Lead, Consumer",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4a8a17a6f2d8"
+  },
+  {
+    "id": "product-manager-api",
+    "title": "Product Manager, API ",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4936029008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "93e501eeabf8"
+  },
+  {
+    "id": "product-manager-claude-code",
+    "title": "Product Manager, Claude Code",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985920008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "765bc3dfc69b"
+  },
+  {
+    "id": "product-manager-claude-code-enterprise",
+    "title": "Product Manager, Claude Code (Enterprise)",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4858247008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d6001c2e4178"
+  },
+  {
+    "id": "product-manager-claude-code-growth",
+    "title": "Product Manager, Claude Code Growth",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5024981008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1ab2e93744c1"
+  },
+  {
+    "id": "product-manager-research",
+    "title": "Product Manager, Research",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4933792008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4e09750ed6c4"
+  },
+  {
+    "id": "product-manager-safeguards",
+    "title": "Product Manager, Safeguards",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4932942008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "19b421df700f"
+  },
+  {
+    "id": "product-marketing-lead-agents",
+    "title": "Product Marketing Lead, Agents",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055669008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "85978a246c24"
+  },
+  {
+    "id": "product-marketing-manager-claude-code",
+    "title": "Product Marketing Manager, Claude Code",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c5b52e768c0d"
+  },
+  {
+    "id": "product-operations-manager",
+    "title": "Product Operations Manager",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4971429008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c5a15e3d29a3"
+  },
+  {
+    "id": "product-operations-manager-claude-code",
+    "title": "Product Operations Manager, Claude Code",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055264008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5cc565fe0e54"
+  },
+  {
+    "id": "product-operations-manager-public-sector",
+    "title": "Product Operations Manager, Public Sector ",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4992055008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7e48390c7691"
+  },
+  {
+    "id": "product-operations-manager-research-product",
+    "title": "Product Operations Manager, Research Product ",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4992071008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2757e460b837"
+  },
+  {
+    "id": "product-policy-manager-frontier-risk",
+    "title": "Product Policy Manager, Frontier Risk",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5067283008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "06bea8482bc0"
+  },
+  {
+    "id": "product-support-specialist",
+    "title": "Product Support Specialist",
+    "team": "Product Management, Support, & Operations",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5018698008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3dfc080d77ac"
+  },
+  {
+    "id": "product-support-specialist-4979585008",
+    "title": "Product Support Specialist",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "42fad65186f6"
+  },
+  {
+    "id": "product-support-specialist-4979597008",
+    "title": "Product Support Specialist",
+    "team": "Product Management, Support, & Operations",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4979597008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0d5ca40c8fb8"
+  },
+  {
+    "id": "program-manager-global-education",
+    "title": "Program Manager, Global Education",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5067441008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "42783ef8fc30"
+  },
+  {
+    "id": "program-manager-responsible-scaling-policy",
+    "title": "Program Manager, Responsible Scaling Policy",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5073388008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c71fd74faaad"
+  },
+  {
+    "id": "program-manager-us-k-12-education",
+    "title": "Program Manager, US K-12 Education",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5067443008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "b86527f794c4"
+  },
+  {
+    "id": "real-estate-project-manager",
+    "title": "Real Estate Project Manager",
+    "team": "People",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4939288008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "531b5c225c3a"
+  },
+  {
+    "id": "recruiter-ai-research",
+    "title": "Recruiter, AI Research",
+    "team": "People",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4604015008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1c6109f5fe6d"
+  },
+  {
+    "id": "recruiter-applied-ai",
+    "title": "Recruiter, Applied AI",
+    "team": "People",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4961072008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c0ac2e15d2d5"
+  },
+  {
+    "id": "recruiter-g-a",
+    "title": "Recruiter, G&A",
+    "team": "People",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4821519008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "cb0b90c924e6"
+  },
+  {
+    "id": "recruiter-technical",
+    "title": "Recruiter, Technical",
+    "team": "People",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4814348008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fa374adfdff0"
+  },
+  {
+    "id": "recruiting-coordinator",
+    "title": "Recruiting Coordinator",
+    "team": "People",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4957830008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9bd9f87cdeba"
+  },
+  {
+    "id": "recruiting-coordinator-contract",
+    "title": "Recruiting Coordinator [contract]",
+    "team": "People",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041174008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "19248946a9ce"
+  },
+  {
+    "id": "recruiting-systems-analyst",
+    "title": "Recruiting Systems Analyst",
+    "team": "People",
+    "location": "Boston, MA; New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5065798008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "96f00597d808"
+  },
+  {
+    "id": "regulatory-counsel",
+    "title": "Regulatory Counsel",
+    "team": "Legal",
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980530008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5d9e816a5be7"
+  },
+  {
+    "id": "research-engineer-cybersecurity-rl",
+    "title": "Research Engineer \u2013 Cybersecurity RL",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "96322baf2983"
+  },
+  {
+    "id": "research-engineer-data-ingestion",
+    "title": "Research Engineer, Data Ingestion",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5025065008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "20e07ce0c250"
+  },
+  {
+    "id": "research-engineer-discovery",
+    "title": "Research Engineer, Discovery",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "82b83baafdd0"
+  },
+  {
+    "id": "research-engineer-interpretability",
+    "title": "Research Engineer, Interpretability",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0fd6c4c5b590"
+  },
+  {
+    "id": "research-engineer-machine-learning-reinforcement-learning",
+    "title": "Research Engineer, Machine Learning (Reinforcement Learning) ",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fd220c8f3062"
+  },
+  {
+    "id": "research-engineer-model-evaluations",
+    "title": "Research Engineer, Model Evaluations",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4990535008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "eb753339cc2c"
+  },
+  {
+    "id": "research-engineer-pre-training",
+    "title": "Research Engineer, Pre-training",
+    "team": "AI Research & Engineering",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4681526008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1f17c1c09fd1"
+  },
+  {
+    "id": "research-engineer-pre-training-4616971008",
+    "title": "Research Engineer, Pre-training",
+    "team": "AI Research & Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e7ea826ec143"
+  },
+  {
+    "id": "research-engineer-pretraining-scaling",
+    "title": "Research Engineer, Pretraining Scaling",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "391c2e226b98"
+  },
+  {
+    "id": "research-engineer-pretraining-scaling-london",
+    "title": "Research Engineer, Pretraining Scaling (London)",
+    "team": "AI Research & Engineering",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e6f93186d17c"
+  },
+  {
+    "id": "research-engineer-production-model-post-training",
+    "title": "Research Engineer, Production Model Post Training",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ef6532d7e8b7"
+  },
+  {
+    "id": "research-engineer-production-model-post-training-london",
+    "title": "Research Engineer, Production Model Post-Training - London",
+    "team": "AI Research & Engineering",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980460008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "050a1e25423a"
+  },
+  {
+    "id": "research-engineer-research-scientist-audio",
+    "title": "Research Engineer/Research Scientist, Audio",
+    "team": "AI Research & Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074815008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c574d25a210c"
+  },
+  {
+    "id": "research-engineer-research-scientist-biology-life-sciences",
+    "title": "Research Engineer / Research Scientist, Biology & Life Sciences",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4924308008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7a7d2f2a2006"
+  },
+  {
+    "id": "research-engineer-research-scientist-pre-training",
+    "title": "Research Engineer / Research Scientist, Pre-training",
+    "team": "AI Research & Engineering",
+    "location": "Z\u00fcrich, CH",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4799425008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "776747c118c4"
+  },
+  {
+    "id": "research-engineer-research-scientist-vision",
+    "title": "Research Engineer / Research Scientist, Vision",
+    "team": "AI Research & Engineering",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "87c08b04a53b"
+  },
+  {
+    "id": "research-engineer-reward-models-platform",
+    "title": "Research Engineer, Reward Models Platform",
+    "team": "AI Research & Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5024831008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a8f6aabb6deb"
+  },
+  {
+    "id": "research-engineer-reward-models-training",
+    "title": "Research Engineer, Reward Models Training",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613599008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e84b84748123"
+  },
+  {
+    "id": "research-engineer-scientist-alignment-science",
+    "title": "Research Engineer / Scientist, Alignment Science",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2c1c72b49be7"
+  },
+  {
+    "id": "research-engineer-scientist-alignment-science-london",
+    "title": "Research Engineer / Scientist, Alignment Science, London",
+    "team": "AI Research & Engineering",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "01177cc8260b"
+  },
+  {
+    "id": "research-engineer-universes",
+    "title": "Research Engineer, Universes",
+    "team": "AI Research & Engineering",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5aedad759339"
+  },
+  {
+    "id": "research-operations-strategy-lead-coding-cybersecurity-data",
+    "title": "Research Operations & Strategy Lead, Coding & Cybersecurity Data",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4946306008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d509a8a7f397"
+  },
+  {
+    "id": "research-scientist-interpretability",
+    "title": "Research Scientist, Interpretability",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
+    "first_seen": "2026-01-05",
+    "last_seen": "2026-01-20",
+    "description_hash": "e69f6dc0be36"
+  },
+  {
+    "id": "revenue-accounting",
+    "title": "Revenue Accounting",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076754008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a4bdf8cb1306"
+  },
+  {
+    "id": "revenue-strategy-operations-lead-japan",
+    "title": "Revenue Strategy & Operations Lead, Japan",
+    "team": "Sales",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5016171008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c5ba225177f5"
+  },
+  {
+    "id": "revenue-systems-solution-architect",
+    "title": "Revenue Systems Solution Architect",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068721008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "99f604bf7327"
+  },
+  {
+    "id": "revops-reporting-insights-analyst",
+    "title": "RevOps Reporting & Insights Analyst",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5015565008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "459dd9882d44"
+  },
+  {
+    "id": "security-development-project-specialist",
+    "title": "Security Development Project Specialist",
+    "team": "Security",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041343008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5c9b3f1e26c0"
+  },
+  {
+    "id": "security-engineer-detection-response",
+    "title": "Security Engineer, Detection & Response",
+    "team": "Security",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4596677008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0562ce24f9b5"
+  },
+  {
+    "id": "security-engineer-detection-response-4982193008",
+    "title": "Security Engineer, Detection & Response",
+    "team": "Security",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2492c87f8106"
+  },
+  {
+    "id": "security-engineer-operating-systems",
+    "title": "Security Engineer, Operating Systems",
+    "team": "Security",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4929693008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5dfd70b9a47c"
+  },
+  {
+    "id": "security-grc-specialist",
+    "title": "Security GRC Specialist",
+    "team": "Security",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4942646008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "b332e2ab2a5a"
+  },
+  {
+    "id": "security-grc-specialist-public-sector",
+    "title": "Security GRC Specialist, Public Sector",
+    "team": "Security",
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4960248008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fa0a84e7bb74"
+  },
+  {
+    "id": "security-risk-compliance-cloud-data-centers",
+    "title": "Security Risk & Compliance, Cloud & Data Centers",
+    "team": "Security",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5070425008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "46592040337f"
+  },
+  {
+    "id": "security-software-engineer-d-r-platform",
+    "title": "Security Software Engineer, D&R Platform",
+    "team": "Security",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "b194959a7363"
+  },
+  {
+    "id": "segment-marketing-manager-industries-emea",
+    "title": "Segment Marketing Manager, Industries, EMEA",
+    "team": "Marketing & Brand",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5026173008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "bad991443b38"
+  },
+  {
+    "id": "segment-marketing-manager-startups",
+    "title": "Segment Marketing Manager, Startups",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986738008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9a2821a98291"
+  },
+  {
+    "id": "senior-manager-tax-operations-provision-compliance",
+    "title": "Senior Manager, Tax Operations, Provision & Compliance",
+    "team": "Finance",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4974231008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fe2e252a3672"
+  },
+  {
+    "id": "senior-research-scientist-reward-models",
+    "title": "Senior Research Scientist, Reward Models",
+    "team": "AI Research & Engineering",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5024835008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "27afe59c028f"
+  },
+  {
+    "id": "senior-security-engineer-detection-response",
+    "title": "Senior Security Engineer, Detection & Response",
+    "team": "Security",
+    "location": "Z\u00fcrich, CH",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068288008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "61de496ffbf2"
+  },
+  {
+    "id": "senior-security-software-engineer-d-r-platform",
+    "title": "Senior Security Software Engineer, D&R Platform",
+    "team": "Security",
+    "location": "Z\u00fcrich, CH",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068313008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2fb4defc97d9"
+  },
+  {
+    "id": "senior-software-engineer-inference",
+    "title": "Senior Software Engineer, Inference",
+    "team": "AI Research & Engineering",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4641822008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e5edc19caf1b"
+  },
+  {
+    "id": "senior-software-engineer-infrastructure",
+    "title": "Senior Software Engineer, Infrastructure",
+    "team": "Software Engineering - Infrastructure",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4915842008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1a27b2fd422b"
+  },
+  {
+    "id": "senior-software-engineer-infrastructure-4632118008",
+    "title": "Senior Software Engineer, Infrastructure ",
+    "team": "Software Engineering - Infrastructure",
+    "location": "San Francisco, CA, New York City, NY, Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4632118008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c9b4d818bed1"
+  },
+  {
+    "id": "senior-software-engineer-research-tools",
+    "title": "Senior+ Software Engineer, Research Tools",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0c4a6ad4cecd"
+  },
+  {
+    "id": "senior-software-security-engineer",
+    "title": "Senior Software Security Engineer",
+    "team": "Security",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4887959008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "64490c078ccf"
+  },
+  {
+    "id": "senior-software-security-engineer-5022845008",
+    "title": "Senior Software Security Engineer",
+    "team": "Security",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5022845008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c8c0692553ba"
+  },
+  {
+    "id": "senior-staff-software-engineer-autonomous-agent-infrastructure",
+    "title": "Senior / Staff Software Engineer - Autonomous Agent Infrastructure",
+    "team": "Software Engineering - Infrastructure",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5065894008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "64aaba5d0921"
+  },
+  {
+    "id": "senior-staff-software-engineer-inference",
+    "title": "Senior/Staff Software Engineer, Inference",
+    "team": "Software Engineering - Infrastructure",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951696008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c719d0653fc7"
+  },
+  {
+    "id": "smb-account-executive-industries",
+    "title": "SMB Account Executive, Industries",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4931782008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "95fabd788306"
+  },
+  {
+    "id": "software-engineer-accelerator-build-infrastructure",
+    "title": "Software Engineer, Accelerator Build Infrastructure",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4943668008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a6a12344351b"
+  },
+  {
+    "id": "software-engineer-android",
+    "title": "Software Engineer, Android",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "12d1fa77843a"
+  },
+  {
+    "id": "software-engineer-beneficial-deployments",
+    "title": "Software Engineer, Beneficial Deployments ",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "d9d5d0f5304c"
+  },
+  {
+    "id": "software-engineer-business-technology",
+    "title": "Software Engineer, Business Technology ",
+    "team": "Engineering & Design - Product",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4982198008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7c1f7ca61c9a"
+  },
+  {
+    "id": "software-engineer-claude-code",
+    "title": "Software Engineer, Claude Code",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4816199008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "4f27ff80d29c"
+  },
+  {
+    "id": "software-engineer-cybersecurity-products",
+    "title": "Software Engineer, Cybersecurity Products",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0b7b9259bc0a"
+  },
+  {
+    "id": "software-engineer-desktop",
+    "title": "Software Engineer, Desktop",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980420008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "cda911279a69"
+  },
+  {
+    "id": "software-engineer-enterprise-foundations",
+    "title": "Software Engineer, Enterprise Foundations",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4667572008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e9d2ac83d08a"
+  },
+  {
+    "id": "software-engineer-growth",
+    "title": "Software Engineer, Growth",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5042025008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1dae09153bce"
+  },
+  {
+    "id": "software-engineer-ios",
+    "title": "Software Engineer, iOS",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA, New York City, NY, Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5dede2b8703d"
+  },
+  {
+    "id": "software-engineer-labs",
+    "title": "Software Engineer, Labs",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5017202008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "41587af179cb"
+  },
+  {
+    "id": "software-engineer-languages",
+    "title": "Software Engineer, Languages",
+    "team": "Software Engineering - Infrastructure",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4935567008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "6e3c850cfcd2"
+  },
+  {
+    "id": "software-engineer-ml-networking",
+    "title": "Software Engineer, ML Networking",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f08b81c54117"
+  },
+  {
+    "id": "software-engineer-platform",
+    "title": "Software Engineer, Platform",
+    "team": "Engineering & Design - Product",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4955107008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0dbc33732a6f"
+  },
+  {
+    "id": "software-engineer-public-sector",
+    "title": "Software Engineer, Public Sector",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4902636008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9cf33aa90bf0"
+  },
+  {
+    "id": "software-engineer-safeguards",
+    "title": "Software Engineer, Safeguards",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c69da2f79ddd"
+  },
+  {
+    "id": "software-engineer-sandboxing-systems",
+    "title": "Software Engineer, Sandboxing (Systems)",
+    "team": "Software Engineering - Infrastructure",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5025591008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9a78d968ef12"
+  },
+  {
+    "id": "software-security-engineer",
+    "title": "Software Security Engineer",
+    "team": "Security",
+    "location": "Z\u00fcrich, CH",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5056795008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "08fe3eff7313"
+  },
+  {
+    "id": "solutions-architect-applied-ai",
+    "title": " Solutions Architect, Applied AI",
+    "team": "Sales",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fce2677e772c"
+  },
+  {
+    "id": "solutions-architect-applied-ai-4858547008",
+    "title": "Solutions Architect, Applied AI",
+    "team": "Sales",
+    "location": "Tokyo, Japan",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4858547008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9ad4cfb3f161"
+  },
+  {
+    "id": "solutions-architect-applied-ai-4962867008",
+    "title": "Solutions Architect, Applied AI",
+    "team": "Sales",
+    "location": "Seoul, South Korea",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4962867008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e65a0b63875f"
+  },
+  {
+    "id": "solutions-architect-applied-ai-4977624008",
+    "title": " Solutions Architect, Applied AI",
+    "team": "Sales",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "771b04ca3eac"
+  },
+  {
+    "id": "solutions-architect-applied-ai-5031670008",
+    "title": "Solutions Architect, Applied AI",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5031670008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "b960fb190f40"
+  },
+  {
+    "id": "solutions-architect-beneficial-deployments",
+    "title": "Solutions Architect, Beneficial Deployments",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062712008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e4cbabf95617"
+  },
+  {
+    "id": "solutions-architect-digital-native",
+    "title": "Solutions Architect, Digital Native",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5065835008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "efa6f29a0991"
+  },
+  {
+    "id": "solutions-architect-enterprise-industries",
+    "title": "Solutions Architect, Enterprise Industries",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "bbd7813fcb89"
+  },
+  {
+    "id": "staff-machine-learning-engineer-virtual-collaborator",
+    "title": "Staff Machine Learning Engineer, Virtual Collaborator",
+    "team": "AI Research & Engineering",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4946308008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9bd921f78d7d"
+  },
+  {
+    "id": "staff-research-engineer-discovery-team",
+    "title": "Staff Research Engineer, Discovery Team",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0dddad8ec54b"
+  },
+  {
+    "id": "staff-software-engineer-claude-developer-platform-backend",
+    "title": "Staff Software Engineer, Claude Developer Platform (Backend)",
+    "team": "Engineering & Design - Product",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4988878008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ea0f2d1c0d70"
+  },
+  {
+    "id": "staff-software-engineer-claude-developer-platform-full-stack",
+    "title": "Staff Software Engineer, Claude Developer Platform (Full Stack)",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4561282008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e47460e6042a"
+  },
+  {
+    "id": "staff-software-engineer-data-infrastructure",
+    "title": "Staff+ Software Engineer, Data Infrastructure",
+    "team": "Software Engineering - Infrastructure",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4941204008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "51a63555b2fb"
+  },
+  {
+    "id": "staff-software-engineer-databases",
+    "title": "Staff+ Software Engineer, Databases",
+    "team": "Software Engineering - Infrastructure",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4970463008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1f7a87524968"
+  },
+  {
+    "id": "staff-software-engineer-inference",
+    "title": "Staff Software Engineer, Inference",
+    "team": "AI Research & Engineering",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4979237008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "7307f5ba0c87"
+  },
+  {
+    "id": "staff-software-engineer-infrastructure",
+    "title": "Staff+ Software Engineer, Infrastructure",
+    "team": "Software Engineering - Infrastructure",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4970314008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "67a1da299d1a"
+  },
+  {
+    "id": "staff-software-engineer-platform",
+    "title": "Staff Software Engineer, Platform",
+    "team": "Engineering & Design - Product",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023089008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "3b271bc9d3c5"
+  },
+  {
+    "id": "startup-account-executive",
+    "title": "Startup Account Executive",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "e4ab88d9ed83"
+  },
+  {
+    "id": "startup-account-executive-4947497008",
+    "title": "Startup Account Executive",
+    "team": "Sales",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4947497008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2ad0ec01fa03"
+  },
+  {
+    "id": "startup-account-executive-uki",
+    "title": "Startup Account Executive - UKI",
+    "team": "Sales",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4978280008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2e1408af6802"
+  },
+  {
+    "id": "startup-partnerships",
+    "title": "Startup Partnerships ",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5054997008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "76fa311b9d04"
+  },
+  {
+    "id": "startup-partnerships-emea",
+    "title": "Startup Partnerships - EMEA",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5021140008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "b048b3627096"
+  },
+  {
+    "id": "startups-solutions-architect-applied-ai",
+    "title": "Startups Solutions Architect, Applied AI",
+    "team": "Sales",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4968059008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "8366efff282e"
+  },
+  {
+    "id": "startups-solutions-architect-applied-ai-5057258008",
+    "title": "Startups Solutions Architect, Applied AI",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "5d24ee0f2675"
+  },
+  {
+    "id": "strategic-account-executive-asset-wealth-management",
+    "title": "Strategic Account Executive, Asset & Wealth Management",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5058191008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f2f41ddbd64a"
+  },
+  {
+    "id": "strategic-account-executive-digital-native-business",
+    "title": "Strategic Account Executive, Digital Native Business",
+    "team": "Sales",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4996335008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "fa13ba9b86e1"
+  },
+  {
+    "id": "strategic-account-executive-industries",
+    "title": "Strategic Account Executive, Industries",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055446008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "da0bce39b929"
+  },
+  {
+    "id": "strategic-account-executive-insurance",
+    "title": "Strategic Account Executive, Insurance",
+    "team": "Sales",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a79c8192f917"
+  },
+  {
+    "id": "strategic-account-executive-investment-banking-capital-markets",
+    "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a4967ea0e5c1"
+  },
+  {
+    "id": "strategic-account-executive-latam-financial-services",
+    "title": "Strategic Account Executive, LATAM Financial Services",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041301008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ef37d3aa8c83"
+  },
+  {
+    "id": "strategic-account-executive-retail-commercial-banking",
+    "title": "Strategic Account Executive, Retail & Commercial Banking",
+    "team": "Sales",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041299008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "26e418fa0c05"
+  },
+  {
+    "id": "strategic-account-executive-startups",
+    "title": "Strategic Account Executive, Startups",
+    "team": "Sales",
+    "location": "New York City, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4979834008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "06336cbd1dd8"
+  },
+  {
+    "id": "strategic-growth-account-executive-startups",
+    "title": "Strategic Growth Account Executive, Startups",
+    "team": "Sales",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5042442008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "2e91b027e60d"
+  },
+  {
+    "id": "strategy-and-messaging-communications-lead-narrative",
+    "title": " Strategy and Messaging Communications Lead, Narrative",
+    "team": "Communications",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985093008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0eb8aa517cf4"
+  },
+  {
+    "id": "support-operations-specialist",
+    "title": "Support Operations Specialist",
+    "team": "Product Management, Support, & Operations",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4983644008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "04ef652dba58"
+  },
+  {
+    "id": "systems-integrity-security-architect",
+    "title": "Systems Integrity Security Architect",
+    "team": "Security",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "b30e075bbd6c"
+  },
+  {
+    "id": "technical-accounting",
+    "title": "Technical Accounting",
+    "team": "Finance",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4963718008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "8bc037efc288"
+  },
+  {
+    "id": "technical-cbrn-e-threat-investigator",
+    "title": "Technical CBRN-E  Threat Investigator ",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066997008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "66a5b6c57ee8"
+  },
+  {
+    "id": "technical-cyber-threat-investigator",
+    "title": "Technical Cyber Threat Investigator ",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066995008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "0f9d1b06c6b9"
+  },
+  {
+    "id": "technical-policy-manager-cyber-harms",
+    "title": "Technical Policy Manager, Cyber Harms ",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066981008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "63a6fcf836f6"
+  },
+  {
+    "id": "technical-product-marketing-lead",
+    "title": "Technical Product Marketing Lead",
+    "team": "Marketing & Brand",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055672008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "f4006aa09b93"
+  },
+  {
+    "id": "technical-program-manager-claude-experiences",
+    "title": "Technical Program Manager, Claude Experiences",
+    "team": "Technical Program Management ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062968008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c54bf643f2c4"
+  },
+  {
+    "id": "technical-program-manager-data-center-infrastructure",
+    "title": "Technical Program Manager, Data Center Infrastructure",
+    "team": "Technical Program Management ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "89b6db7b24d8"
+  },
+  {
+    "id": "technical-program-manager-inference",
+    "title": "Technical Program Manager, Inference",
+    "team": "Technical Program Management ",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4913784008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "c6450ff19269"
+  },
+  {
+    "id": "technical-program-manager-launches",
+    "title": "Technical Program Manager, Launches",
+    "team": "Technical Program Management ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5062960008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ce421df4000a"
+  },
+  {
+    "id": "technical-program-manager-model-evaluations",
+    "title": "Technical Program Manager, Model Evaluations",
+    "team": "Technical Program Management ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5018714008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "408861caa251"
+  },
+  {
+    "id": "technical-program-manager-safeguards",
+    "title": "Technical Program Manager, Safeguards",
+    "team": "Technical Program Management ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4960417008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "27cec6f8fa4f"
+  },
+  {
+    "id": "technical-program-manager-security",
+    "title": "Technical Program Manager, Security",
+    "team": "Technical Program Management ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "385dd930e725"
+  },
+  {
+    "id": "technical-program-manager-security-detection-response",
+    "title": "Technical Program Manager, Security - Detection & Response",
+    "team": "Technical Program Management ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066957008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "1e5faafff64c"
+  },
+  {
+    "id": "technical-recruiter-specialized",
+    "title": "Technical Recruiter, Specialized",
+    "team": "People",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4935314008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "ff227bdd00d7"
+  },
+  {
+    "id": "technical-revenue-accountant",
+    "title": "Technical Revenue Accountant",
+    "team": "Finance",
+    "location": "San Francisco, CA; San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4990162008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "9cdc582a721c"
+  },
+  {
+    "id": "technical-scaled-abuse-threat-investigator",
+    "title": "Technical Scaled Abuse Threat Investigator",
+    "team": "Safeguards (Trust & Safety) ",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5067003008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "36eb1f71ae57"
+  },
+  {
+    "id": "tpu-kernel-engineer",
+    "title": "TPU Kernel Engineer",
+    "team": "AI Research & Engineering",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-01-20",
+    "description_hash": "a6e60843947e"
+  }
+]

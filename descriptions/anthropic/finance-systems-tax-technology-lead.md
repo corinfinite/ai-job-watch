@@ -1,0 +1,77 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the Role</strong></h2>
+<p>Anthropic is seeking an experienced Tax Technology Lead to build and optimize our global tax technology infrastructure as we scale our AI services globally. This role will be critical in implementing and managing tax engine systems while bridging the gap between tax compliance requirements and engineering capabilities. You'll own the technology strategy for indirect tax (sales and use tax, VAT, and GST) compliance across our rapidly growing digital product portfolio, with the long-term scope expanding to include income tax compliance and direct tax provision software implementation.</p>
+<h2><strong>Responsibilities:</strong></h2>
+<p><strong>Tax Systems Implementation &amp; Management</strong></p>
+<ul>
+<li>Act as the Tax Point of Contact for business teams, handling and responding to day-to-day tax queries with a solutions-oriented mindset.</li>
+<li>Enhance the implementation of tax determination engine integrated with our billing and finance systems</li>
+<li>Configure tax engines across multiple finance modules, ensuring accurate tax calculation, reporting, and compliance for SaaS and digital products</li>
+<li>Design and document technical requirements for tax functionality, including system architecture, data flows, and integration points</li>
+<li>Lead future implementation of income tax compliance and direct tax provision software (e.g., OneSource Tax Provision, CorpTax, or similar)</li>
+<li>Own the tax technology roadmap, identifying opportunities for automation and process improvement</li>
+</ul>
+<p><strong>Cross-Functional Collaboration</strong></p>
+<ul>
+<li>Partner with Engineering, Finance, Accounting, and Product teams to translate complex tax requirements into technical specifications</li>
+<li>Serve as the primary liaison between Tax and Technology teams, ensuring alignment on tax compliance needs</li>
+<li>Coordinate with Finance Systems team to create tax product requirements, manage testing protocols, and support change management initiatives</li>
+<li>Work with external tax advisors and software vendors to evaluate solutions and resolve technical challenges</li>
+</ul>
+<p><strong>Global Tax Compliance (Indirect &amp; Direct)</strong></p>
+<ul>
+<li>Develop and maintain tax determination logic for US sales and use tax&nbsp;</li>
+<li>Configure and manage VAT/GST rules for international jurisdictions including EU, APAC, and emerging markets</li>
+<li>Design testing strategies to ensure accuracy and quality of tax calculations across all transaction types</li>
+<li>Monitor nexus thresholds and implement automated compliance workflows</li>
+<li>Support long-term roadmap for income tax compliance automation and ASC 740 tax provision software</li>
+<li>Collaborate with income tax team to understand data requirements for provision calculations and compliance reporting</li>
+<li>Support long-term roadmap for income tax compliance automation and ASC 740 tax provision software</li>
+</ul>
+<p><strong>Data Management &amp; Reporting</strong></p>
+<ul>
+<li>Build data analytics capabilities to support tax compliance, reconciliation, audit defense, and strategic decision-making</li>
+<li>Create comprehensive documentation including technical design specs, process flows, and operational procedures</li>
+<li>Implement SOX controls related to tax technology systems</li>
+<li>Generate reports for tax filings, reconciliations, and management review</li>
+<li>Ability to incorporate Claude (AI ) into tax automation needs&nbsp;</li>
+</ul>
+<h2>You may be a good fit if you:</h2>
+<ul>
+<li><strong>7+ years</strong> of experience in tax technology, with at least 3-5 years focused on tax engine implementations (Vertex, Anorak, Avalara, or similar)</li>
+<li><strong>Deep expertise</strong> in US sales and use tax and global VAT/GST compliance for digital services and SaaS businesses</li>
+<li><strong>Proven track record</strong> of successful tax system implementations in ERP environments (Workday Financials, or similar)</li>
+<li>Strong technical aptitude with ability to work directly with engineering teams on system configurations and integrations</li>
+<li>Experience gathering business requirements and translating them into functional and technical specifications</li>
+<li>Knowledge of tax compliance processes including determination, reporting, filing, and remittance</li>
+<li>Bachelor's degree in Accounting, Finance, Information Technology, Computer Science, or related field</li>
+</ul>
+<h2>Strong candidates may also have:</h2>
+<ul>
+<li>CPA, CMI (Certified Manager of Indirect Tax), or equivalent tax certification</li>
+<li>Experience with data analytics tools (SQL, Python, Alteryx, Hex, Looker) and tax software including provision tools</li>
+<li>Background working in high-growth tech companies or Big 4 tax technology consulting</li>
+<li>Familiarity with multi-entity billing structures and complex revenue recognition scenarios</li>
+<li>Understanding of AI/ML business models and their indirect tax implications</li>
+<li>Familiarity with corporate income tax compliance processes, ASC 740 requirements, and tax provision software</li>
+<li>Experience with exemption certificate management and audit defense</li>
+<li>Knowledge of e-invoicing and digital reporting requirements in various jurisdictions</li>
+</ul>
+<h2>Technical Skills:</h2>
+<ul>
+<li>Indirect tax engines</li>
+<li>Direct tax provision software</li>
+<li>ERP systems: Workday Financials</li>
+<li>Data analysis: Excel (advanced), SQL, Python (preferred)</li>
+<li>Project management and documentation tools (Asana)</li>
+<li>Understanding of API integrations and data flows</li>
+</ul>
+<p>&nbsp;</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$265,000</span><span class="divider">&mdash;</span><span>$315,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

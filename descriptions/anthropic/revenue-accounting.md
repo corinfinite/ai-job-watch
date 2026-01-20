@@ -1,0 +1,46 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2>
+<p>Anthropic is seeking a seasoned Revenue Accounting professional to join our growing Accounting Team. In this position, you will drive revenue accounting operations, accounts receivable accounting, and financial reporting processes. You will play a critical role in ensuring accurate revenue recognition, managing complex AR processes including CECL compliance, and enhancing our month-end close operations. The ideal candidate brings deep technical accounting expertise, leadership capabilities, and thrives in our fast-paced, innovative environment.</p>
+<h2><strong>Responsibilities:</strong></h2>
+<ul>
+<li>Manage daily revenue accounting operations, including high-volume transaction processing, and ensure accurate revenue recognition in compliance with ASC 606</li>
+<li>Own the month-end revenue close process by reviewing and approving revenue-related account reconciliations and journal entries for revenue, deferred revenue, and unbilled receivables</li>
+<li>Manage comprehensive accounts receivable accounting functions, including AR reconciliations, aging analysis, and accurate recording of customer receivables</li>
+<li>Lead quarterly CECL aging analysis to ensure consistent application of ASC 326 and work with AR &amp; Collections Lead to develop key AR metrics for management reporting</li>
+<li>Perform regular month-end close flux analysis, identifying and explaining significant variances in revenue and accounts receivable balances to ensure financial integrity and provide insights for management decision-making</li>
+<li>Collaborate cross-functionally with Finance Operations, Finance Strategy, Billing Support, and business partners on strategic processes and programs</li>
+<li>Support revenue accounting system initiatives, including design, implementation, testing, and optimization</li>
+<li>Serve as subject matter expert for revenue and AR accounting questions across the organization</li>
+<li>Lead audit coordination and serve as primary contact for external auditors during year-end audit</li>
+<li>Maintain comprehensive documentation for all revenue and AR processes</li>
+</ul>
+<h2><strong>You may be a good fit if you have:</strong></h2>
+<ul>
+<li>Bachelor's degree in accounting or finance (or equivalent experience)&nbsp;</li>
+<li>10+ years of accounting experience, with at least 3 years in public accounting</li>
+<li>Strong knowledge of ASC 606 Revenue from Contracts with Customers &amp; ASC 326 Credit Impairment</li>
+<li>Experience with accounts receivable accounting and financial reporting</li>
+<li>Experience in collaborating across departments to influence change</li>
+<li>Attention to detail, excellent communication skills, and strong sense of teamwork</li>
+<li>Ability to work independently and prioritize in a fast-paced environment</li>
+<li>Strong sense of ownership and independence, with proven ability to identify issues, propose solutions, and drive initiatives to completion with minimal supervision</li>
+<li>Proven experience in managing and mentoring accounting professionals, with the potential to lead team members (both contractors and FTEs) as our team continues to grow</li>
+</ul>
+<h2><strong>Strong candidates may also have:</strong></h2>
+<ul>
+<li>Experience in a growing SaaS technology business, preferably in startup or high-growth environments</li>
+<li>Experience with third-party platform revenue models and related accounting complexities</li>
+<li>Passion for data integrity, comfort with large datasets, and enjoyment of solving complex problems</li>
+<li>Proficiency with mainstream ERP systems and revenue engines such as NetSuite ARM, Oracle, SAP, Workday Financials and comparable systems. NetSuite ARM experience strongly preferred</li>
+<li>Experience with Metronome, Stripe, Anrok, or similar software is a plus</li>
+<li>Database &amp; SQL experience is a plus</li>
+<li>Exceptional business acumen with ability to translate complex financial concepts into actionable insights for non-finance stakeholders</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$190,000</span><span class="divider">&mdash;</span><span>$230,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

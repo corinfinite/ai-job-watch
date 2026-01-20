@@ -1,0 +1,96 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h3><strong>About Anthropic</strong></h3>
+<p>Anthropic's mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p>
+<h3><strong>About the role</strong></h3>
+<p>As Anthropic's <strong>first Enterprise Account Executive for Digital Native Business (DNB) in India</strong>, you'll be a founding member of our GTM expansion into one of the world's most dynamic and rapidly growing technology markets. You'll drive adoption of safe, frontier AI by securing strategic deals with India's leading digital-native companies—from high-growth startups to established unicorns—unlocking new value streams throughout their businesses.</p>
+<p>In this pioneering role, you'll leverage your consultative sales expertise to propel revenue growth while becoming a trusted partner to customers, helping them embed and deploy AI while uncovering its full range of capabilities. You'll have the unique opportunity to shape our India market strategy from the ground up, establishing best practices and go-to-market approaches that will scale as we grow.</p>
+<p>In collaboration with GTM, product, and marketing teams across regions, you'll continuously refine our value proposition, sales methodology, and market positioning to ensure differentiated value in the Indian technology landscape.</p>
+<p>The ideal candidate will have a passion for developing new market segments, pinpointing high-potential opportunities, and executing strategies to capture them. As a founding team member in India, you'll build the foundation for our long-term success in the region while driving deployment of Anthropic's emerging products to help enterprises obtain new capabilities and advance the ethical development of AI.</p>
+<h3><strong>Responsibilities:</strong></h3>
+<ul>
+<li>
+<p><strong>Win new business and drive revenue for Anthropic in India.</strong> Find your way to the right people at prospective digital-native customers, educate them about LLMs, and help them succeed with Anthropic. You'll own the full sales cycle, from first outbound to launch</p>
+</li>
+<li>
+<p><strong>Design and execute innovative sales strategies</strong> tailored to the India market to meet and exceed revenue quotas. Analyze market landscapes, trends, and dynamics specific to Indian digital-native businesses to translate high-level plans into targeted sales activities, partnerships, and campaigns</p>
+</li>
+<li>
+<p><strong>Spearhead market expansion</strong> by pinpointing new customer segments and use cases within India's thriving startup and scale-up ecosystem. Collaborate cross-functionally to differentiate our offerings and sustain a competitive edge in the region</p>
+</li>
+<li>
+<p><strong>Establish foundational go-to-market practices</strong> as a first mover in the India market, creating playbooks and frameworks that will scale with our growing team</p>
+</li>
+<li>
+<p><strong>Inform product roadmaps and features</strong> by gathering customer feedback and conveying market needs specific to Indian enterprises. Provide insights that strengthen our value proposition and enhance the customer experience in the region</p>
+</li>
+<li>
+<p><strong>Continuously refine the sales methodology</strong> by incorporating learnings into playbooks, templates, and best practices. Identify process improvements that optimize sales productivity and consistency as we build our India presence</p>
+</li>
+<li>
+<p><strong>Serve as a market expert</strong> on India's digital-native business landscape, providing strategic insights to global leadership on regional trends, competitive dynamics, and growth opportunities</p>
+</li>
+</ul>
+<h3><strong>You may be a good fit if you have:</strong></h3>
+<ul>
+<li>
+<p><strong>10+ years of enterprise sales experience</strong> driving adoption of emerging technologies with digital-native businesses in India, with a consultative, solutions-oriented sales approach</p>
+</li>
+<li>
+<p><strong>Deep understanding of India's startup and scale-up ecosystem</strong>, including familiarity with leading digital-native companies across sectors such as fintech, e-commerce, SaaS, edtech, and more</p>
+</li>
+<li>
+<p><strong>A track record of managing complex sales cycles</strong> and securing strategic deals by understanding multifaceted technical requirements and crafting tailored solutions</p>
+</li>
+<li>
+<p><strong>Demonstrated ability to navigate dynamic stakeholder ecosystems</strong>, building consensus and providing innovative solutions to disparate groups across technical and business functions</p>
+</li>
+<li>
+<p><strong>Extensive experience negotiating highly complex, customized commercial agreements</strong> with multiple stakeholders in the Indian market context</p>
+</li>
+<li>
+<p><strong>Proven experience exceeding revenue targets</strong> in fast-paced organizations by effectively managing an evolving pipeline and sales process</p>
+</li>
+<li>
+<p><strong>Excellent communication skills</strong> and the ability to present confidently and build connections across all customer levels, from ICs to C-level executives, with cultural fluency in Indian business contexts</p>
+</li>
+<li>
+<p><strong>Entrepreneurial mindset and comfort with ambiguity</strong> as a founding team member—you thrive in early-stage environments where you're building processes and strategies from scratch</p>
+</li>
+<li>
+<p><strong>A knack for bringing order to chaos</strong> and an enthusiastic "roll up your sleeves" mentality. You are a true team player who embraces the opportunity to shape our India market entry</p>
+</li>
+<li>
+<p><strong>A strategic, analytical approach</strong> to assessing markets combined with creative, tactical execution to capture opportunities</p>
+</li>
+<li>
+<p><strong>A passion for and/or experience with advanced AI systems.</strong> You feel strongly about ensuring frontier AI systems are developed safely</p>
+</li>
+</ul>
+<h3><strong>Logistics</strong></h3>
+<ul>
+<li>
+<p><strong>Location:</strong> This role is based in Bengaluru, India with regular in-person collaboration expected in our India office</p>
+</li>
+<li>
+<p><strong>Education requirements:</strong> We require at least a Bachelor's degree in a related field or equivalent experience</p>
+</li>
+<li>
+<p><strong>Visa sponsorship:</strong> Not applicable for this India-based role</p>
+</li>
+</ul>
+<p>We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.</p>
+<p><strong>Your safety matters to us.</strong> To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @<a class="text-accent-secondary-100 underline" href="http://anthropic.com" target="_blank">anthropic.com</a> email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.</p>
+<h3><strong>How we're different</strong></h3>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h3><strong>Come work with us!</strong></h3>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco with a growing presence in India. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a collaborative office environment. <strong>Guidance on Candidates' AI Usage:</strong><a class="text-accent-secondary-100 underline" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank"> <u>Learn about our policy for using AI in our application process</u></a></p>
+<p>&nbsp;</p><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

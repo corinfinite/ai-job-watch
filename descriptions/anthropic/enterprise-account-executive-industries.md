@@ -1,0 +1,86 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div>
+<div class="grid-cols-1 grid gap-2.5 [&amp;_>_*]:min-w-0 !gap-3.5">
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">About the role</h2>
+<p class="whitespace-normal break-words">As an Enterprise Account Executive at Anthropic, you'll join the foundational team at the forefront of introducing our cutting-edge AI productivity SaaS solution to large enterprise organizations across France and Southern Europe. You'll drive the adoption of safe, frontier AI by securing strategic deals with major corporations, technology companies, and research institutions. You'll leverage your consultative sales expertise in the enterprise sector to propel revenue growth while becoming a trusted partner to enterprise stakeholders, helping them embed and deploy AI while uncovering its full range of capabilities across business operations, research, and administration. In collaboration with GTM, Product, and Marketing teams, you'll continuously refine our value proposition, sales methodology, and market positioning to resonate with enterprise decision-makers in the French market.</p>
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">Responsibilities:</h2>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Win new business and drive revenue for Anthropic within the enterprise sector across France. Navigate complex enterprise organizations to reach key decision-makers, educate them about our services, and help them succeed with Anthropic. You'll own the full sales cycle, from first outbound contact to close</li>
+<li class="whitespace-normal break-words">Design and execute innovative sales strategies tailored to enterprise procurement cycles and budgeting processes to meet and exceed revenue quotas. Analyze enterprise market landscapes, trends, and dynamics to translate high-level plans into targeted sales activities and campaigns</li>
+<li class="whitespace-normal break-words">Spearhead market expansion by identifying new use cases within enterprise departments, innovation centers, and operational offices. Collaborate cross-functionally to differentiate our offerings for enterprise applications</li>
+<li class="whitespace-normal break-words">Navigate complex enterprise stakeholder ecosystems including executives, administrators, IT departments, and procurement offices to build consensus across French business culture and practices</li>
+<li class="whitespace-normal break-words">Inform product roadmaps and features by gathering feedback from enterprise users and conveying market needs from the French enterprise landscape. Provide insights that strengthen our value proposition for enterprise customers</li>
+<li class="whitespace-normal break-words">Continuously refine the enterprise sales methodology by incorporating learnings into playbooks, templates, and best practices. Identify process improvements that optimize sales productivity and consistency</li>
+</ul>
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">You may be a good fit if you have:</h2>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Native French speaker with excellent written and verbal communication skills in French and English</li>
+<li class="whitespace-normal break-words">5+ years of B2B sales experience in enterprise technology in SaaS or emerging technologies</li>
+<li class="whitespace-normal break-words">Specialised sales industries experience: Telco, Manufacturing, Retail, Energy and Utilities</li>
+<li class="whitespace-normal break-words">A track record of managing complex sales cycles within large enterprise organizations and securing strategic deals by understanding both technical requirements and business use cases</li>
+<li class="whitespace-normal break-words">Demonstrated ability to navigate enterprise bureaucracies and procurement processes, building consensus among diverse stakeholders including executives, administrators, and IT departments</li>
+<li class="whitespace-normal break-words">Extensive experience negotiating complex agreements within enterprise procurement frameworks and policies</li>
+<li class="whitespace-normal break-words">Proven experience exceeding revenue targets in the enterprise sector by effectively managing an evolving pipeline and sales process</li>
+<li class="whitespace-normal break-words">Excellent communication skills and the ability to present confidently to various enterprise audiences, from technical teams and business analysts to senior executives</li>
+<li class="whitespace-normal break-words">Deep understanding of enterprise buying cycles, decision-making processes, and key pain points, particularly within the French market</li>
+<li class="whitespace-normal break-words">A strategic, analytical approach to assessing the enterprise market combined with creative, tactical execution to capture opportunities</li>
+<li class="whitespace-normal break-words">A passion for and/or experience with advanced AI systems and their applications in enterprise environments. You feel strongly about ensuring frontier AI systems are developed safely and ethically for business use</li>
+</ul>
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">What We Offer:</h2>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Competitive base salary and commission structure</li>
+<li class="whitespace-normal break-words">Equity participation in Anthropic's growth</li>
+<li class="whitespace-normal break-words">Comprehensive benefits package</li>
+<li class="whitespace-normal break-words">Opportunity to shape the AI industry in France and EMEA</li>
+<li class="whitespace-normal break-words">Professional development and career growth opportunities</li>
+</ul>
+<p class="whitespace-normal break-words"><strong>Location:</strong> Paris, France (hybrid working available)</p>
+<p class="whitespace-normal break-words">&nbsp;</p>
+<h1><strong>À propos du poste</strong></h1>
+<p>En tant que responsable de compte entreprise chez Anthropic, vous intégrerez l’équipe fondatrice en charge du déploiement de notre solution SaaS de productivité, à la pointe de l’IA, à destination des grandes entreprises en France. Vous favoriserez l’adoption d’une IA sûre et de pointe en concluant des accords stratégiques avec de grandes entreprises, des sociétés technologiques et des instituts de recherche. Vous mettrez à profit votre expertise en vente consultative dans le secteur des entreprises pour stimuler la croissance du chiffre d’affaires, tout en devenant un partenaire de confiance pour les parties prenantes. Vous les accompagnerez dans l’intégration et le déploiement de l’IA, en explorant tout son potentiel dans les opérations commerciales, la recherche et l’administration. En collaboration avec les équipes GTM, Produit et Marketing, vous affinerez continuellement notre proposition de valeur, notre méthodologie de vente et notre positionnement sur le marché afin de répondre aux besoins des décideurs des grandes entreprises sur le marché français.</p>
+<h1><strong>Responsabilités :</strong></h1>
+<ul>
+<li>Développez le portefeuille clients et stimulez les revenus d’Anthropic dans le secteur des grandes entreprises en France. Naviguez au sein d’organisations complexes pour identifier les décideurs clés, les informer sur nos services et les accompagner vers le succès avec Anthropic. Vous serez responsable de l’ensemble du cycle de vente, depuis le premier contact jusqu’à la conclusion.</li>
+<li>Concevoir et exécuter des stratégies de vente innovantes adaptées aux cycles d’approvisionnement et aux processus budgétaires des entreprises afin d’atteindre et de dépasser les objectifs de chiffre d’affaires. Analyser les paysages, les tendances et la dynamique du marché des entreprises pour transformer les plans stratégiques en activités et campagnes de vente ciblées.</li>
+<li>Mener l’expansion du marché en identifiant de nouveaux cas d’utilisation au sein des départements de l’entreprise, des centres d’innovation et des bureaux opérationnels. Collaborer de manière inter-fonctionnelle pour différencier nos offres destinées aux applications en entreprise.</li>
+<li>Naviguer dans les écosystèmes complexes des parties prenantes de l’entreprise, notamment les dirigeants, les administrateurs, les services informatiques et les bureaux d’approvisionnement, pour parvenir à un consensus sur la culture et les pratiques commerciales françaises.</li>
+<li>Alimenter les feuilles de route et les caractéristiques des produits en recueillant les retours des entreprises utilisatrices et en traduisant les besoins du marché français des grandes entreprises. Fournir des informations qui renforcent notre proposition de valeur pour les entreprises clientes</li>
+<li>Affiner continuellement la méthodologie de vente de l’entreprise en intégrant les enseignements dans les guides, les modèles et les meilleures pratiques. Identifier les améliorations des processus qui optimisent la productivité et la cohérence des ventes.</li>
+</ul>
+<h1><strong>Profil recherché :</strong></h1>
+<ul>
+<li><strong>Langue maternelle française, </strong>avec d’excellentes compétences en communication écrite et orale en français</li>
+<li>Maîtrise courante de l’anglais pour la collaboration avec des équipes mondiales</li>
+<li>Un minimum de 5&nbsp;ans d'expérience en vente B2B dans le domaine des technologies d'entreprise, de préférence dans le SaaS ou les technologies émergentes</li>
+<li>Un historique réussi de gestion de cycles de vente complexes au sein de grandes entreprises, avec la conclusion de contrats stratégiques grâce à une compréhension à la fois des exigences techniques et des cas d’utilisation métier.</li>
+<li>Capacité démontrée à naviguer dans les processus administratifs et d’approvisionnement des entreprises, en mobilisant l’adhésion des différents intervenants, y compris les dirigeants, les administrateurs et les services informatiques.</li>
+<li>Expérience approfondie dans la négociation d'accords complexes au sein des cadres et politiques d'approvisionnement des entreprises</li>
+<li>Expérience avérée dans le dépassement des objectifs de chiffre d’affaires dans le secteur des entreprises en maîtrisant un pipeline et un processus de vente en constante évolution</li>
+<li>Excellentes compétences en communication et capacité à présenter avec assurance devant divers publics d’entreprise, des équipes techniques et des analystes commerciaux aux cadres supérieurs.</li>
+<li>Connaissance approfondie des cycles d’achat des entreprises, des processus de décision et des principaux points de friction, en particulier sur le marché français.</li>
+<li>Une approche stratégique et analytique pour évaluer le marché des entreprises, combinée à une exécution créative et tactique pour saisir les opportunités</li>
+<li>Une passion pour et/ou une expérience avec les systèmes d'intelligence artificielle avancés et leurs applications dans les environnements d'entreprise. Vous tenez fermement à ce que les systèmes d'IA de pointe soient développés de manière sûre et éthique pour un usage professionnel</li>
+</ul>
+<h1><strong>Ce que nous offrons :</strong></h1>
+<ul>
+<li>Salaire de base compétitif et structure de commissions sans plafond</li>
+<li>Participation au capital dans la croissance d’Anthropic</li>
+<li>Ensemble complet d’avantages sociaux</li>
+<li>Opportunité de contribuer à façonner l’industrie de l’IA en France et dans la zone EMEA</li>
+<li>Aménagements de travail flexibles</li>
+<li>Développement professionnel et opportunités d’évolution de carrière</li>
+</ul>
+<p><strong>Lieu&nbsp;: </strong>Paris, France (travail hybride possible)</p>
+<p><em>Anthropic est un employeur offrant l’égalité des chances, engagé en faveur de la diversité et de l’inclusion.</em></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="h-8">&nbsp;</div><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>€205.000</span><span class="divider">&mdash;</span><span>€255.000 EUR</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>

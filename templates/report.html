@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Lab Jobs — {{ month_display }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0d0d0d;
+      --bg-elevated: #161616;
+      --bg-hover: #1f1f1f;
+      --text: #e5e5e5;
+      --text-muted: #737373;
+      --text-dim: #525252;
+      --border: #262626;
+      --accent-new: #22c55e;
+      --accent-removed: #ef4444;
+      --accent-changed: #f59e0b;
+      --accent-blue: #3b82f6;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h1 {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.5rem;
+    }
+
+    .date {
+      font-family: 'IBM Plex Mono', monospace;
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }
+
+    .summary {
+      display: flex;
+      gap: 2rem;
+      margin-top: 1.5rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.8125rem;
+    }
+
+    .summary-item {
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+    }
+
+    .summary-item .count {
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+
+    .summary-item.new .count { color: var(--accent-new); }
+    .summary-item.removed .count { color: var(--accent-removed); }
+    .summary-item.changed .count { color: var(--accent-changed); }
+
+    .company {
+      margin-bottom: 3rem;
+    }
+
+    .company-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h2 {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 1.125rem;
+      font-weight: 600;
+    }
+
+    .company-stats {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+    }
+
+    .company-stats .delta {
+      margin-left: 0.5rem;
+    }
+
+    .company-stats .delta.positive { color: var(--accent-new); }
+    .company-stats .delta.negative { color: var(--accent-removed); }
+
+    .section-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.75rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-dim);
+      margin: 1.5rem 0 0.75rem 0;
+    }
+
+    .jobs-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    details {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+    }
+
+    details[open] {
+      background: var(--bg-hover);
+    }
+
+    summary {
+      padding: 0.875rem 1rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 0.9375rem;
+      list-style: none;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    summary::before {
+      content: '\25b8';
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      transition: transform 0.15s ease;
+    }
+
+    details[open] summary::before {
+      transform: rotate(90deg);
+    }
+
+    summary:hover {
+      background: var(--bg-hover);
+    }
+
+    .badge {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.625rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 0.2rem 0.4rem;
+      border-radius: 2px;
+    }
+
+    .badge.new {
+      background: rgba(34, 197, 94, 0.15);
+      color: var(--accent-new);
+    }
+
+    .badge.removed {
+      background: rgba(239, 68, 68, 0.15);
+      color: var(--accent-removed);
+    }
+
+    .badge.changed {
+      background: rgba(245, 158, 11, 0.15);
+      color: var(--accent-changed);
+    }
+
+    .job-title {
+      flex: 1;
+      font-weight: 500;
+    }
+
+    .job-meta {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .job-content {
+      padding: 1rem 1rem 1.25rem 2.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .job-details {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 0.25rem 1rem;
+      font-size: 0.8125rem;
+      margin-bottom: 1rem;
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    .job-details dt {
+      color: var(--text-dim);
+    }
+
+    .job-details dd {
+      color: var(--text-muted);
+    }
+
+    .job-details a {
+      color: var(--accent-blue);
+      text-decoration: none;
+    }
+
+    .job-details a:hover {
+      text-decoration: underline;
+    }
+
+    .description {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      line-height: 1.7;
+    }
+
+    .description h3 {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: var(--text);
+      margin: 1rem 0 0.5rem 0;
+    }
+
+    .description h3:first-child {
+      margin-top: 0;
+    }
+
+    .description ul {
+      margin-left: 1.25rem;
+    }
+
+    .description li {
+      margin-bottom: 0.25rem;
+    }
+
+    .diff-indicator {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.75rem;
+      padding: 0.5rem 0.75rem;
+      background: rgba(245, 158, 11, 0.1);
+      border-left: 2px solid var(--accent-changed);
+      margin-bottom: 1rem;
+      color: var(--text-muted);
+    }
+
+    .no-changes {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.8125rem;
+      color: var(--text-dim);
+      font-style: italic;
+      padding: 0.5rem 0;
+    }
+
+    footer {
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+    }
+
+    footer a {
+      color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AI Lab Jobs</h1>
+    <div class="date">{{ month_display }}</div>
+    <div class="summary">
+      <div class="summary-item new">
+        <span class="count">{{ total_new }}</span>
+        <span>new</span>
+      </div>
+      <div class="summary-item removed">
+        <span class="count">{{ total_removed }}</span>
+        <span>removed</span>
+      </div>
+      <div class="summary-item changed">
+        <span class="count">{{ total_changed }}</span>
+        <span>changed</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    {% for company in companies %}
+    <section class="company">
+      <div class="company-header">
+        <h2>{{ company.name }}</h2>
+        <div class="company-stats">
+          {{ company.start_count }} &rarr; {{ company.end_count }}
+          {% if company.delta > 0 %}
+          <span class="delta positive">(+{{ company.delta }})</span>
+          {% elif company.delta < 0 %}
+          <span class="delta negative">({{ company.delta }})</span>
+          {% endif %}
+        </div>
+      </div>
+
+      <div class="section-label">New Roles</div>
+      {% if company.new_jobs %}
+      <div class="jobs-list">
+        {% for job in company.new_jobs %}
+        <details>
+          <summary>
+            <span class="badge new">New</span>
+            <span class="job-title">{{ job.title }}</span>
+            <span class="job-meta">{{ job.location | truncate_location }}</span>
+          </summary>
+          <div class="job-content">
+            <dl class="job-details">
+              <dt>Team</dt>
+              <dd>{{ job.team }}</dd>
+              <dt>Location</dt>
+              <dd>{{ job.location }}</dd>
+              <dt>Posted</dt>
+              <dd>{{ job.first_seen | format_date_display }}</dd>
+              <dt>Link</dt>
+              <dd><a href="{{ job.url }}">{{ job.url | truncate_url }}</a></dd>
+            </dl>
+            <div class="description">
+              {{ job.description_html | safe }}
+            </div>
+          </div>
+        </details>
+        {% endfor %}
+      </div>
+      {% else %}
+      <p class="no-changes">No new roles this month.</p>
+      {% endif %}
+
+      <div class="section-label">Removed</div>
+      {% if company.removed_jobs %}
+      <div class="jobs-list">
+        {% for job in company.removed_jobs %}
+        <details>
+          <summary>
+            <span class="badge removed">Removed</span>
+            <span class="job-title">{{ job.title }}</span>
+            <span class="job-meta">{{ job.location | truncate_location }}</span>
+          </summary>
+          <div class="job-content">
+            <dl class="job-details">
+              <dt>Team</dt>
+              <dd>{{ job.team }}</dd>
+              <dt>Location</dt>
+              <dd>{{ job.location }}</dd>
+              <dt>First seen</dt>
+              <dd>{{ job.first_seen | format_date_display }}</dd>
+              <dt>Last seen</dt>
+              <dd>{{ job.last_seen | format_date_display }}</dd>
+            </dl>
+            <div class="description">
+              <p>Role removed from careers page. May have been filled or closed.</p>
+            </div>
+          </div>
+        </details>
+        {% endfor %}
+      </div>
+      {% else %}
+      <p class="no-changes">No roles removed this month.</p>
+      {% endif %}
+
+      <div class="section-label">Changed</div>
+      {% if company.changed_jobs %}
+      <div class="jobs-list">
+        {% for job in company.changed_jobs %}
+        <details>
+          <summary>
+            <span class="badge changed">Changed</span>
+            <span class="job-title">{{ job.title }}</span>
+            <span class="job-meta">{{ job.location | truncate_location }}</span>
+          </summary>
+          <div class="job-content">
+            <div class="diff-indicator">
+              Description updated
+            </div>
+            <dl class="job-details">
+              <dt>Team</dt>
+              <dd>{{ job.team }}</dd>
+              <dt>Location</dt>
+              <dd>{{ job.location }}</dd>
+              <dt>First seen</dt>
+              <dd>{{ job.first_seen | format_date_display }}</dd>
+              <dt>Link</dt>
+              <dd><a href="{{ job.url }}">{{ job.url | truncate_url }}</a></dd>
+            </dl>
+            <div class="description">
+              {{ job.description_html | safe }}
+            </div>
+          </div>
+        </details>
+        {% endfor %}
+      </div>
+      {% else %}
+      <p class="no-changes">No changes detected.</p>
+      {% endif %}
+    </section>
+    {% endfor %}
+  </main>
+
+  <footer>
+    <p>Data collected daily from public careers pages. Last updated {{ last_updated }}.</p>
+    <p>Source: <a href="https://github.com/corinfinite/ai-job-watch">github.com/corinfinite/ai-job-watch</a></p>
+  </footer>
+</body>
+</html>

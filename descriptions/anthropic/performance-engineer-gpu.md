@@ -1,0 +1,49 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p>&nbsp;</p>
+<h2>About the role:</h2>
+<p>Pioneering the next generation of AI requires breakthrough innovations in GPU performance and systems engineering. As a GPU Performance Engineer, you'll architect and implement the foundational systems that power Claude and push the frontiers of what's possible with large language models. You'll be responsible for maximizing GPU utilization and performance at unprecedented scale, developing cutting-edge optimizations that directly enable new model capabilities and dramatically improve inference efficiency.</p>
+<p>Working at the intersection of hardware and software, you'll implement state-of-the-art techniques from custom kernel development to distributed system architectures. Your work will span the entire stack—from low-level tensor core optimizations to orchestrating thousands of GPUs in perfect synchronization.</p>
+<p>Strong candidates will have a track record of delivering transformative GPU performance improvements in production ML systems and will be excited to shape the future of AI infrastructure alongside world-class researchers and engineers.</p>
+<h2>You might be a good fit if you:</h2>
+<ul>
+<li>Have deep experience with GPU programming and optimization at scale</li>
+<li>Are impact-driven, passionate about delivering measurable performance breakthroughs</li>
+<li>Can navigate complex systems from hardware interfaces to high-level ML frameworks</li>
+<li>Enjoy collaborative problem-solving and pair programming</li>
+<li>Want to work on state-of-the-art language models with real-world impact</li>
+<li>Care about the societal impacts of your work</li>
+<li>Thrive in ambiguous environments where you define the path forward</li>
+</ul>
+<h2>Strong candidates may also have experience with:</h2>
+<ul>
+<li>GPU Kernel Development: CUDA, Triton, CUTLASS, Flash Attention, tensor core optimization</li>
+<li>ML Compilers &amp; Frameworks: PyTorch/JAX internals, torch.compile, XLA, custom operators</li>
+<li>Performance Engineering: Kernel fusion, memory bandwidth optimization, profiling with Nsight</li>
+<li>Distributed Systems: NCCL, NVLink, collective communication, model parallelism</li>
+<li>Low-Precision: INT8/FP8 quantization, mixed-precision techniques</li>
+<li>Production Systems: Large-scale training infrastructure, fault tolerance, cluster orchestration</li>
+</ul>
+<h2>Representative projects:</h2>
+<ul>
+<li>Co-design attention mechanisms and algorithms for next-generation hardware architectures</li>
+<li>Develop custom kernels for emerging quantization formats and mixed-precision techniques</li>
+<li>Design distributed communication strategies for multi-node GPU clusters</li>
+<li>Optimize end-to-end training and inference pipelines for frontier language models</li>
+<li>Build performance modeling frameworks to predict and optimize GPU utilization</li>
+<li>Implement kernel fusion strategies to minimize memory bandwidth bottlenecks</li>
+<li>Create resilient systems for planet-scale distributed training infrastructure</li>
+<li>Profile and eliminate performance bottlenecks in production serving infrastructure</li>
+<li>Partner with hardware vendors to influence future accelerator capabilities and software stacks</li>
+</ul>
+<h2>&nbsp;</h2>
+<p><strong>Deadline to apply:</strong> None. Applications will be reviewed on a rolling basis.&nbsp;</p>
+<p>&nbsp;</p>
+<p>The expected salary range for this position is:</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is below. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Our total compensation package for full-time employees includes equity and benefits.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$315,000</span><span class="divider">&mdash;</span><span>$560,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong>&nbsp;To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>
