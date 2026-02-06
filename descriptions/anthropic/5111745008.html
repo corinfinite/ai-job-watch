@@ -1,76 +1,36 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
-<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading"><strong>About the Role</strong></h2>
-<p>We're looking for a Software Engineer to work at the intersection of engineering and research on the Claude Code team. In this role, you'll collaborate directly with Anthropic's researchers to improve Claude’s coding capabilities through tooling, infrastructure, and evaluations. You'll build systems that help us understand where Claude Code excels and where it falls short—and then help close those gaps.</p>
-<p>We're looking for engineers who can build robust, complex systems and who thrive in fast-paced, high-intensity environments. You'll take ambiguous problems and turn them into reliable infrastructure that accelerates our research.</p>
-<h2 class="heading"><strong>Responsibilities</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the Role</h2>
+<p>Our mandate is to make inference deployment boring and unattended.</p>
+<p>Anthropic serves Claude to millions of users across GPUs, TPUs, and Trainium — and every model update must reach production safely, quickly, and without disrupting service. We're building the systems that make inference deployment continuous and unattended.</p>
+<p>As a Software Engineer on the Launch Engineering team, you'll design and build the deployment infrastructure that moves inference code from merge to production. This is a resource-constrained optimization problem at its core: validation and deployment consume the same accelerator chips that serve customer traffic — your deploys compete with live user requests for the same hardware. Every model brings different fleet sizes, startup times, and correctness requirements, so the system must adapt continuously. You'll build systems that navigate these constraints — orchestrating validation, scheduling deployments intelligently, and driving down cycle time from merge to production.</p>
+<p>If you've built deployment systems at scale and gravitate toward the hardest problems at the intersection of automation and resource management, this team will give you an outsized scope to work on them.</p>
+<h2>Responsibilities</h2>
 <ul>
-<li>
-<p>Design and build eval systems that measure model capabilities across diverse coding tasks</p>
-</li>
-<li>
-<p>Build tooling and infrastructure that enables researchers to run experiments at scale</p>
-</li>
-<li>
-<p>Develop pipelines for data collection, processing, and analysis</p>
-</li>
-<li>
-<p>Create internal tools that improve researcher productivity and accelerate iteration cycles</p>
-</li>
-<li>
-<p>Serve as a bridge between product and research—bring strong product intuition to inform which capabilities matter most</p>
-</li>
-<li>
-<p>Work closely with researchers to translate research questions into engineering solutions</p>
-</li>
-<li>
-<p>Own systems end-to-end—from design through production reliability</p>
-</li>
+<li><strong>Own deployment orchestration</strong> that continuously moves validated inference builds into production across GPU, TPU, and Trainium fleets, unattended under normal conditions</li>
+<li><strong>Improve capacity-aware deployment scheduling</strong> to maximize deployment throughput against constrained accelerator budgets and variable fleet sizes</li>
+<li><strong>Extend deployment observability</strong> — dashboards and tooling that answer "what code is running in production," "where is my commit," and "what validation passed for this deploy"</li>
+<li><strong>Drive down cycle time</strong> from code merge to production with pipeline architectures that minimize serial dependencies and maximize parallelism</li>
+<li><strong>Optimize fleet rollout strategies</strong> for large-scale deployments across thousands of GPU, TPU, and Trainium chips, minimizing disruption to serving capacity</li>
+<li><strong>Evolve self-service model onboarding</strong> so that new models can be added to the continuous deployment pipeline without Launch Engineering involvement</li>
+<li><strong>Partner across the Inference organization</strong> with teams owning validation, autoscaling, and model routing to integrate deployment automation with their systems</li>
 </ul>
-<h2 class="heading"><strong>You may be a good fit if you:</strong></h2>
+<h2>You May Be a Good Fit If You Have</h2>
 <ul>
-<li>
-<p>Have built and owned complex systems—pipelines, infrastructure, or software that orchestrates many components and handles significant state and logic</p>
-</li>
-<li>
-<p>Thrive in high-intensity environments with fast iteration cycles</p>
-</li>
-<li>
-<p>Take full ownership of problems and drive them to completion independently</p>
-</li>
-<li>
-<p>Are a power user of agentic coding tools and have strong intuition about model capabilities and limitations</p>
-</li>
-<li>
-<p>Are comfortable diving into unfamiliar technical domains and figuring things out quickly</p>
-</li>
-<li>
-<p>Care deeply about correctness and reliability in the systems you build</p>
-</li>
-<li>
-<p>Are excited to work at the boundary between engineering and AI research</p>
-</li>
-<li>Have at least 5 years of work experience</li>
+<li>5+ years of experience building deployment, release, or delivery infrastructure at scale</li>
+<li>Strong software engineering skills with experience designing systems that manage complex state machines and multi-stage pipelines</li>
+<li>Experience with deployment systems where resource constraints shape the design — whether that's fleet capacity, network bandwidth, hardware availability, or coordinated rollout windows</li>
+<li>A track record of building automation that measurably improves deployment velocity and reliability</li>
+<li>Proficiency with Kubernetes-based deployments, rolling update mechanics, and container orchestration</li>
+<li>Comfort working across the stack — from backend services and databases to CLI tools and web UIs</li>
+<li>Strong communication skills and the ability to work closely with oncall engineers, model teams, and infrastructure partners</li>
 </ul>
-<h2 class="heading"><strong>Strong candidates may also have experience with:</strong></h2>
+<h2>Strong Candidates May Also Have</h2>
 <ul>
-<li>
-<p>Writing or maintaining eval/evaluation frameworks</p>
-</li>
-<li>
-<p>Reinforcement learning systems</p>
-</li>
-<li>
-<p>Working in high-performance, demanding environments—trading firms, quant funds, competitive research labs, or fast-moving startups where intensity is the norm</p>
-</li>
-<li>
-<p>Have research computing or scientific infrastructure background</p>
-</li>
-<li>
-<p>Have a strong quantitative foundation (math, physics, or related fields)</p>
-</li>
-<li>
-<p>Python and TypeScript</p>
-</li>
+<li>Experience with ML inference or training infrastructure deployment, particularly across multiple accelerator types (GPU, TPU, Trainium)</li>
+<li>Background in capacity planning or resource-constrained scheduling (e.g., bin-packing, fleet management, job scheduling with hardware affinity)</li>
+<li>Experience with progressive delivery in systems with long validation cycles: canary/soak testing, blue-green deployments, traffic shifting, automated rollback</li>
+<li>Experience at companies with large-scale release engineering challenges (mobile release trains, monorepo deployments, multi-datacenter rollouts)</li>
+<li>Experience with Python and/or Rust in production systems</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
 <p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$320,000</span><span class="divider">&mdash;</span><span>$485,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
