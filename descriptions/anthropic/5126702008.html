@@ -1,0 +1,109 @@
+<div class="content-intro"><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading"><strong>About the Role</strong></h2>
+<p>Anthropic manages one of the largest and fastest-growing accelerator fleets in the industry — spanning multiple accelerator families and clouds. The Accelerator Capacity Engineering (ACE) team is responsible for making sure every chip in that fleet is accounted for, well-utilized, and efficiently allocated. We own the data, tooling, and operational systems that let Anthropic plan, measure, and maximize utilization across first-party and third-party compute.</p>
+<p>As an engineer on ACE, you will build the production systems that power this work: data pipelines that ingest and normalize telemetry from heterogeneous cloud environments, observability tooling that gives the org real-time visibility into fleet health, and performance instrumentation that measures how efficiently every major workload uses the hardware it’s running on. You will be expected to write production-quality code every day, operate alongside Kubernetes-native infrastructure at meaningful scale, and directly influence decisions around one of Anthropic’s largest areas of spend.</p>
+<p>You’ll collaborate closely with research engineering, infrastructure, inference, and finance teams. The work requires someone who can move between data engineering, systems engineering, and observability with comfort — and who thrives in a high-autonomy, high-ambiguity environment.</p>
+<h2 class="heading"><strong>What This Team Owns</strong></h2>
+<p>The team’s work spans three functional areas. Depending on your background and interests, you’ll focus primarily in one, but the boundaries are fluid and the problems overlap:</p>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p><strong>Data infrastructure — </strong>collecting, normalizing, and serving the fleet-wide data that powers everything else. This means building pipelines that ingest occupancy and utilization telemetry from Kubernetes clusters, normalizing billing and usage data across cloud providers, and maintaining the BigQuery layer that the rest of the org queries against. Correctness, completeness, and latency matter here.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p><strong>Fleet observability — </strong>making the state of the accelerator fleet legible and actionable in real time. This means building cluster health tooling, capacity planning platforms, alerting on occupancy drops and allocation problems, and driving systemic improvements to scheduling and fragmentation. The work sits at the intersection of Kubernetes operations and cross-team coordination.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p><strong>Compute efficiency — </strong>measuring and improving how effectively every major workload uses the hardware it’s running on. This means instrumenting utilization metrics across training, inference, and eval systems, building benchmarking infrastructure, establishing per-config baselines, and collaborating directly with system-owning teams to close efficiency gaps.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p><strong>Internal compute tooling — </strong>building the platforms and interfaces that make capacity data usable across the org. This includes capacity planning tools, workload attribution systems, cost dashboards, and self-service APIs. The consumers are research engineers, infrastructure teams, finance, and leadership — each with different needs and different levels of technical depth. The work involves product thinking as much as engineering: figuring out what people actually need, defining schema contracts, and making the data discoverable.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>You will be placed on a pod based on your background and interests. We are especially focused on hiring for Data Platform, but strong candidates for any of the three active pods will move forward.</em></p>
+<h2 class="heading"><strong>What You’ll Do</strong></h2>
+<ul>
+<li>
+<p><strong>Build and operate data pipelines </strong>that ingest accelerator occupancy, utilization, and cost data from multiple cloud providers into BigQuery. Own data completeness, latency SLOs, gap detection, and backfill automation.</p>
+</li>
+<li>
+<p><strong>Develop and maintain observability infrastructure </strong>— Prometheus recording rules, Grafana dashboards, and alerting systems — that surface actionable signals about fleet health, occupancy, and efficiency.</p>
+</li>
+<li>
+<p><strong>Instrument and analyze compute efficiency metrics </strong>across training, inference, and eval workloads. Build benchmarking infrastructure, establish per-config baselines, and work with system-owning teams to improve utilization.</p>
+</li>
+<li>
+<p><strong>Build internal tooling and platforms </strong>that enable capacity planning, workload attribution, and cluster debugging. The consumers are other engineering teams, finance, and leadership — not external users.</p>
+</li>
+<li>
+<p><strong>Operate Kubernetes-native systems at scale </strong>— deploying data collection agents, managing workload labeling infrastructure, and understanding how taints, reservations, and scheduling affect capacity.</p>
+</li>
+<li>
+<p><strong>Normalize and reconcile data across heterogeneous sources </strong>— including AWS, GCP, and Azure billing exports, vendor-specific telemetry formats, and internal systems with different schemas and billing arrangements.</p>
+</li>
+<li>
+<p><strong>Collaborate across organizational boundaries </strong>with research engineering, infrastructure, inference, and finance teams. Gather requirements from technical stakeholders, translate them into useful systems, and communicate trade-offs to non-technical audiences.</p>
+</li>
+</ul>
+<h2 class="heading"><strong>You May Be a Good Fit If You Have</strong></h2>
+<ul>
+<li>
+<p><strong>5+ years of software engineering experience </strong>with a strong track record building and operating production systems. You write code every day — this is a hands-on engineering role, not a planning or coordination role.</p>
+</li>
+<li>
+<p><strong>Kubernetes fluency at operational depth </strong>— you’ve operated production K8s at meaningful scale, not just written manifests. Comfort with scheduling, taints, labels, node management, and debugging cluster-level issues.</p>
+</li>
+<li>
+<p><strong>Data pipeline engineering experience </strong>— designing, building, and owning the full lifecycle of production data pipelines. Experience with data warehouses (BigQuery preferred), schema management, streaming ingestion, SLOs for latency and completeness, and a strong instinct for correctness.</p>
+</li>
+<li>
+<p><strong>Observability tooling experience </strong>— Prometheus, PromQL, and Grafana are in the critical path for this team. Experience writing recording rules, understanding metric semantics, and building monitoring systems that engineering teams actually rely on.</p>
+</li>
+<li>
+<p><strong>Python and SQL at production quality. </strong>Most pipeline code is Python; the presentation layer is BigQuery SQL including table-valued functions and views. Both need to be idiomatic, well-tested, and maintainable.</p>
+</li>
+<li>
+<p><strong>Familiarity with at least one major cloud provider (AWS, GCP, or Azure) </strong>at the infrastructure level — compute, billing, usage APIs, cost management tooling. Multi-cloud experience is a strong plus.</p>
+</li>
+<li>
+<p><strong>High autonomy and strong cross-team communication. </strong>You can gather your own requirements, navigate ambiguity, and work across organizational boundaries. Scrappiness and ownership matter more than polish.</p>
+</li>
+</ul>
+<h2 class="heading"><strong>Strong Candidates May Also Have</strong></h2>
+<ul>
+<li>
+<p><strong>Multi-cloud data ingestion experience </strong>— especially working with AWS and GCP APIs, billing exports, or vendor-specific telemetry formats. Experience normalizing data from external providers with different billing arrangements is directly applicable.</p>
+</li>
+<li>
+<p><strong>Accelerator infrastructure familiarity </strong>— GPU metrics (DCGM), TPU utilization, Trainium power and utilization metrics, or experience working with ML training/inference systems at the hardware level.</p>
+</li>
+<li>
+<p><strong>Performance engineering and benchmarking experience </strong>— building benchmark harnesses, establishing baselines, reasoning about compute efficiency (FLOPs utilization, memory bandwidth, interconnect throughput), and working with system teams to diagnose and improve performance.</p>
+</li>
+<li>
+<p><strong>Data-as-product thinking </strong>— experience building internal data products with self-service access, schema contracts, API serving, documentation, and discoverability. Not just building pipelines, but thinking about how platform data gets consumed.</p>
+</li>
+<li>
+<p><strong>Experience with capacity planning, resource management, or cost attribution systems </strong>at a hyperscaler or large-scale ML environment. FinOps, chargeback systems, or infrastructure cost modeling.</p>
+</li>
+</ul>
+<p><strong>Familiarity with ClickHouse, Terraform, or Rust. </strong>ClickHouse is the team’s current streaming store; Terraform for infrastructure-as-code; Rust for high-performance data collection agents.</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$405,000</span><span class="divider">&mdash;</span><span>$485,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p><strong>Education requirements: </strong>We require at least a Bachelor's degree in a related field or equivalent experience.<strong><br><br>Location-based hybrid policy:</strong> Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.</p>
+<p><strong data-stringify-type="bold">Visa sponsorship:</strong>&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.</p>
+<p><strong>We encourage you to apply even if you do not believe you meet every single qualification.</strong> Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.<br><br><strong data-stringify-type="bold">Your safety matters to us.</strong> To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;<u data-stringify-type="underline"><a class="c-link c-link--underline" href="http://anthropic.com/careers" target="_blank" data-stringify-link="http://anthropic.com/careers" data-sk="tooltip_parent" data-remove-tab-index="true">anthropic.com/careers</a></u>&nbsp;directly for confirmed position openings.</p>
+<h2><strong>How we're different</strong></h2>
+<p>We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.</p>
+<p>The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.</p>
+<h2><strong>Come work with us!</strong></h2>
+<p>Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. <strong data-stringify-type="bold">Guidance on Candidates' AI Usage:</strong>&nbsp;Learn about&nbsp;<a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance" target="_blank" data-stringify-link="https://www.anthropic.com/candidate-ai-guidance" data-sk="tooltip_parent">our policy</a>&nbsp;for using AI in our application process</p></div>
