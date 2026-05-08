@@ -1,41 +1,38 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
 <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2>
-<p>Anthropic is seeking a Program Manager to own and drive our student outreach strategy, establishing Claude as the AI platform of choice for the next generation of builders, researchers, and creators at universities worldwide.&nbsp;</p>
-<p>You'll lead flagship programs including the Claude Campus Ambassador Program and Claude Builder Clubs, while developing new initiatives that embody Anthropic's mission of helping humanity navigate the AI transition.</p>
-<p>&nbsp;This is a high-ownership role where you'll define the vision, build the infrastructure, and personally drive execution for how Anthropic engages with student communities globally. Beyond keeping programs running smoothly, you'll make real strategic decisions and own the student narrative company-wide.&nbsp;</p>
-<p>We're looking for someone who thrives with significant autonomy, can operate effectively with ambiguity, and has the judgment to make consequential calls about where we invest our resources.</p>
-<h2><strong>Responsibilities</strong></h2>
+<p>Anthropic runs some of the largest Kubernetes clusters in the industry. We have fleets of hundreds of thousands of nodes across multiple cloud providers and datacenters to train, research, and serve frontier AI models. The Kubernetes Platform team owns the Kubernetes control plane that makes those clusters work.</p>
+<p>We are operating at a scale where the defaults stop working. We own the scheduler and extend it to place topology-sensitive ML workloads across thousands of accelerators at once. We scale the control plane itself — apiserver, etcd, controllers — so it stays responsive as object counts and node counts grow by orders of magnitude. And we build the core cluster services every workload depends on, like service discovery, so they hold up under the same pressure.</p>
+<p>We make sure the control plane is fast, correct, and always available. Your work will directly determine whether Anthropic can keep reliably and safely training frontier models as our compute footprint continues to grow.</p>
+<h2><strong>Key responsibilities</strong></h2>
 <ul>
-<li>Lead the Claude Campus Ambassador Program, recruiting, training, and supporting student ambassadors at universities worldwide</li>
-<li>Build and scale Claude Builder Clubs to foster student communities around AI development</li>
-<li>Design and execute brand activations and event programming tailored for student audiences</li>
-<li>Develop overall strategy and positioning for Claude with the student persona</li>
-<li>Manage student hackathon partnerships at scale, including sponsorships, judging, and mentorship programs</li>
-<li>Lead outreach efforts to grow Claude awareness and usage on university campuses globally</li>
-<li>Develop new programs that apply Anthropic's mission of helping humanity through the AI transition to the student audience</li>
-<li>Collaborate with product, sales, developer relations, marketing and communications teams to ensure student programs align with broader company goals</li>
-<li>Track and report on program metrics, continuously optimizing for impact and scale</li>
+<li>Own, operate, and extend the Kubernetes scheduler for Anthropic's accelerator fleets, including custom scheduling plugins and policies for gang scheduling, topology awareness, and preemption</li>
+<li>Scale the Kubernetes control plane (apiserver, etcd, controller-manager) to support clusters far beyond typical limits, and find the next bottleneck before it finds us</li>
+<li>Design, build, and operate core cluster services such as service discovery that every workload in the fleet depends on</li>
+<li>Build and maintain custom controllers, operators, and CRDs</li>
+<li>Partner with research, training, and inference to understand workload shapes and turn their requirements into platform capabilities</li>
+<li>Collaborate with cloud providers on required features and escalations</li>
+<li>Participate in on-call, lead incident response, and design processes (postmortems, runbooks, SLOs) that help the team avoid repeating failures</li>
 </ul>
-<h2><strong>Minimum Qualifications</strong></h2>
+<h2><strong>Minimum qualifications</strong></h2>
 <ul>
-<li>Proven track record of building and scaling ambassador or community programs in education or edtech space</li>
-<li>Track record of making strategic decisions with incomplete information and delivering results</li>
-<li>Experience operating autonomously and driving outcomes without heavy oversight</li>
-<li>Strong communication skills—you'll represent Anthropic to university leadership, partners, and across internal teams</li>
-<li>Proven ability to manage complex, multi-stakeholder initiatives while keeping execution sharp</li>
-<li>Comfort with travel for campus events and hackathons (estimated 5-10%)</li>
+<li>Significant software engineering experience building and operating production distributed systems</li>
+<li>Proficiency in at least one systems-appropriate language (e.g., Go, Python, Rust, or C++)</li>
+<li>Deep, hands-on Kubernetes experience (well beyond "user of”) into scheduler, controllers, apiserver, or operating large multi-tenant clusters</li>
+<li>Demonstrated ability to debug complex issues across the stack, from API behavior down to node and network-level root causes</li>
+<li>A track record of designing for reliability, correctness, and clear failure semantics in systems other engineers depend on</li>
+<li>Strong written and verbal communication; comfort building consensus with internal stakeholders</li>
 </ul>
-<h2><strong>Preferred Qualifications</strong></h2>
+<h2><strong>Preferred qualifications</strong></h2>
 <ul>
-<li>5+ years of experience in program management, developer relations, community building, or campus engagement, with increasing scope and ownership over time</li>
-<li>Experience building campus or student programs at a major technology company</li>
-<li>Background in hackathon organization or developer community ecosystems</li>
-<li>Technical fluency or hands-on experience with AI/ML</li>
-<li>International program management experience across multiple regions</li>
-<li>Experience with brand strategy or experiential marketing</li>
-</ul>
-<p>&nbsp;</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
-<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$255,000</span><span class="divider">&mdash;</span><span>$320,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<li>Experience with Kubernetes internals or contributions: kube-scheduler / scheduling framework, apiserver, etcd, client-go, controller-runtime, or similar</li>
+<li>Experience building or operating cluster schedulers or batch systems (e.g., Kueue, Volcano, Slurm, or in-house equivalents)</li>
+<li>Background scaling control planes or coordination systems (etcd, ZooKeeper, Consul, or large DNS/service-mesh deployments)</li>
+<li>Familiarity with ML infrastructure: GPUs, TPUs, or Trainium; gang scheduling; topology-aware placement; collective networking such as NCCL</li>
+<li>Experience with GCP and/or AWS, including GKE/EKS internals and Infrastructure as Code</li>
+<li>Low-level systems experience such as Linux kernel tuning, cgroups, or eBPF</li>
+<li>8+ years of relevant industry experience, including time leading large, ambiguous infrastructure projects</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>£325,000</span><span class="divider">&mdash;</span><span>£485,000 GBP</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
 <p><strong>Minimum years of experience: </strong>Years of experience required will correlate with the internal job level requirements for the position</p>
