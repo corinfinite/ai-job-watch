@@ -1,33 +1,33 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
-<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the Role</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the Role</h2>
 <p>The Cloud Inference team scales and optimizes Claude to serve the massive audiences of developers and enterprise companies across AWS, GCP, Azure, and future cloud service providers (CSPs). We own the end-to-end product of Claude on each cloud platform, from API integration and intelligent request routing to inference execution, capacity management, and day-to-day operations.</p>
-<p>Our engineers are extremely high leverage: we simultaneously drive multiple major revenue streams while optimizing one of Anthropic's most precious resources: compute. As we expand to more cloud platforms, the complexity of managing inference efficiently across providers with different hardware, networking stacks, and operational models grows significantly. We need product-minded backend engineers who can navigate these platform differences, design the services and abstractions that work across providers, and make architectural decisions that keep us reliable and cost-effective at massive scale.</p>
-<p>Your work will increase the scale at which our services operate, accelerate our ability to reliably launch new frontier models and innovative features to customers across all platforms, and ensure our LLMs meet rigorous safety, performance, and security standards.</p>
-<p>&nbsp;</p>
-<h2><strong>What You'll Do</strong></h2>
+<p>Within Cloud Inference, the model &amp; inference launch team owns the validation pipeline for our inference server and load balancer on these platforms. We're responsible for every inference change — model launches, performance improvements, safeguard integrations — landing on cloud platforms with correctness, performance, and reliability intact.</p>
+<p>This is high-leverage infrastructure work: validation has to be fast and cheap enough to run on the same accelerators that serve customers, trustworthy enough to replace manual checks, and consistent enough that a change working on Anthropic first-party means it works everywhere. This directly determines how fast frontier models and features ship to every cloud platform, and how quickly performance wins reach production — reclaiming capacity at a time when compute is our scarcest resource.</p>
+<h2>What You'll Do</h2>
 <ul>
-<li>Design, build, and own backend services and infrastructure that serve Claude across multiple CSPs, accounting for differences in compute hardware, networking, APIs, and operational models</li>
-<li>Work cross-functionally with internal inference, product API, systems, and security teams, among others, and with CSP partners to stand up the full serving stack on new cloud platforms, resolve operational issues, and influence provider roadmaps</li>
-<li>Build and evolve CI/CD automation systems, including validation and deployment pipelines, that reliably ship new model versions to millions of users across cloud platforms without regressions</li>
-<li>Design interfaces and tooling abstractions across CSPs that enable cost-effective inference management, scale across providers, and reduce per-platform complexity</li>
-<li>Contribute to capacity planning, autoscaling, and workload routing strategies that match supply with demand and direct requests to the most cost-effective accelerator and region</li>
+<li>Be on the critical path for frontier model launches, bringing up inference for new model architectures and shipping them to cloud platforms in lockstep with our first-party platform</li>
+<li>Work with the core inference team to bring new inference features (e.g. structured sampling, prompt caching, and more) to cloud platforms, owning the platform-specific integration that gets them to production</li>
+<li>Identify and dive deep on the gaps that make inference behave differently across first-party and CSPs — config drift, observability, deployment patterns, hard cross-platform bugs — and fix them at the source rather than building platform-specific workarounds</li>
+<li>Design, build, and own the CI/CD infrastructure for the inference server and load balancer across cloud platforms, with shadow traffic, performance baselines (throughput and latency), and correctness checks that catch regressions before production</li>
+<li>Drive down merge-to-production cycle time by making validation faster, more parallel, and cost-effective enough to run on the same constrained accelerator pool that serves customers, without trading away reliability&nbsp;</li>
 <li>Analyze observability data across providers to identify performance bottlenecks, cost anomalies, and regressions, and drive remediation based on real-world production workloads</li>
 </ul>
-<h2><strong>You May Be a Good Fit If You:</strong></h2>
+<h2>You May Be a Good Fit If You:</h2>
 <ul>
+<li>Have a strong interest in LLM serving; prior inference or ML experience is not required&nbsp;</li>
 <li>Have significant software engineering experience, with a strong background in high-performance, large-scale distributed systems serving millions of users</li>
+<li>Have a track record of building automation or test infrastructure that measurably improved release velocity or reliability</li>
 <li>Have experience building or operating services on at least one major cloud platform (AWS, GCP, or Azure), with exposure to Kubernetes, Infrastructure as Code, or container orchestration</li>
-<li>Are curious about LLM serving; prior inference or ML experience is not required</li>
 <li>Thrive in cross-functional collaboration with both internal teams and external partners</li>
 <li>Are a fast learner who can quickly ramp up on new technologies, hardware platforms, and provider ecosystems</li>
 <li>Are highly autonomous and take ownership of problems end-to-end, including work that falls outside your job description</li>
 </ul>
-<h2><strong>Strong Candidates May Also Have Experience With</strong></h2>
+<h2>Strong Candidates May Also Have Experience With:</h2>
 <ul>
-<li>Direct experience working with CSPs to scale infrastructure or products across multiple platforms, navigating differences in networking, security, privacy, billing, and managed service offerings</li>
-<li>Have experience working with external partners to align goals and deliver impact</li>
-<li>Hands-on experience with capacity management, cost optimization, or resource planning at scale across heterogeneous environments</li>
-<li>Solid understanding of multi-region deployments, geographic routing, and global traffic management</li>
+<li>LLM inference optimization, batching, and caching strategies</li>
+<li>Capacity-constrained scheduling or shared-resource test infrastructure</li>
+<li>Solid understanding of multi-region deployments, request routing, load balancing, global traffic management</li>
+<li>Working with CSP partner teams to scale infrastructure across multiple platforms, navigating differences in networking, security, privacy, and managed service</li>
 <li>Proficiency in Python or Rust</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
 <p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$320,000</span><span class="divider">&mdash;</span><span>$485,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
