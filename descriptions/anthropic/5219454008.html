@@ -1,34 +1,68 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
-<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the role</h2>
-<p>We're looking for network engineers who are also skilled software developers to help build and scale the networking infrastructure that powers Claude and our AI research. This is a hands-on role spanning everything from physical network builds to software-defined networking, from extending connectivity to new data center sites to building robust monitoring and automation systems.</p>
-<p>You'll be joining a small, growing team working on mission-critical infrastructure for one of the most consequential AI systems in the world. The role calls for genuine technical depth in networking and the flexibility to solve problems across the stack—from configuring routers to writing automation, from troubleshooting physical connectivity to designing scalable architectures.</p>
-<h2>Key responsibilities</h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading"><strong>About the role</strong></h2>
+<p>Anthropic is building Anternet — a private, global dark-fiber backbone connecting our data centers, cloud regions, and partners. We light our own glass: long-haul and metro DWDM over leased dark fiber and IRU pairs terminating on our own optical line systems and routers.</p>
+<p>We're looking for a Staff Fiber Network Engineer to own the physical layer of this network end-to-end. You'll be the person who decides where the fiber goes and then makes sure it actually shows up, splices clean, and tests to spec. This is equal parts route engineering, vendor management, and field-delivery program management — the connective tissue between "we need N×Tbps between these two metros" and "the span is lit and carrying traffic."</p>
+<p>This is a foundational role building Anternet's fiber program from the ground up. You'll define the inventory system, set acceptance standards, and establish the vendor bench yourself.</p>
+<p>You'll work closely with our optical/transport engineers (who design the line systems on top of your fiber), our backbone routing team, and our data center and capacity planning teams.</p>
+<h2 class="heading"><strong>Key responsibilities</strong></h2>
 <ul>
-<li>Design, deploy, and maintain high-performance networks across multiple data center sites, including managing physical infrastructure, routing protocols, and network security</li>
-<li>Write software to automate network provisioning, configuration management, and operational workflows</li>
-<li>Implement comprehensive monitoring, build debugging tools, investigate outages, and drive continuous reliability improvements</li>
-<li>Plan and execute network expansions to new sites and facilities, including working with vendors, managing physical builds, and migrating live traffic</li>
-<li>Partner with compute, storage, and ML infrastructure teams to optimize network performance for AI workloads and troubleshoot complex distributed systems issues</li>
-<li>Participate in on-call rotation and lead response to network-related incidents</li>
+<li>
+<p>Route engineering and design — Plan terrestrial fiber routes between Anternet PoPs and data centers. Evaluate diversity (SRLG, conduit, ROW, landing-station separation), latency, and OSNR/loss budgets. Produce route KMZs, splice diagrams, and as-built documentation</p>
+</li>
+<li>
+<p>Fiber acquisition — Source and qualify dark fiber, IRU, and wavelength options from carriers and infrastructure providers. Run RFPs, compare bids on cost, route quality, diversity, and MTTR, and drive contracts to signature alongside legal and procurement</p>
+</li>
+<li>
+<p>Vendor and delivery management — Own the build from PO to acceptance: track splicing, lateral construction, building entries, meet-me-room cross-connects, and CLS access. Hold vendors to schedule and SLA; serve as the escalation point when a span is late or fails OTDR</p>
+</li>
+<li>
+<p>Acceptance and characterization — Define and enforce fiber acceptance criteria (OTDR bi-directional, IL/ORL, CD/PMD where relevant). Review test results, reject substandard spans, and sign off on handover to the optical team</p>
+</li>
+<li>
+<p>Capacity and lifecycle management — Maintain the source-of-truth fiber inventory (strands, conduits, splice points, leases, IRU terms and renewals). Forecast fiber needs against our PoP and capacity roadmap. Monitor degradation and quality over time</p>
+</li>
+<li>
+<p>Operations — Partner with NOC and field-ops on fiber cuts, locates, and repairs. Drive root-cause analysis with vendors and feed lessons back into route-diversity decisions</p>
+</li>
 </ul>
-<h2>Minimum qualifications</h2>
+<h2 class="heading"><strong>Minimum qualifications</strong></h2>
 <ul>
-<li>Strong software development skills in Python, Go, or similar languages, with experience building network automation, tooling, or infrastructure software</li>
-<li>Deep understanding of networking fundamentals: TCP/IP, BGP, ISIS, OSPF, VLANs, VPCs, routing, switching, and network security</li>
-<li>Hands-on experience building and operating production networks end-to-end—from physical layer (cabling, optics, hardware) through software-defined networking</li>
-<li>Comfort working with Linux, command-line tools, and infrastructure-as-code approaches</li>
-<li>Track record of debugging complex distributed systems issues that span network, compute, and application layers</li>
-<li>Strong communication skills and ability to collaborate across teams</li>
+<li>
+<p>Experience in OSP/fiber planning or network delivery at a carrier, hyperscaler, dark-fiber provider, or large enterprise backbone</p>
+</li>
+<li>
+<p>Demonstrated experience taking long-haul or metro dark-fiber routes from design through acceptance — can read an OTDR trace and engage substantively with vendors on splice quality</p>
+</li>
+<li>
+<p>Solid working knowledge of the vendor landscape: who has conduit where, how IRU vs. lease vs. wavelength pricing behaves, and what's negotiable in an MSA</p>
+</li>
+<li>
+<p>Proficiency with GIS/KMZ tooling for route design and comfort maintaining structured inventory data</p>
+</li>
+<li>
+<p>Sufficient understanding of optical transport (DWDM, amplifier spacing, span loss, CD/PMD) to design fiber that line-system engineers can use</p>
+</li>
+<li>
+<p>Ability to serve as the single accountable owner for physical delivery across many concurrent builds</p>
+</li>
 </ul>
-<h2>Preferred qualifications</h2>
+<h2 class="heading"><strong>Preferred qualifications</strong></h2>
 <ul>
-<li>8+ years of experience in network engineering, with hands-on experience building and operating production networks</li>
-<li>Experience scaling networks in cloud environments (AWS, GCP, Azure) and/or on-premises data centers</li>
-<li>Background in DevOps/SRE practices including monitoring, observability, and reliability engineering</li>
-<li>Experience with Kubernetes networking, container orchestration, or service mesh technologies</li>
-<li>Familiarity with AI/ML infrastructure and the unique networking requirements of large-scale training clusters</li>
-<li>Prior experience in environments requiring broad technical ownership—startups, small ISPs, or similar contexts where wearing multiple hats was the norm</li>
-<li>Generalist background beyond networking (web applications, embedded systems, systems programming, etc.) that reflects comfort operating across the stack</li>
+<li>
+<p>8+ years of OSP/fiber planning or network delivery experience</p>
+</li>
+<li>
+<p>Experience standing up a fiber program from near-zero — building the inventory system, acceptance standards, and vendor bench from scratch</p>
+</li>
+<li>
+<p>Familiarity with permitting, ROW, and make-ready processes in US metro markets</p>
+</li>
+<li>
+<p>Scripting or light tooling experience (Python, Go, SQL, or similar) for inventory and reporting workflows</p>
+</li>
+<li>
+<p>Comfort with occasional travel for site surveys, CLS/ILA walks, and vendor meetings</p>
+</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
 <p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$320,000</span><span class="divider">&mdash;</span><span>$405,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
