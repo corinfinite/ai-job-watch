@@ -1,57 +1,62 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
-<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading"><strong>About the Role</strong></h2>
-<p>Security at Anthropic is not a compliance exercise. It is a core part of how we stay safe as we build increasingly capable systems. Our Responsible Scaling Policy commits us to launching structured security R&amp;D projects: ambitious, time-boxed experiments designed to resolve high-uncertainty questions about our long-term security posture.</p>
-<p>Each project runs for roughly 6 months with defined exit criteria. Some will succeed and move toward production. Others will fail, and we'll treat that as useful signals. The questions these projects are designed to answer include:</p>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the Role</h2>
+<p>Frontier AI is on track to be among the most consequential and most adversarially-targeted technology in the world. The capability curve is steep, the adversaries who want these systems are extremely well-resourced, and the security bar this will eventually require is well beyond where the industry operates today. Incremental hardening alone is not going to close that gap, so we need breakthroughs and a group of people to go find them.</p>
+<p>Security Labs is that team. We run a portfolio of high-risk, high-expected-value security projects: the work that seems impractical until someone optimistic and stubborn enough actually tries it. Projects run on the order of weeks rather than quarters, and each one is either handed off to the Anthropic team that will own it in production or wound down with a writeup of what we learned. We expect a meaningful fraction of our bets not to land.</p>
+<p>This is an experimental team and we expect a meaningful fraction of our bets not to land; the team itself is on a prove-out, engineers in this role need to be comfortable taking risks. If a 30% project success rate with that much ambiguity sounds uncomfortable or spending your time looking into uncharted and chaotic territory isn’t frightening and exciting, this probably isn't the right fit. There are other places in Anthropic Security doing important work with more structure, less risk, and more productive paths to positive outcomes.</p>
+<p>The questions we're trying to answer include:</p>
 <ul>
-<li><em>Can our core research workflows survive extreme isolation?</em></li>
-<li><em>Can we get cryptographic guarantees where we currently rely on trust?</em></li>
-<li><em>Can AI become our most effective security control?</em></li>
+<li>Can our core research workflows survive extreme isolation?</li>
+<li>Can we replace trust with cryptographic guarantees?</li>
+<li>Can the models themselves become our most effective security control?</li>
+<li>What would it actually take to defend against a tier-1 state adversary, and how much of that can we build now?</li>
 </ul>
-<p>As a Security Labs Engineer, you own one or more projects end-to-end: scoping the experiment, building the infrastructure, coordinating across teams, running the pilot, documenting results, and where the experiment succeeds, helping scale it into production. This is 0-to-1 and 1-to-10 work.</p>
-<h2 class="heading"><strong>Current Project Areas</strong></h2>
-<p>The portfolio evolves based on what we learn. Current areas include:</p>
+<p><strong>Who we're looking for. </strong>We're hiring generalists with rare depth. You're a strong software engineer as a baseline, and on top of that you've gone deep in at least one area most engineers don't get near: firmware or hardware security, applied cryptography, OS / kernel / hypervisor internals, formal methods, reverse engineering, or high-assurance and cross-domain systems. You've built things under your own direction, you're comfortable jumping layers when the problem demands it, and you'd rather take a swing at something that might not work than ship the safe incremental thing. You think the trajectory of AI matters a great deal, you're not comfortable with how the security side of it is going by default, and you'd rather be on the inside building the answer than watching from outside.</p>
+<h2>Current Project Areas</h2>
+<p>The portfolio changes as we learn. The kinds of bets currently in flight or queued:</p>
 <ul>
-<li>Designing and operating a mock high-assurance research environment: simulating what our infrastructure would look like under extreme isolation and physical security controls, with real measurement of productivity impact</li>
-<li>Exploring cryptographic verification of model integrity using techniques like zero-knowledge proofs to provide mathematical guarantees about what is running in production</li>
-<li>Assessing the feasibility of confidential computing across the full model lifecycle (note: this is an open question, not a committed roadmap item)</li>
-<li>Piloting AI-assisted security tooling including vulnerability discovery, automated patching, anomaly detection, and adaptive behavioral monitoring</li>
-<li>Prototyping API-only access regimes where even internal research workflows never touch raw model weights</li>
+<li>Standing up a prototype high-assurance research cluster: running real Anthropic training and research workloads under extreme isolation and physical security controls, and finding out exactly where productivity breaks and what we'd need to invent to get it back</li>
+<li>Provable inference: cryptographic verification (zero-knowledge proofs, attestation chains) that a given output came from a specific model running specific code, replacing "trust us" with math</li>
+<li>Swapping our container runtime for a hypervisor-isolated microVM substrate across the fleet, so a compromised host can't touch workload integrity</li>
+<li>Compiling an ML kernel through a formally verified pipeline where every lowering step carries a machine-checked proof of equivalence, making compilation-layer sabotage mathematically detectable</li>
+<li>Regenerating clusters: automation that spins up a purpose-built cell, runs a workload, and tears the whole thing down on a TTL measured in hours, so attacker persistence has an expiry date</li>
+<li>Using Claude itself to drive security work end to end: threat modeling new compute platforms, rewriting critical services to zero external dependencies, running the test equipment that validates what hardware datasheets claim</li>
 </ul>
-<p>Part of your job is helping shape what comes next based on gaps uncovered in the current round.</p>
-<h2 class="heading"><strong>What You'll Do:</strong></h2>
+<p>Part of your job is deciding what comes next. We hire people we trust to pick good bets, and project selection is owned by the engineers doing the work.</p>
+<h2>What You’ll Do</h2>
 <ul>
-<li>Own the end-to-end execution of a Security Labs project: refine the hypothesis, design the experiment, build the prototype, run the pilot, and write up the results</li>
-<li>Build novel security infrastructure under real time pressure: isolated clusters, hardened access controls, cryptographic verification layers, with a bias toward learning fast</li>
-<li>Where experiments succeed, drive them toward production scale. An experiment that works on one cluster but not a hundred is not a finished result.</li>
-<li>Work embedded with research teams (Pretraining, RL, Inference) to stress-test whether their core workflows can function under extreme security controls, and document precisely where they break</li>
-<li>Evaluate and integrate emerging security technologies through coordination with external vendors and research groups</li>
-<li>Turn experimental results into clear, decision-ready writeups that inform Anthropic's long-term security architecture and RSP commitments</li>
-<li>Maintain a pain-point registry and feasibility assessment for each project, feeding directly into the design of production high-assurance environments</li>
-<li>Help scope and prioritize the next wave of Labs projects based on what the current round uncovers</li>
+<li>Own Security Labs projects end to end. You'll scope the bet, build the prototype, run it against real workloads, and bring it to either a hand-off or a documented exit</li>
+<li>Stand up novel security infrastructure fast (isolated clusters, attestation chains, hypervisor and runtime work, verification tooling) optimizing for what we learn rather than for permanence</li>
+<li>Find the receiving team early, bring them along while you build, and hand them something they actually want to own</li>
+<li>Work embedded with research and infrastructure teams (Pretraining, RL, Inference, Compute) to test whether their workflows survive what you're proposing, and document precisely where they don't</li>
+<li>Turn experimental results into short writeups that shape Anthropic's long-term security architecture, and into costed contingency plans we could execute on short notice</li>
+<li>Help pick the next round of bets and influence the industry to get better along the way</li>
 </ul>
-<h2 class="heading"><strong>You May Be a Good Fit If You Have:</strong></h2>
+<h2>You May Be a Good Fit If You</h2>
 <ul>
-<li>7+ years of software or security engineering experience, with a solid foundation in production systems</li>
-<li>Some of that time spent on pilots, prototypes, or applied research work where shipping a working answer to a hard question was the explicit goal</li>
-<li>Strong programming skills in Python and at least one systems language (Go, Rust, or C/C++)</li>
-<li>Hands-on experience with cloud infrastructure (AWS, GCP, or Azure), Kubernetes, and networking fundamentals sufficient to stand up and tear down isolated environments quickly</li>
-<li>A track record of cross-functional execution: you can walk into a room with ML researchers, infrastructure engineers, and vendors and leave with a shared plan</li>
-<li>Clear written communication: you know how to turn six weeks of experimentation into a two-page memo someone can act on</li>
-<li>Comfort with ambiguity and iteration, having run experiments that failed, extracted the lesson, and moved forward</li>
-<li>Genuine curiosity about what it would actually take to defend against a nation-state-level adversary</li>
-<li>Passion for AI safety and a real understanding of the role security plays in making frontier AI development go well</li>
-<li>Bachelor's degree in Computer Science, a related field, or equivalent industry experience required.</li>
+<li>Genuinely care about where AI is heading and want to work on the security problems that determine whether it goes well. This is the most important thing on this list</li>
+<li>Have real depth in at least one area most software engineers don't touch (e.g. firmware or hardware security, applied cryptography, OS / kernel / hypervisor internals, formal methods and verification, reverse engineering and exploit development, or high-assurance / cross-domain systems)</li>
+<li>Have built and shipped things under your own direction. Maybe you founded a company or research group, maintained an open-source project other people depend on, or shipped research that changed how people in your field work. We weight this far more than where you've worked or for how long</li>
+<li>Have a track record of choosing the problem yourself and seeing it through, rather than only executing a plan someone else handed you</li>
+<li>Are comfortable jumping between domains and layers of the stack when the problem calls for it, and have actually done so</li>
+<li>Have run prototypes or experiments where the goal was answering a hard question rather than shipping a permanent system, including ones that didn't pan out</li>
+<li>Write clearly enough to turn weeks of work into a couple of pages someone can act on</li>
+<li>Change your mind when the evidence says to, and are fine being the least-expert person in a room full of specialists</li>
+<li>Care about defense. Plenty of folks here come from offense and that background is valuable, but what you actually want to spend your time on now is making systems hold up</li>
+<li>Are a strong programmer (Python plus at least one of Rust, Go, or C/C++) and can stand up real infrastructure without that being the interesting part of your week</li>
 </ul>
-<h2 class="heading"><strong>Strong Candidates May Also Have:</strong></h2>
+<h2>Strong Candidates May Also Have</h2>
 <ul>
-<li>Prior experience in offensive security, red teaming, or security research, having thought adversarially about systems and knowing which threats actually matter</li>
-<li>Familiarity with airgapped or high-side environments (classified networks, ICS/SCADA, financial trading infrastructure, or similar) and the operational realities of working inside them</li>
-<li>Knowledge of applied cryptography: zero-knowledge proofs, attestation protocols, secure enclaves, TPMs, or confidential computing primitives</li>
-<li>Experience with ML infrastructure (training pipelines, inference serving, model packaging) sufficient for grounded conversations with researchers about what their workflows actually need</li>
-<li>Background building or operating security systems in environments that demand rapid iteration rather than rigid change control</li>
-<li>Prior work at a startup, on an innovation team, or in an applied research group where shipping a working v0 to answer a real question was explicitly the goal</li>
+<li>Experience inside airgapped or high-side environments (classified networks, cross-domain solutions, ICS/SCADA, financial trading infrastructure) and the operational realities of working in them</li>
+<li>A background in offensive security, red teaming, or vulnerability research, with calibrated intuitions for which threats actually matter</li>
+<li>Familiarity with ML infrastructure (training pipelines, distributed schedulers, inference serving, accelerator hardware) sufficient for grounded conversations with researchers about what their workloads actually need</li>
+<li>A history of working in environments built around rapid iteration rather than rigid change control: startups, applied research groups, independent consulting, small security shops</li>
 </ul>
-<h2 class="heading"><strong>Location</strong></h2>
+<h2>What We Care Less About</h2>
+<ul>
+<li>Years of experience. We level on signal and on what you've built, not tenure.</li>
+<li>Whether you've built large-scale distributed systems or worked at a big company. If you learn fast and you've shipped real things, that's enough.</li>
+</ul>
+<h2>Location</h2>
 <p>This role is based in our San Francisco office (500 Howard St). Several Labs projects involve physical secure facilities on-site, so expect to be in-office more frequently than Anthropic's standard 25% hybrid baseline.</p>
 <h2 class="heading"><strong>We Encourage You to Apply</strong></h2>
 <p>Not all strong candidates will meet every qualification listed above. Research shows that people from underrepresented groups are more likely to talk themselves out of applying. If this work interests you and you have most of what we're looking for, we'd like to hear from you.</p>
