@@ -1,70 +1,47 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
 <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading">About the role</h2>
 <p>The Knowledge Work team builds the training environments and evaluations that make Claude effective at real-world professional workflows — searching, analyzing, and creating across the tools and documents knowledge workers use every day. As that work scales, the systems behind it need to be as rigorous as the research itself.</p>
-<p>We are looking for a Research Engineer to own the reliability, observability, and infrastructure foundation that the team's research depends on. You will be responsible for ensuring our training and evaluation runs remain stable, well-instrumented, and high-quality as they grow in scale and complexity.</p>
-<p>A core part of this role is shifting reliability work from reactive to proactive: hardening systems, stress-testing at realistic scale, and building the observability and tooling that surface problems early — so researchers can stay focused on research rather than incident response. You will be the team's stable, context-rich owner for environment health and evaluation integrity, and the primary point of contact for partner teams when issues arise.</p>
-<p><strong>Where this role focuses:</strong> While you'll work closely with researchers building new training environments, the priority for this role is the reliability those environments depend on. It's best suited to an engineer who finds real ownership and impact in making critical systems dependable, and in being the person behind trustworthy evaluation results the entire organization relies on.</p>
-<h2 class="heading">Key Responsibilities:</h2>
+<p>&nbsp;</p>
+<p>As a Research Engineer on Knowledge, you'll design and run experiments that improve how Claude searches, retrieves, and reasons over information at scale. The work spans environment design, data curation, RL training, evaluation, and the infrastructure that supports it all. You'll move fluidly between these depending on what's blocking progress. You'll partner closely with researchers and other RL teams to ship capabilities that show up directly in Claude's behavior.</p>
+<p>&nbsp;</p>
+<p>As our training and evaluations continue to scale, we see a strong synergy between the capabilities our models learn, the tools we build for them to use, and the tools we build for ourselves to understand it all. We own the science behind superhuman epistemics and we ensure the quality of the stack that drives it. We understand that real ownership and impact comes as much through hardening and iterating on environments as it does creating new ones.&nbsp;</p>
+<h2>Responsibilities</h2>
 <ul>
-<li>
-<p>Serve as the dedicated reliability owner for the Knowledge Work training environments, providing continuity of context and reducing the operational overhead of rotating ownership</p>
-</li>
-<li>
-<p>Own a clean, canonical set of evaluation tools and processes for Knowledge Work capabilities, including the process used for model releases</p>
-</li>
-<li>
-<p>Build and automate observability, dashboards, and operational tooling for our training environments and evaluation systems, with an emphasis on high signal-to-noise: a small set of trusted metrics and alerts rather than sprawling instrumentation</p>
-</li>
-<li>
-<p>Proactively harden environments and evaluation systems through load testing, fault injection, and stress testing at realistic scale, so failures surface early rather than during critical training work</p>
-</li>
-<li>
-<p>Act as the primary point of contact for partner training and infrastructure teams when issues in our environments arise, and drive incidents to resolution</p>
-</li>
-<li>
-<p>Reduce the operational burden on researchers so they can stay focused on research</p>
-</li>
+<li>Design, build, and iterate on training environments and data pipelines that improve Claude's ability to reason over knowledge-intensive tasks</li>
+<li>Run experiments end-to-end: form a hypothesis, build the infrastructure, train models, analyze results, and decide what to try next</li>
+<li>Develop evaluations that meaningfully capture progress on search, retrieval, and reasoning quality</li>
+<li>Identify failure modes in current model behavior and translate them into concrete training signals</li>
+<li>Collaborate closely with researchers across RL Data, post-training, and product teams to align on priorities and ship improvements</li>
+<li>Contribute to shared infrastructure and tooling that compounds the team's velocity over time</li>
+<li>Own a clean, canonical set of evaluation tools and processes for Knowledge Work capabilities, including the process used for model releases</li>
+<li>Build and automate observability, dashboards, and operational tooling for our training environments and evaluation systems, with an emphasis on high signal-to-noise: a small set of trusted metrics and alerts rather than sprawling instrumentation</li>
 </ul>
-<h2 class="heading">Minimum Qualifications:</h2>
+<h2>You may be a good fit if you</h2>
 <ul>
-<li>
-<p>Highly experienced Python engineer who ships reliable, well-instrumented code that teammates trust in production</p>
-</li>
-<li>
-<p>Demonstrated experience operating ML or distributed systems at scale, including significant on-call and incident-response experience</p>
-</li>
-<li>
-<p>Strong SRE or production-engineering mindset — reaching for SLOs, load tests, and failure injection before reaching for more dashboards</p>
-</li>
-<li>
-<p>Foundational ML knowledge sufficient to understand what a training environment or evaluation is actually measuring, and recognize when an evaluation has become stale or gameable</p>
-</li>
-<li>Able to read research code and reason evaluation integrity</li>
+<li>Are a highly experienced Python engineer who ships reliable, well-instrumented code that teammates trust in production</li>
+<li>Experience designing, running, and analyzing ML experiments</li>
+<li>Ability to work across the stack — from data pipelines to model training to evaluation</li>
+<li>Have 5+ years of experience operating ML or distributed systems at scale</li>
+<li>Comfort working with ambiguity and choosing the most impactful problem to tackle next</li>
+<li>Clear written and verbal communication, especially when collaborating across time zones</li>
+<li>Find genuine satisfaction and impact in making existing critical systems dependable</li>
 </ul>
-<h2 class="heading">Preferred Qualifications:</h2>
+<h2><strong>Preferred qualifications</strong></h2>
 <ul>
-<li>5+ years of experience operating ML or distributed systems at scale</li>
-<li>
-<p>Experience building or operating RL environments, agent harnesses, or LLM evaluation frameworks</p>
-</li>
-<li>
-<p>Familiarity with reward modeling, evaluation design, or detecting and mitigating reward hacking</p>
-</li>
-<li>
-<p>Experience with bservability stacks (metrics, tracing, structured logging) and operational dashboard tooling</p>
-</li>
-<li>
-<p>Background in chaos engineering, fault injection, or large-scale load testing</p>
-</li>
-<li>
-<p>Experience with data quality pipelines, drift detection, or evaluation-set curation and versioning</p>
-</li>
-<li>
-<p>Familiarity with large-scale training or inference infrastructure (schedulers, multi-agent orchestration, sandboxed execution)</p>
-</li>
-<li>
-<p>Prior experience as a dedicated reliability or operations owner embedded within a research team</p>
-</li>
+<li>Hands-on experience training, fine-tuning, or doing RL on large language models</li>
+<li>Experience building evaluations for LLMs, particularly in open-ended or knowledge-intensive domains</li>
+<li>Prior work in a research-heavy environment such as a frontier AI lab, quant research firm, or domain-focused AI startup</li>
+<li>Published research on LLMs, RL, retrieval, or related areas</li>
+<li>Experience with distributed training systems</li>
+<li>Are comfortable being the long-term, context-rich owner of a system and its operational health</li>
+</ul>
+<h2><strong>Representative projects</strong></h2>
+<ul>
+<li>Building a training environment that teaches Claude to plan and execute multi-step research tasks against real document corpora</li>
+<li>Designing an evaluation suite that distinguishes genuine reasoning over evidence from plausible-sounding pattern matching</li>
+<li>Scaling long-running evals and fickle training environments that use many different tools</li>
+<li>Curating and validating a high-quality dataset of expert research workflows for use in post-training</li>
+<li>Diagnosing why Claude fails on a class of long-horizon retrieval tasks and proposing a training intervention, tool, or infrastructure change to fix it</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
 <p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$350,000</span><span class="divider">&mdash;</span><span>$850,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
