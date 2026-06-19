@@ -1,57 +1,98 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
 <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading">About the role</h2>
-<p>As a Mid-Market Account Executive on Anthropic's High Tech team, you'll drive the adoption of safe, frontier AI by securing strategic deals with tech-forward mid-market companies, unlocking new value streams throughout their business. The role sits at the intersection of consultative selling and technical fluency, helping customers empower their workforce, accelerate processes, and build products with Claude. In collaboration with GTM, Product, Engineering, and cross-functional teams, you'll continuously refine our value proposition, sales methodology, and market positioning to ensure differentiated value across the ecosystem.</p>
-<p>You will be contributing to the GTM strategy for our High Tech team, focusing on sector-specific solutions and strategies within key verticals. In addition, the Mid-Market team is pioneering a new scaled sales playbook, where human AEs direct AI Agents to automate key elements of the buyer’s journey, while maintaining human engagement with prospects in the elements of a sales process that can’t be automated.</p>
-<h2 class="heading">Responsibilities:</h2>
+<p>Every engineer at Anthropic depends on the path from pull request to production. The Developer Productivity team owns that path end to end — review automation, CI, the merge queue, the deploy pipeline, and the policy that gates each step. These pieces exist today; the opportunity is to integrate them into a single fast, predictable system that scales with the volume of code shipping into Claude and our research infrastructure.</p>
+<p>&nbsp;</p>
+<p>In this role, you'll be responsible for making "time from push to healthy in production" a metric the whole company can rely on. You'll shape the CI and repository topology that best serves our velocity, build AI-assisted review that keeps confidence high as PR volume grows, and partner closely with platform, security, and delivery infrastructure teams on the substrate underneath. This is a tech-lead-scope IC role with broad cross-team influence — you'll represent Developer Productivity in org-wide pipeline decisions and help other teams adopt the standards you set.</p>
+<p>&nbsp;</p>
+<p>We use Claude heavily in our own development workflows, and this team is at the center of that: agentic coding is both how we work and part of what you'll be building.</p>
+<h2 class="heading">Key responsibilities</h2>
 <ul>
 <li>
-<p>Run an end-to-end sales cycle, from first outbound to launch</p>
+<p>Own the build, test, merge, and deploy pipeline end to end — what runs on each PR, what auto-approves, what gates merge, and how a change progresses to running healthy in production</p>
 </li>
 <li>
-<p>Win new business and expand existing accounts</p>
+<p>Drive down and defend "time from push to healthy in prod" as a core engineering metric</p>
 </li>
 <li>
-<p>Build and execute sales strategies that drive quota attainment. Identify market opportunities, generate pipeline, and drive revenue</p>
+<p>Design and tune AI-assisted code review so confidence-to-land scales with PR volume</p>
 </li>
 <li>
-<p>Become a trusted advisor to customers, understanding their unique needs and crafting tailored AI solutions</p>
+<p>Build the deploy and release path — canary, progressive rollout, health checks, automated rollback — in partnership with the platform teams who own the underlying substrate</p>
 </li>
 <li>
-<p>Leverage your technical aptitude to earn credibility with engineers, product leaders, and executives</p>
+<p>Improve test reliability by quarantining, root-causing, and retiring intermittent failures</p>
 </li>
 <li>
-<p>Shape product roadmaps by gathering customer feedback and translating market needs into actionable insights for Product and Engineering teams</p>
+<p>Shape CI and repository topology (build graph, test targeting, scope boundaries) to match how the company actually ships</p>
 </li>
 <li>
-<p>Contribute to the Mid-Market GTM strategy by sharing learnings, refining playbooks, and identifying process improvements that make the team more effective</p>
+<p>Partner with platform, delivery infrastructure, and security teams, and represent Developer Productivity in cross-org pipeline decisions</p>
+</li>
+<li>
+<p>Design processes (postmortem review, incident response, on-call) that help the team operate reliably and never fail the same way twice</p>
 </li>
 </ul>
-<h2 class="heading">You may be a good fit if you have:</h2>
+<h2 class="heading">Minimum qualifications</h2>
 <ul>
 <li>
-<p>4+ years of enterprise sales experience driving adoption of emerging technologies with a consultative, solutions-oriented sales approach</p>
+<p>Significant backend or developer-infrastructure engineering experience, with hands-on responsibility for a high-leverage CI/CD, merge queue, or land pipeline at scale</p>
 </li>
 <li>
-<p>Proven experience exceeding revenue targets in fast-paced organizations by effectively managing an evolving pipeline and sales process</p>
+<p>Proficiency in Python and at least one statically-typed systems language (e.g., Go or Rust)</p>
 </li>
 <li>
-<p>Demonstrated ability to navigate dynamic stakeholder ecosystems, building consensus and providing innovative solutions to disparate groups</p>
+<p>Experience operating CI/CD or release systems through production incidents, including writing postmortems and driving remediations</p>
 </li>
 <li>
-<p>Extensive experience negotiating highly complex, customized commercial agreements with multiple stakeholders</p>
+<p>Demonstrated ability to work across team boundaries — building consensus with platform, security, and product engineering stakeholders</p>
 </li>
 <li>
-<p>Excellent communication skills with the ability to build trust and credibility with C-level executives</p>
+<p>Comfort using AI coding tools as a daily part of your workflow, with informed opinions on where they provide leverage</p>
+</li>
+</ul>
+<h2 class="heading">Preferred qualifications</h2>
+<ul>
+<li>
+<p>7+ years of backend or developer-infrastructure experience</p>
 </li>
 <li>
-<p>Experience automating workflows or building automations to handle the repeatable components of a sales process</p>
+<p>Experience with Bazel or similar build-graph / test-targeting systems at monorepo scale</p>
 </li>
 <li>
-<p>A passion for and/or experience with advanced AI systems. You feel strongly about ensuring frontier AI systems are developed safely</p>
+<p>Experience with progressive delivery or release engineering at scale (canary analysis, automated rollback, health-gated promotion)</p>
 </li>
-<li><strong>Location:&nbsp;</strong>This role does require being in office 4x a week in one of our hubs</li>
+<li>
+<p>A track record of leading — or making the well-reasoned case against — a repo split, monorepo extraction, or comparable scope-boundary migration</p>
+</li>
+<li>
+<p>A history of authoring engineering policy or paved-path tooling that other teams adopted voluntarily</p>
+</li>
+<li>
+<p>Familiarity with Kubernetes, Buildkite, GitHub Actions, or comparable CI/deploy substrates</p>
+</li>
+<li>
+<p>Interest in the safe and beneficial development of AI</p>
+</li>
+</ul>
+<h2 class="heading">Representative projects</h2>
+<ul>
+<li>
+<p>Reducing p50 merge-to-production time by re-architecting the merge queue and test selection strategy</p>
+</li>
+<li>
+<p>Building an AI-assisted review layer that auto-approves low-risk changes and routes high-risk ones to the right reviewers</p>
+</li>
+<li>
+<p>Designing a flaky-test quarantine and burndown system that returned CI signal to &gt;99% reliability</p>
+</li>
+<li>
+<p>Standing up canary and progressive rollout for a service fleet, with automated rollback on health regression</p>
+</li>
+<li>
+<p>Authoring the RFC and migration plan for a build-graph or repository topology change adopted across multiple teams</p>
+</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
-<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$290,000</span><span class="divider">&mdash;</span><span>$380,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$405,000</span><span class="divider">&mdash;</span><span>$485,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
 <p><strong>Minimum years of experience: </strong>Years of experience required will correlate with the internal job level requirements for the position</p>

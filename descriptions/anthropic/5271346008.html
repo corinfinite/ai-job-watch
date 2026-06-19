@@ -1,40 +1,44 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
-<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div>
-<h2>About the role</h2>
-</div>
-<div>
-<p>As a Federal Partners Account Executive at Anthropic, you'll drive revenue by selling our safe, frontier AI solutions directly to Systems Integrators (SI) and Independent Software Vendors (ISV) in the public sector space. You'll focus on selling directly to partners to ensure Anthropic's AI capabilities are delivered within their own solutions and service offerings. Working closely with GTM, product, and marketing teams, you'll help these partners understand and implement our technology while driving significant revenue growth.</p>
-<br>
-<h2><strong>Responsibilities</strong></h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading">About the role</h2>
+<p>Anthropic is standing up a founding team to own the OpenBMC-based management firmware running across its server fleet. You would be one of the first engineers on it. That means production firmware and manageability features (board bring-up through production) on one side, and hardening that firmware against sophisticated adversaries on the other.</p>
+<p>Security is a first-class constraint in everything you ship: you'll write firmware to a high security bar and partner closely with our firmware security and hardware engineers on secure boot, signing, and attestation.</p>
+<h2><strong>What You'll Do</strong></h2>
+<p>Production and manageability:</p>
 <ul>
-<li>Win new business and drive revenue for Anthropic by directly <em>selling to</em> Systems Integrators and ISVs in the public sector space, owning the full sales cycle from prospecting through close</li>
-<li>Identify net-new revenue by selling to SIs with prime contracts, helping them integrate AI into their technology stack and consulting practices to differentiate their offerings, accelerate delivery, and win more competitive bids</li>
-<li>Navigate complex technical sales conversations with partners' engineering and product teams</li>
-<li>Work with partners' technical teams to ensure successful implementation, adoption and deployment of Anthropic's AI capabilities into their solutions</li>
-<li>Coordinate with cloud providers (AWS, GCP) to align technical and commercial aspects of deals</li>
-<li>Build deep relationships with key decision makers within partner organizations</li>
-<li>Provide market intelligence and partner feedback to product teams to influence our roadmap and feature development</li>
-<li>Create and maintain sales playbooks specific to SI and ISV sales motions</li>
-<li>Track and forecast sales pipeline specific to the partner segment</li>
+<li>Design, build, and ship OpenBMC firmware and manageability features for x86 and Arm (including GPU) platforms, from bring-up through production, using Yocto/OpenEmbedded</li>
+<li>Build the management stack on DMTF/OCP standards (MCTP, PLDM, SPDM, Redfish, RDE) and IPMI/KCS: sensors, telemetry, inventory, logging, RAS</li>
+<li>Implement BMC-to-BIOS/host communications, eSPI/LPC, thermal/fan/power management (PMBus)</li>
+<li>Work the hardware/firmware boundary: I2C/I3C, SPI, PCIe, SMBus, device trees, U-Boot, Linux</li>
 </ul>
-<h2><strong>You may be a good fit if you have</strong></h2>
+<p>Security and hardening:</p>
 <ul>
-<li>7+ years of enterprise sales experience selling directly to Systems Integrators and ISVs</li>
-<li>Security clearances preferred</li>
-<li>Strong track record of closing complex technical sales to partner organizations</li>
-<li>Deep understanding of SI and ISV business models, buying processes, and technology evaluation criteria</li>
-<li>Experience navigating technical requirements and security standards specific to public sector implementations</li>
-<li>Proven ability to exceed revenue targets in partner-focused sales roles</li>
-<li>Strong technical acumen and ability to engage with partners' engineering teams</li>
-<li>Experience coordinating with cloud providers in complex deal scenarios</li>
-<li>Excellent communication skills and ability to present to both technical and business audiences</li>
-<li>Strategic thinking combined with hands-on sales execution capabilities</li>
-<li>Understanding of public sector procurement processes and how partners operate within them</li>
-<li>A passion for safe and ethical AI development, with the ability to articulate its technical value to partner organizations</li>
+<li>Own the BMC security posture: secure and measured boot, root of trust, attestation (SPDM), authenticated update (PLDM FW Update), rollback protection, attack-surface reduction</li>
+<li>Lead threat modeling and secure design reviews; run coordinated vulnerability disclosure with vendors and the upstream community</li>
+<li>Build verification tooling: static analysis, fuzzing, firmware extraction, CI gating</li>
 </ul>
-</div>
-<p><strong>Deadline to apply:&nbsp;</strong>None. Applications will be reviewed on a rolling basis.&nbsp;</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
-<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$380,000</span><span class="divider">&mdash;</span><span>$450,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<h2 class="heading"><strong>Who You Are&nbsp;</strong></h2>
+<ul>
+<li>8+ years of experience in systems security, with at least 5 years focused on firmware and hardware security (firmware, bootloaders, and OS-level security)</li>
+<li>Strong technical cross-functional leadership skills, direction setting</li>
+<li>Hands-on OpenBMC/BMC firmware experience on x86 and/or Arm, from bring-up through production with hands-on D-Bus/sdbusplus</li>
+<li>Strong C/C++ and Python, deep Linux user-space/kernel fundamentals, and Yocto/OpenEmbedded proficiency</li>
+<li>A security mindset applied to firmware, not bolted on afterward</li>
+<li>Upstream contributions to OpenBMC, U-Boot, DMTF, or OCP</li>
+<li>Working knowledge of out-of-band and in-band management, the relevant DMTF specs, and the device interfaces they run over</li>
+<li>Strong debugging and a track record of shipping reliable, well-tested code.</li>
+<li>Clear communication across internal teams and external vendors</li>
+<li>Ability to work effectively across hardware and software boundaries</li>
+<li>Knowledge of NIST firmware security guidelines and hardware security frameworks, specifically SP 800-193 and 800-147/155</li>
+</ul>
+<h2 class="heading"><strong>Strong candidates may also have</strong></h2>
+<ul>
+<li>Hardware roots of trust and attestation: Caliptra, OCP S.A.F.E., TPM/HRoT, SPDM</li>
+<li>Memory-safe systems code in Rust or Zig</li>
+<li>Firmware vulnerability research, reverse-engineering, or fuzzing</li>
+<li>Previous work with AI/ML infrastructure security</li>
+</ul>
+<p>Deadline to apply: None. Applications will be received on a rolling basis.</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$405,000</span><span class="divider">&mdash;</span><span>$405,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
 <p><strong>Minimum years of experience: </strong>Years of experience required will correlate with the internal job level requirements for the position</p>
