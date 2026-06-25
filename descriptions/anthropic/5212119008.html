@@ -1,37 +1,42 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
-<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class="heading">About the role</h2>
-<p>Anthropic is compute-constrained, and how we allocate that compute is one of the highest-leverage decisions we make as a company. Today, those allocation choices are only loosely tied to the user outcomes we ultimately care about — retention, lifetime value, and the experience of people relying on Claude. You will change that.</p>
-<p>As a hands-on technical IC on the Supply pillar of our Data Science &amp; Analytics team, you'll sit alongside the infrastructure engineers who run our compute and help decide how our scarcest resource gets used. You'll design and run the analyses, observational and synthetic experiments, and optimization frameworks that turn opaque supply decisions into shared, measurable understanding across the company. Your work will directly shape how frontier AI reaches the world at scale, and your findings will go in front of senior leadership, including our CTO and his staff.</p>
-<p>This role is a fit for someone who thinks natively in terms of constrained allocation and queueing, who enjoys getting close to the system rather than analyzing it from a distance, and who wants their analyses to translate into operational changes that ship.</p>
-<h2 class="heading">Responsibilities:</h2>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About Anthropic</strong></h2>
+<p>Anthropic is an AI safety and research company. We build reliable, interpretable, and steerable AI systems, and we believe AI will have a vast impact on the world — our goal is to ensure that impact is positive.</p>
+<h2><strong>About the role</strong></h2>
+<p>Anthropic is compute-constrained, and how we allocate that compute is one of the highest-leverage decisions we make as a company. Today, allocation choices are only loosely tied to the user outcomes we ultimately care about — retention, lifetime value, and the experience of people relying on Claude. This role exists to change that by addressing two intertwined problems at the heart of how we allocate compute.</p>
+<p>The first is an allocation problem: matching a volatile, heterogeneous stream of demand to a finite, heterogeneous fleet of chips. Which models run on which hardware, in which regions, under what serving configurations — with demand shifting and capacity bounded — is a problem the team navigates continuously today, with more intuition than rigor. You will bring structure to it: building the metrics and analytical frameworks that make the trade-offs legible, and partnering with the infrastructure teams that own these systems to turn that understanding into better decisions.</p>
+<p>The second is a causal-inference problem: there are many levers — rate limits, pricing, cache behavior, capacity shifts, routing changes — and only a partial picture of what pulling each one actually does to the users on the other end. You will build the causal understanding that closes that gap, choosing whatever approach the question calls for, so allocation decisions are made on expected user impact rather than intuition.</p>
+<p>This role is a fit for someone who thinks natively in terms of constrained allocation and queueing, who treats "what would happen if we changed X" as an identification problem rather than a dashboard query, and who wants their work to translate into operational and productionized change. You will work closely with the infrastructure engineers who run our compute, and your findings will be presented to senior leadership.</p>
+<h2><strong>Key responsibilities</strong></h2>
 <ul>
 <li>Build and run testing frameworks — observational and synthetic — to quantify how different inputs affect compute allocation outcomes</li>
-<li>Connect compute allocation decisions to downstream user outcomes (retention, LTV, revenue) so we stop optimizing in a vacuum</li>
-<li>Partner closely with infrastructure engineers, product, and research to instrument the system, measure what matters, and ship operational changes</li>
+<li>Connect compute allocation decisions to downstream user outcomes (retention, lifetime value, revenue)</li>
+<li>Partner closely with infrastructure engineers, product, and research to instrument systems, measure what matters, and ship operational changes</li>
 <li>Develop the metric hierarchies, dashboards, and reporting that turn supply decisions into shared understanding across the company</li>
-<li>Contribute analyses and recommendations to executive forums, and co-author the supply narrative the team takes to the CTO and his staff</li>
-<li>Measure and improve how AI affects developer productivity inside Anthropic</li>
+<li>Contribute analyses and recommendations to executive forums, and co-author the supply narrative shared with the CTO and staff</li>
 </ul>
-<h2 class="heading">You may be a good fit if you have:</h2>
+<h2><strong>Minimum qualifications</strong></h2>
 <ul>
-<li>Strong technical IC background in data science, analytics, or operations research</li>
-<li>Operations research foundation — you think natively in terms of optimization, constrained allocation, and queueing</li>
+<li>Strong technical individual-contributor background in data science, analytics, or operations research</li>
+<li>Demonstrated comfort reasoning about resource allocation and trade-offs under constraints — drawn to systems problems, not just dashboards</li>
+<li>Working fluency with causal inference — able to recognize when an effect needs to be identified, not just measured, and to choose an appropriate design</li>
 <li>Deep proficiency with Python, SQL, and data visualization tools</li>
 <li>Track record of owning analyses end-to-end and communicating results clearly to engineering and product leadership</li>
 <li>Direct experience working closely with engineering teams on production systems</li>
-<li>A passion for Anthropic's mission of building helpful, honest, and harmless AI</li>
+<li>Alignment with Anthropic's mission of building helpful, honest, and harmless AI</li>
 </ul>
-<h2 data-pm-slice="1 1 [&quot;checkbox_list&quot;,{&quot;id&quot;:&quot;c7be552b-dd46-4315-9ae8-18f6a7fd1cdb&quot;},&quot;checkbox_item&quot;,{&quot;checked&quot;:true},&quot;bullet_list&quot;,{},&quot;list_item&quot;,{}]"><strong>Strong candidates may have:</strong></h2>
+<h2><strong>Preferred qualifications</strong></h2>
 <ul>
-<li>6+ years of technical IC experience in data science, analytics, or operations research; 8+ years for candidates targeting a Staff-level scope</li>
+<li>Significant technical individual-contributor experience in data science, analytics, or operations research at staff level scope&nbsp;</li>
 <li>Experience with highly complex systems with many interacting components (ad networks, payment processing, marketplace matching, routing, etc.)</li>
-<li>Experience with causal inference methods applied to operational decisions (synthetic controls, geo-experiments, switchbacks)</li>
+<li>Hands-on operations-research depth: experience formulating and shipping real-time constrained-allocation, routing, or scheduling problems in production (LP/MILP, queueing, or RL-based control), with the ability to defend modeling choices</li>
+<li>Causal-inference depth beyond off-the-shelf quasi-experimental templates — particularly methods for recovering long-term impact from short-horizon data: surrogate/proxy-outcome models, off-policy evaluation and counterfactual policy learning, or structural approaches, built rather than merely run</li>
 <li>Experience contributing to or designing experimentation platforms, not just using them</li>
 <li>Exposure to AI/ML products, large language models, or large-scale inference systems</li>
-<li>Track record of setting technical direction across multiple workstreams or mentoring senior ICs without formal management responsibility</li>
+<li>Track record of setting technical direction across multiple workstreams or mentoring senior individual contributors without formal management responsibility</li>
 </ul>
-<p><strong>Deadline to apply:</strong> None. Applications are accepted on a rolling basis.</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
-<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$275,000</span><span class="divider">&mdash;</span><span>$370,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<h2><strong>Equal Opportunity</strong></h2>
+<p>Anthropic is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other characteristic protected by applicable law. We will also consider qualified applicants with criminal histories in accordance with applicable law (e.g., the San Francisco Fair Chance Ordinance, where applicable).</p><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$285,000</span><span class="divider">&mdash;</span><span>$460,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
 <p><strong>Minimum years of experience: </strong>Years of experience required will correlate with the internal job level requirements for the position</p>
