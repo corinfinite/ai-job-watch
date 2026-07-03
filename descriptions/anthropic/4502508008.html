@@ -3,43 +3,44 @@
 <h2>About the role:</h2>
 </div>
 <div>
-<p>The Application Security team is at the forefront of building security into every phase of the software development lifecycle at Anthropic. In this hands-on technical role, you will partner closely with our software engineers and researchers to ensure that security is a core consideration from initial design through implementation. You will lead threat modeling and secure design reviews to proactively identify and mitigate risks early, and help with continuous risk assessment. You will build tools and systems to support developers shipping code securely, adhering to secure coding best practices.</p>
-Your insights will shape our tooling, detection capabilities, and defenses against emerging threats to AI/ML. You'll develop the standards, processes, and educational resources that enable all Anthropic engineers to be security champions. This high-impact role demands a security practitioner who can think like an attacker, has a developer mindset, and can build strong relationships.</div>
-<h2>Responsibilities:</h2>
+<p>Anthropic's Application Security team secures the systems that build, serve, and increasingly <em>are</em> Claude. The attack surface is unlike most AppSec work: multi-agent orchestration, sandboxed code execution, agents holding delegated credentials, untrusted tool output crossing trust boundaries — problems with little prior art and no off-the-shelf playbook.</p>
+<p>The way the team works is also different. We use Claude as our primary tool across every part of the job: it drives our static analysis, drafts and fixes vulnerabilities as pull requests, performs first-line bug bounty triage, and assists threat modeling for design reviews. The human work is the judgment layer — system-level reasoning, deciding what matters, and building the next thing the model can't do yet.</p>
+<p>This is a builder's role on a senior team. We hire engineers who ship production systems <em>and</em> clear a hands-on threat-modeling bar — people who can find the vulnerability but would rather build the system that finds them all. Every engineer owns a system end-to-end, and the team's work has shaped customer-facing product security — including Claude Code's security review tooling, its security guidance plugin, sandboxing, and auto mode.</p>
+<h2>Key responsibilities:</h2>
 <ul>
-<li>Help secure AI products and internal tools that are introducing industry-novel security risks and pushing established security boundaries</li>
-<li>Lead “shift left” security efforts to build security into the software development lifecycle.</li>
-<li>Conduct secure design reviews and threat modeling. Identify and prioritize risks, attack surfaces, and vulnerabilities.</li>
-<li>Develop tooling to scale security code reviews and respond to developer questions, including advising developers on remediating vulnerabilities and following secure coding practices.&nbsp;</li>
-<li>Manage Anthropic's vulnerability management program, including integrating data ingestion pipelines, coding logic to prioritize vulnerability fixes, supporting teams remediating vulnerabilities and developing automated systems at scale.</li>
-<li>Oversee Anthropic's bug bounty program. Set scope, validate submissions, perform root cause analysis, coordinate remediation with engineering teams, and award bounties. Cultivate relationships with the ethical hacker community.</li>
-<li>Collaborate closely with product engineers and researchers to instill security best practices. Advocate for secure architecture, design, and development.</li>
-<li>Develop and document security policies, standards, and playbooks. Conduct security awareness training for engineers.</li>
+<li>Design, build, and operate Claude-powered security systems — LLM-driven code analysis, automated vulnerability remediation, AI-assisted threat modeling — and own one or more of them end-to-end, including the cross-functional relationships that come with it</li>
+<li>Lead secure design reviews and threat modeling for novel AI systems, identifying risks that don't map to existing frameworks</li>
+<li>Evolve a public bug bounty program where automation handles routine triage and root-cause work, and engineers handle escalations and corner cases</li>
+<li>Partner with Product, Infrastructure, and Research teams as an embedded security owner — consulting on launches, shaping architecture, and influencing decisions where security is the constraint</li>
+<li>Share an operational on-run rotation with the rest of the team — bounty escalations, incident response, and launch consults on systems serving Claude in production</li>
 </ul>
-<h2>You may be a good fit if you:</h2>
+<h2>Minimum qualifications:</h2>
 <ul>
-<li>Have 7+ years of hands-on experience in application and infrastructure security, including securing cloud-based and containerized environments.</li>
-<li>Strong proficiency in at least one programming language (e.g., Python, Rust, Go, Java)</li>
-<li>Lead with empathy, a collaborative spirit, and a learning mindset to work cross-functionally with engineers of all levels to build security into the software development life cycle.</li>
-<li>Leverage creative and strategic thinking to reduce risk through secure design and simplicity, not just controls.</li>
-<li>Possess broad security knowledge to connect the dots across domains and identify holistic ways to decrease the overall threat surface.</li>
-<li>Are keen to distill complex security concepts into clear actions and drive consensus without direct authority.</li>
-<li>Embody a proactive mindset to thread security throughout the product lifecycle through activities like threat modeling, secure code review, and education.</li>
-<li>Have a strong grasp of offensive security to anticipate risks from an adversary's perspective, not just check compliance boxes.</li>
-<li>Bring experience with modern application stacks, infrastructure, and security tools to implement pragmatic defenses.</li>
-<li>Are practiced at collaborating cross-functionally and effectively balancing security requirements with business objectives.</li>
-<li>Advocate for security fundamentals like least privilege, defense-in-depth, and eliminating complexity that could sub-linearly scale security through smart design.</li>
+<li>Hands-on application and infrastructure security experience, including cloud and containerized environments</li>
+<li>Production-quality coding ability in at least one of Python, Go, Rust, or TypeScript, with a track record of building durable systems rather than one-off scripts</li>
+<li>Practical threat-modeling and vulnerability-identification skills — you've found and reasoned about real bugs in real systems, even if breaking isn't your primary mode</li>
+<li>Demonstrated ability to operate with high autonomy and ambiguity — comfortable being handed a problem and a lot of latitude rather than a spec</li>
+<li>Clear technical communication with both engineers and leadership</li>
 </ul>
-<h2>Strong candidates may also:</h2>
+<h2>Preferred qualifications:</h2>
 <ul>
-<li>Hands-on technical expertise securing complex cloud environments and microservices architectures leveraging technologies like Kubernetes, Docker, and AWS / GCP.</li>
-<li>Exposure to offensive security techniques like vulnerability testing, bug bounty, pen testing, and red team exercises.&nbsp;</li>
-<li>Familiarity with AI/ML security risks such as prompt injection, data poisoning, model extraction, etc. and mitigations.</li>
-<li>Experience building security tools, applications, and automated tools.</li>
-<li>Solid foundational knowledge of both software and security engineering principles and are keen to continue learning.</li>
-<li>Excellent communication skills, able to distill complex security topics for broad audiences.</li>
-<li>Worked and thrived in fast-paced environments, and comfortable navigating ambiguity.</li>
-</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
+<li>7+ years in application security, security engineering, or security-focused software engineering</li>
+<li>Already use LLMs as a core part of how you work, with opinions about where they help and where they don't</li>
+<li>Experience securing agentic, code-execution, or LLM-integrated systems specifically</li>
+<li>Prior ownership of a bug bounty program, vulnerability disclosure program, or vulnerability-management infrastructure at scale</li>
+<li>Background building security automation or developer-facing security tooling</li>
+<li>Offensive security or penetration testing experience</li>
+</ul>
+<h2>Representative projects</h2>
+<ul>
+<li>An increasingly autonomous vulnerability pipeline — LLM-driven code analysis finds the issue, scores it for real exploitability, and opens the fix PR, with humans as the review step rather than the author</li>
+<li>Bug bounty operations where Claude handles first-line triage and drafting, and engineers focus on the reports that actually need judgment</li>
+<li>AI-assisted threat modeling that generates intake questions, drafts the model, and recommends which design reviews need a human in the room</li>
+<li>Automated dependency vulnerability remediation across Anthropic's codebase</li>
+<li>The company-wide vulnerability dashboard and SLA enforcement layer every engineering team works against</li>
+<li>Threat models and security architecture for agentic product surfaces — code execution sandboxing, agent identity and delegated auth, tool-use boundaries</li>
+</ul>
+</div><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
 <p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$320,000</span><span class="divider">&mdash;</span><span>$485,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
