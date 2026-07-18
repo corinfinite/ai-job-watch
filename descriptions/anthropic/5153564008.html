@@ -16,7 +16,7 @@
 <ul>
 <li>Standing up a prototype high-assurance research cluster: running real Anthropic training and research workloads under extreme isolation and physical security controls, and finding out exactly where productivity breaks and what we'd need to invent to get it back</li>
 <li>Provable inference: cryptographic verification (zero-knowledge proofs, attestation chains) that a given output came from a specific model running specific code, replacing "trust us" with math</li>
-<li>Swapping our container runtime for a hypervisor-isolated microVM substrate across the fleet, so a compromised host can't touch workload integrity</li>
+<li>Shaping hypervisor-level workload isolation across our fleet, using microVM substrates in place of coarser runtime boundaries</li>
 <li>Compiling an ML kernel through a formally verified pipeline where every lowering step carries a machine-checked proof of equivalence, making compilation-layer sabotage mathematically detectable</li>
 <li>Regenerating clusters: automation that spins up a purpose-built cell, runs a workload, and tears the whole thing down on a TTL measured in hours, so attacker persistence has an expiry date</li>
 <li>Using Claude itself to drive security work end to end: threat modeling new compute platforms, rewriting critical services to zero external dependencies, running the test equipment that validates what hardware datasheets claim</li>
