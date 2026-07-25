@@ -1,41 +1,84 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
-<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role:</strong></h2>
-<p><a href="https://www.anthropic.com/research/building-effective-agents">Agentic systems</a> are becoming an increasingly important part of how AI is deployed.&nbsp; Over the last year, we’ve seen rapid adoption of Claude-powered agentic systems in spaces like coding, research, customer support, network security, and more. We believe this is just the beginning, and we expect Claude to be handling much more complex tasks end-to-end or in cooperation with a human user as time goes on.&nbsp; We have a team striving to make Claude an even more effective agent over longer time horizon tasks, and coordinate with groups of other agents at many different scales to accomplish large tasks. This team endeavors to maximize agent performance by solving challenges at whatever level is needed, whether it’s novel harness design, improved agent affordances and infrastructure, or finetuning.</p>
-<p>Given that this is a nascent field, we ask that you share with us a project built on LLMs that showcases your skill at getting them to do complex tasks. Here are some example projects of interest: design of complex agents, quantitative experiments with prompting, constructing model benchmarks, synthetic data generation, or model finetuning. There is no preferred task; we just want to see what you can build. It’s fine if several people worked on it; simply share what part of it was your contribution. You can also include a short description of the process you used or any roadblocks you hit and how to deal with them, but this is not a requirement.</p>
-<h3><strong>&nbsp;</strong></h3>
-<h3><strong>Responsibilities:</strong></h3>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the role</h2>
+<p>We're looking for a Research Scientist who has done hands-on research on large models (pretraining, fine-tuning, RL, evals, or agents scaffolds) and wants to focus on measuring and understanding recursive-self-improvement. You know what the model-development loop looks like from the inside: which signals matter and where the real bottlenecks are. On this team you'll use that judgment to decide what's worth measuring, design the evaluations and models that measure it, and interpret what the results mean for how fast this is moving.</p>
+<p>&nbsp;</p>
+<p>We're hiring at both junior and senior levels. Senior researchers should be comfortable doing hands-on technical work alongside setting research direction.</p>
+<h2>Responsibilities</h2>
 <ul>
-<li>Ideate, develop, and compare the performance of different agent harnesses&nbsp; (eg memory, context compression, communication architectures for agents)</li>
-<li>Design and implement rigorous quantitative benchmarks for large scale agentic tasks</li>
-<li>Assist with automated evaluation of Claude models and prompts across the training and product lifecycle</li>
-<li>Work with our product org to find solutions to our most vexing challenges applying agents to our products</li>
-<li>Help create and optimize data mixes for model training that maximize Claude’s performance or ease of use on agentic tasks</li>
+<li>
+<p>Identify the signals that track AI R&amp;D acceleration and design the evaluations that measure them</p>
+</li>
+<li>
+<p>Build quantitative models of capability growth and self-improvement dynamics, grounded in evaluation and telemetry data</p>
+</li>
+<li>
+<p>Run experiments and evals to test hypotheses about automation and capability</p>
+</li>
+<li>
+<p>Make opinionated research bets and own the outcome</p>
+</li>
+<li>
+<p>Write graded assessments of what our measurements show, for internal decision-makers and public reporting</p>
+</li>
+<li>
+<p>Collaborate with pretraining, RL, economic research, and policy teams</p>
+</li>
 </ul>
-<h3><strong>You may be a good fit if you:</strong></h3>
+<h2>You may be a good fit if you</h2>
 <ul>
-<li>Have experience developing complex agentic systems using LLMs</li>
-<li>Have significant software engineering and ML experience</li>
-<li>Have spent time prompting and/or building products with language models</li>
-<li>Have good communication skills and an interest in working with other researchers on difficult tasks</li>
-<li>Have a passion for making powerful technology safe and societally beneficial</li>
-<li>Stay up-to-date and informed by taking an active interest in emerging research and industry trends.</li>
-<li>Enjoy pair programming (we love to pair!)</li>
+<li>
+<p>Have done hands-on research on large language models: pretraining, fine-tuning, RL, evals, or agent systems</p>
+</li>
+<li>
+<p>Have strong quantitative instincts, are comfortable with quantitative modeling and reasoning</p>
+</li>
+<li>
+<p>Have experience in forecasting, may have published AI forecasting scenarios</p>
+</li>
+<li>
+<p>Can design an evaluation from a vague question and defend the methodology</p>
+</li>
+<li>
+<p>Write clearly and calibrate: state confidence, name what would change your conclusion</p>
+</li>
+<li>
+<p>Are motivated by impact: comfortable with work whose output is graded assessments and system-card sections more often than papers</p>
+</li>
+<li>
+<p>Care about AI safety and think carefully about where rapid capability growth leads</p>
+</li>
 </ul>
-<h3><strong>Strong candidates may also have experience with:</strong></h3>
+<h2>Strong candidates may also have</h2>
 <ul>
-<li>Large-scale RL on language models</li>
-<li>Multi-agent systems</li>
+<li>
+<p>Trained or RL'd frontier models hands-on</p>
+</li>
+<li>
+<p>Experience with scaling laws, capability forecasting, or emergent-capability studies</p>
+</li>
+<li>
+<p>A physics, applied-math, or similarly quantitative background that moved into ML</p>
+</li>
+<li>
+<p>Written a system card section, capability report, or methodology document that others cite</p>
+</li>
+<li>
+<p>Experience supervising and correcting AI-written code</p>
+</li>
 </ul>
-<h3><strong>Representative projects:</strong></h3>
+<h2>Some examples of our work</h2>
 <ul>
-<li>Design and build a novel agent harness that outperforms existing agents on coding or knowledge work benchmarks</li>
-<li>Design and build agent affordances that unlock new capabilities for internal use and deployed products</li>
-<li>Design and build a novel eval that measures how many agents interact in groups to solve problems</li>
-<li>Build a scaled model evaluation framework driven by model-based evaluation techniques.</li>
-<li>Build the prompting and model orchestration for a production application backed by a language model</li>
-<li>Finetune Claude to maximize its performance using a particular set of agent tools or harness</li>
+<li>
+<p>Anthropic ECI:&nbsp; our adaptation of Epoch Capabilities Index published in all recent system cards to measure capability acceleration</p>
+</li>
+<li>
+<p>AI R&amp;D capability assessments in the Claude system cards</p>
+</li>
+<li>
+<p><a href="https://www.anthropic.com/institute/recursive-self-improvement" target="_blank">When AI Builds Itself</a>: all data in the article comes from our team</p>
+</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
-<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$500,000</span><span class="divider">&mdash;</span><span>$850,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$350,000</span><span class="divider">&mdash;</span><span>$850,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
 <p><strong>Minimum years of experience: </strong>Years of experience required will correlate with the internal job level requirements for the position</p>
