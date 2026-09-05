@@ -1,34 +1,35 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
-<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2>
-<p>We are seeking a Strategic Finance Lead to own the operating P&amp;L for Anthropic's datacenter infrastructure partnerships. This role will be the finance owner for every site covering lease, power and operations.</p>
-<p>In this role, you will be a key partner to our infrastructure teams, providing financial expertise and guidance to keep our sites on budget, drive operating costs down, and de-risk our largest infrastructure exposures. You will own the near-term forecast for datacenter spend, run budget-vs-actual on projects, and serve as the primary finance counterpart to our datacenter operating partners.</p>
-<h2><strong>Key responsibilities:</strong></h2>
-<p><strong><em>Strategic Projects</em></strong></p>
+<p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the role</h2>
+<p>Prompts spec out what Claude does. Evals measure whether it did. The Product Prompt and Eval Design team does both for product design: the system prompt that greets a new user, the tool descriptions that decide whether Claude searches, the instructions that keep a slide deck from tipping into slop, and the evals that test all of it. The point is to keep the model and the product aligned with what users expect, what the product strategy calls for, and what safety requires, on every surface and through every model launch.</p>
+<p>This role is a foundational member of that work on the eval side: building the evals that check the prompts, the harness that runs them, and the tools that let designers do this work themselves. It sits on the Product Prompt and Eval Design team in Product Design, works day to day with the team's surface owners and the engineers in each product team, and pairs per surface with the prompt engineering team at model releases.</p>
+<h2>Key responsibilities</h2>
 <ul>
-<li class="whitespace-normal break-words pl-2">Lead financial analysis for site-level optimization initiatives and operating model decisions</li>
-<li class="whitespace-normal break-words pl-2">Handle operational finance asks tied to datacenter partners and live sites</li>
-<li class="whitespace-normal break-words pl-2">Partner with the Datacenter Expansion lead on deal-to-operations handoffs, ensuring budgets set at signing are operationalized at commissioning</li>
+<li>Write and revise the prompts behind Claude's tools, features, and behaviors on a product surface; test the surface, turn findings into prompt fixes, ship them, and confirm the prompt users get is the one intended</li>
+<li>Build the graders that prove a prompt fix and rerun on the next model; turn designers' hand-run rubrics into automated evals, then read transcripts for what the eval missed</li>
+<li>Build visual, low-code eval tools designers can use without an engineer: assemble a comparison set from real transcripts, turn a plain-English rubric into a grader, compare prompt variants across models side by side, and read results in the tool rather than a notebook</li>
+<li>Watch designers use those tools and make them simpler</li>
+<li>Support model releases: test each surface against the new model, write prompt fixes and migrations, and write prompts for features launching with it, so the surface owner's call has numbers behind it</li>
+<li>Stand up and scale the eval harness: build the test environment that exercises our 50 to 100 tools with trustworthy settings, keep evals green across models, and call whether a regression is the harness or the model</li>
+<li>Package what prompting can't fix for training, with the eval attached: graders for crisp behaviors, human-feedback questions and good/bad pairs for fuzzy ones like writing quality</li>
 </ul>
-<h2><strong>Minimum qualifications</strong></h2>
+<h2>Minimum qualifications</h2>
 <ul>
-<li class="whitespace-normal break-words pl-2">Experience in strategic finance, infrastructure investment, FP&amp;A, private equity, consulting, or investment banking, preferably with datacenter, energy, real estate, telco, or managed-services infrastructure experience</li>
-<li class="whitespace-normal break-words pl-2">Owned an infrastructure operating P&amp;L and driven cost-out programs against it</li>
-<li class="whitespace-normal break-words pl-2">Exceptional analytical skills with an ability to synthesize data into compelling insights and develop complex financial operating models</li>
-<li class="whitespace-normal break-words pl-2">Comfort being the finance person in the partner/vendor room and partnering with technical operating teams</li>
-<li class="whitespace-normal break-words pl-2">Bias towards action, strong work ethic, and experience driving operational outcomes under tight timelines</li>
-<li class="whitespace-normal break-words pl-2">Strong relationship building, business judgment, process management, and communication skills</li>
-<li class="whitespace-normal break-words pl-2">Passion for Anthropic's mission to build safe, transformative AI systems</li>
+<li>Production-quality Python</li>
+<li>Experience building and maintaining evaluation pipelines for LLM products: graders, rubrics, comparison sets, regression suites, and the plumbing that runs them across models</li>
+<li>Experience building internal tools with a real interface for people who do not write code</li>
+<li>Experience standing up test harnesses, sandboxing tool calls, and pinning the settings that make runs comparable</li>
+<li>Experience shipping prompts, or working closely with people who do, and understanding why a prompt that works on one model fails on the next</li>
+<li>Reads transcripts, not only scores</li>
 </ul>
-<h2><strong>Preferred qualifications</strong></h2>
+<h2>Preferred qualifications</h2>
 <ul>
-<li class="whitespace-normal break-words pl-2">7+ years of experience in strategic finance, infrastructure investment, FP&amp;A, private equity, consulting, or investment banking</li>
-<li class="whitespace-normal break-words pl-2">Direct experience with datacenter, colocation, or power (PPA / energy procurement) economics and contract structures</li>
-<li class="whitespace-normal break-words pl-2">Experience managing finance cadence with a third-party operator or managed-services provider</li>
-<li class="whitespace-normal break-words pl-2">Background in AI, ML, or high-performance, large-scale computing infrastructure</li>
-<li class="whitespace-normal break-words pl-2">Proficiency with financial modeling tools and languages (SQL, Python, Excel)</li>
-<li class="whitespace-normal break-words pl-2">MBA or other advanced degree in finance, economics, or business</li>
+<li>Has worked inside a model-launch cycle</li>
+<li>A/B testing experience and the ability to connect offline evals to online outcomes</li>
+<li>Front-end or notebook-to-app experience, and opinions about what makes an eval result legible at a glance</li>
+<li>Has turned product rubrics into training signal: graders, human-feedback questions, or preference pairs</li>
+<li>Cares how Claude behaves for the people using it, not only whether the metric moved</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
-<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$240,000</span><span class="divider">&mdash;</span><span>$325,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$305,000</span><span class="divider">&mdash;</span><span>$385,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
 <p><strong>Minimum years of experience: </strong>Years of experience required will correlate with the internal job level requirements for the position</p>
