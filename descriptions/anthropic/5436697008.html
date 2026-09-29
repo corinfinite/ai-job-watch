@@ -1,36 +1,36 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
 <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the role</h2>
-<p>You will play a critical role in scaling our revenue by managing complex deals and developing standardized processes that balance speed with control. You'll work at the intersection of finance, sales, and legal teams to ensure our products reach customers to support Anthropic's rapid growth while maintaining the financial discipline and risk management practices essential for a frontier AI company. You'll have the opportunity to build scalable processes from the ground up and directly impact some of our most strategic customer relationships.</p>
+<p>The Cloud Inference team scales and optimizes Claude to serve the massive audiences of developers and enterprise companies across AWS, GCP, Azure, and future cloud service providers (CSPs). We own the end-to-end product of Claude on each cloud platform, from API integration and intelligent request routing to inference execution, capacity management, and day-to-day operations.</p>
+<p>Within Cloud Inference, the model &amp; inference launch team owns the validation pipeline for our inference server and load balancer on these platforms. We're responsible for every inference change — model launches, performance improvements, safeguard integrations — landing on cloud platforms with correctness, performance, and reliability intact.</p>
+<p>This is high-leverage infrastructure work: validation has to be fast and cheap enough to run on the same accelerators that serve customers, trustworthy enough to replace manual checks, and consistent enough that a change working on Anthropic first-party means it works everywhere. This directly determines how fast frontier models and features ship to every cloud platform, and how quickly performance wins reach production — reclaiming capacity at a time when compute is our scarcest resource.</p>
 <h2>Key responsibilities</h2>
 <ul>
-<li>Financial Analysis: Conduct growth and margin analysis, discount impact assessment, and deal profitability modeling to support data-driven decision making</li>
-<li>Deal Structure Optimization: Collaborate with sales teams to structure deals that meet customer needs while protecting Anthropic's financial and strategic interests</li>
-<li>Deal Review and Approval Management: Review and analyze enterprise deals exceeding standard parameters, focusing on pricing structures, contract terms, and financial implications</li>
-<li>Cross-Functional Coordination: Serve as the primary liaison between sales, finance, legal, and compliance teams throughout the deal lifecycle, ensuring smooth coordination and timely approvals</li>
-<li>Risk Assessment: Evaluate potential risks in non-standard deal terms and escalate appropriately to senior stakeholders</li>
-<li>Policy Implementation: Help develop and maintain deal approval policies, pricing guidelines, and exception handling procedures aligned with company objectives</li>
-<li>Process Development: Create and refine approval workflows, escalation procedures, and standardized templates that enable efficient processing of complex deals while maintaining appropriate controls</li>
-<li>Documentation and Reporting: Maintain comprehensive deal documentation and provide regular reporting on deal strategy metrics, trends, and performance</li>
+<li>Be on the critical path for frontier model launches, bringing up inference for new model architectures and shipping them to cloud platforms in lockstep with our first-party platform</li>
+<li>Work with the core inference team to bring new inference features (e.g. structured sampling, prompt caching, and more) to cloud platforms, owning the platform-specific integration that gets them to production</li>
+<li>Identify and dive deep on the gaps that make inference behave differently across first-party and CSPs — config drift, observability, deployment patterns, hard cross-platform bugs — and fix them at the source rather than building platform-specific workarounds</li>
+<li>Design, build, and own the CI/CD infrastructure for the inference server and load balancer across cloud platforms, with shadow traffic, performance baselines (throughput and latency), and correctness checks that catch regressions before production</li>
+<li>Drive down merge-to-production cycle time by making validation faster, more parallel, and cost-effective enough to run on the same constrained accelerator pool that serves customers, without trading away reliability&nbsp;</li>
+<li>Analyze observability data across providers to identify performance bottlenecks, cost anomalies, and regressions, and drive remediation based on real-world production workloads</li>
 </ul>
 <h2>Minimum qualifications</h2>
 <ul>
-<li>Experience in deal strategy, deal desk, finance, sales strategy and operations, or related analytical roles, preferably in a high-growth technology environment</li>
-<li>Possess hands-on experience building sophisticated financial models, conducting pricing optimization, and structuring complex deals</li>
-<li>Have excellent communication and stakeholder management abilities, with proven success coordinating across multiple departments</li>
-<li>Are detail-oriented with strong process improvement instincts and the ability to design scalable workflows</li>
-<li>Have experience with CRM systems, CPQ tools, and contract management platforms</li>
-<li>Can work effectively in fast-paced, ambiguous environments while maintaining accuracy and attention to detail</li>
-<li>Have a collaborative mindset and enjoy solving complex problems through cross-functional partnership</li>
+<li>Have a strong interest in LLM serving; prior inference or ML experience is not required&nbsp;</li>
+<li>Have significant software engineering experience, with a strong background in high-performance, large-scale distributed systems serving millions of users</li>
+<li>Have a track record of building automation or test infrastructure that measurably improved release velocity or reliability</li>
+<li>Have experience building or operating services on at least one major cloud platform (AWS, GCP, or Azure), with exposure to Kubernetes, Infrastructure as Code, or container orchestration</li>
+<li>Thrive in cross-functional collaboration with both internal teams and external partners</li>
+<li>Are a fast learner who can quickly ramp up on new technologies, hardware platforms, and provider ecosystems</li>
+<li>Are highly autonomous and take ownership of problems end-to-end, including work that falls outside your job description</li>
 </ul>
 <h2>Preferred qualifications</h2>
 <ul>
-<li>Have 5+ years of relevant experience</li>
-<li>Experience at a SaaS, cloud, or AI/ML company with complex enterprise sales cycles</li>
-<li>Background in consulting, investment banking, or other roles requiring deep analytical and strategic thinking</li>
-<li>Experience with deal desk operations at companies with subscription and consumption-based business models</li>
-<li>Knowledge of enterprise software contract terms and industry-standard commercial practices</li>
-<li>Understanding of AI business models and the unique commercial considerations</li>
-</ul><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<li>LLM inference optimization, batching, and caching strategies</li>
+<li>Capacity-constrained scheduling or shared-resource test infrastructure</li>
+<li>Solid understanding of multi-region deployments, request routing, load balancing, global traffic management</li>
+<li>Working with CSP partner teams to scale infrastructure across multiple platforms, navigating differences in networking, security, privacy, and managed service</li>
+<li>Proficiency in Python or Rust</li>
+</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$320,000</span><span class="divider">&mdash;</span><span>$485,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
 <p><strong>Minimum years of experience: </strong>Years of experience required will correlate with the internal job level requirements for the position</p>
