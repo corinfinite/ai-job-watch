@@ -1,39 +1,44 @@
 <div class="content-intro"><h2><strong>About Anthropic</strong></h2>
 <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the role</h2>
-<p>Reinforcement learning (RL) is how Claude learns to reason, write code, and act autonomously over long horizons. This role sits on the team that builds and owns the RL training system: the system that trains our production models and that researchers across Anthropic run their experiments on. The team works closely with research teams across the company on the science and engineering of making RL work at scale.</p>
-<p>As a Research Engineer on the team, you'll work at the center of RL at Anthropic. You'll have a direct view of how RL training behaves at the frontier because the system you own sits underneath both production and research runs. ou willl use it with collaborators across research teams to understand what is working, what is fragile, and where the next improvements are.</p>
+<p>Reinforcement learning is how Claude learns to reason, write code, and act autonomously over long horizons. The RL Scaling team works on how RL scales: what happens to throughput, stability, and learning efficiency as models get larger, episodes get longer, and compute grows by orders of magnitude, and what has to change in our algorithms and systems to keep getting returns from that scale.</p>
+<p>This role sits squarely across research and engineering. You'll develop next-generation architectures and RL algorithms, take them from a small-scale result to a frontier-scale run, and understand every place they behave differently along the way. You'll build the systems that set how fast the team can iterate: how many experiments, at what scale, and how quickly we can trust the results. And you'll work on Anthropic's largest and fastest RL runs, where the gap between a good idea and a working one is often a problem no one has solved yet.</p>
 <h2>Key responsibilities</h2>
 <ul>
-<li>Build, own, and improve the core RL training system that serves Anthropic's production and research runs</li>
-<li>Work across the stack (orchestration, environments, training, inference, evaluation) wherever the system needs it</li>
-<li>Study how RL training behaves at scale and contribute to the research that improves it, in collaboration with teams across Anthropic</li>
-<li>Implement new training methods as stable, fast, well-tested code</li>
-<li>Improve the speed and efficiency of RL training and evaluation through profiling, optimization, and benchmarking</li>
-<li>Make the system easier for researchers to build on, through clean abstractions, clear APIs, and automated testing</li>
-<li>Debug hard problems across the stack, from a run that has quietly drifted to a distributed systems failure that only shows up at scale</li>
-<li>Communicate results clearly, in writing and in discussion</li>
+<li>Study how RL training and sampling scale with model size, context length, and compute, and find the algorithmic and systems changes that keep scaling efficient</li>
+<li>Develop next-generation model architectures and RL algorithms, and make them run efficiently at frontier scale</li>
+<li>Take promising small-scale results to frontier-scale runs, and diagnose why they behave differently when they get there, whether the cause is numerical, algorithmic, or systemic</li>
+<li>Build the experimental infrastructure that sets research velocity: fast, reproducible comparisons of architecture and algorithm variants at meaningful scale</li>
+<li>Own end-to-end performance of our largest RL runs, from research code down to the hardware</li>
+<li>Build performance and cost models for proposed architecture and algorithm changes, and use them to decide which ideas get scaled</li>
+<li>Investigate training dynamics at scale, including instabilities, divergence, and throughput regressions, and trace them to root cause</li>
 </ul>
 <h2>Minimum qualifications</h2>
 <ul>
-<li>Proficiency in Python and experience working in, debugging, and improving a large ML codebase</li>
-<li>Experience with large-scale machine learning training (reinforcement learning, pretraining, or post-training) or the systems that support it</li>
-<li>Experience with at least one modern ML framework (JAX, PyTorch, or similar)</li>
-<li>Ability to design controlled experiments and reach conclusions you and others can trust</li>
-<li>Ability to balance research exploration with engineering implementation</li>
-<li>Strong written and verbal communication skills</li>
-<li>Care about the societal impacts of your work and are committed to developing safe and beneficial systems</li>
+<li>Deep familiarity with modern transformer language models, including their architecture, training dynamics, and the behavior of large-scale optimization</li>
+<li>Hands-on experience training large models in a distributed setting, including the tradeoffs between data, tensor, and pipeline parallelism</li>
+<li>A track record of original technical work in ML training or systems, such as new methods, architectures, or optimizations, demonstrated through research, open-source, or production impact</li>
+<li>Ability to design rigorous experiments at scale, including baselines, ablations, and enough statistical care to trust a result that costs real compute</li>
+<li>Ability to reason quantitatively about the compute, memory, and communication costs of a model or algorithm</li>
+<li>Strong programming skills in Python and JAX or PyTorch, and comfort reading and changing code at every layer of the stack</li>
 </ul>
 <h2>Preferred qualifications</h2>
 <ul>
-<li>Experience with reinforcement learning for large language models, in research, production, or both</li>
-<li>Experience studying training at scale: scaling behavior, training dynamics, or method development on large models</li>
-<li>Experience with large-scale distributed training systems</li>
-<li>Familiarity with LLM architectures and training methodologies</li>
-<li>Experience working close to a frontier training run</li>
-<li>Experience profiling and optimizing the performance of ML workloads</li>
-<li>Experience with RL environments, evaluations, or sandboxed code execution</li>
-<li>Experience with Rust or C++</li>
-<li>Enjoy pair programming (we love to pair!)</li>
+<li>Research experience in reinforcement learning, optimization, or large-scale training, published or otherwise</li>
+<li>Experience developing RL algorithms for language models</li>
+<li>Experience with scaling laws or other quantitative models of training efficiency</li>
+<li>Experience designing or modifying transformer architectures beyond standard configurations</li>
+<li>Experience scaling training to large fleets of accelerators and debugging the problems that only appear at scale</li>
+<li>Deep understanding of numerics in large-scale training, including low-precision formats and sources of instability</li>
+<li>Familiarity with how GPU or TPU performance characteristics shape architecture and algorithm choices</li>
+<li>Experience with C++ or Rust</li>
+</ul>
+<h2>Representative projects</h2>
+<ul>
+<li>Characterize how a new RL algorithm's throughput and learning efficiency change from small models to frontier scale, and fix what breaks</li>
+<li>Develop a new attention variant, get it working at full scale, and measure how its quality and throughput compare to the baseline</li>
+<li>Prepare our next largest-ever RL run: find what breaks when model size, context length, and compute all grow at once, and fix it before launch</li>
+<li>Trace a loss instability that only appears past a certain scale to its root cause, and work out whether the fix belongs in the algorithm, the numerics, or the system</li>
+<li>Build a model that predicts the throughput and cost of a proposed architecture change before anyone writes the kernel</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
 <p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$500,000</span><span class="divider">&mdash;</span><span>$850,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
